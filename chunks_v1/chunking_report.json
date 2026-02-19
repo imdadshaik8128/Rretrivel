@@ -1,0 +1,49 @@
+{
+  "total_chunks": 1992,
+  "files": [
+    {
+      "file": "Biology.md",
+      "chunks": 450,
+      "output": "chunks\\Biology_chunks.json"
+    },
+    {
+      "file": "Economics.md",
+      "chunks": 202,
+      "output": "chunks\\Economics_chunks.json"
+    },
+    {
+      "file": "Geography.md",
+      "chunks": 171,
+      "output": "chunks\\Geography_chunks.json"
+    },
+    {
+      "file": "History.md",
+      "chunks": 243,
+      "output": "chunks\\History_chunks.json"
+    },
+    {
+      "file": "Maths_sem_1.md",
+      "chunks": 253,
+      "output": "chunks\\Maths_sem_1_chunks.json"
+    },
+    {
+      "file": "Maths_sem_2.md",
+      "chunks": 226,
+      "output": "chunks\\Maths_sem_2_chunks.json"
+    },
+    {
+      "file": "Physics.md",
+      "chunks": 321,
+      "output": "chunks\\Physics_chunks.json"
+    },
+    {
+      "file": "Social_political.md",
+      "chunks": 126,
+      "output": "chunks\\Social_political_chunks.json"
+    }
+  ],
+  "config": {
+    "min_tokens": 80,
+    "max_tokens": 512
+  }
+}
