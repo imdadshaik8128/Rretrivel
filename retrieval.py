@@ -9,7 +9,7 @@ Setup:
 
 Run (single query):
     python retrieval.py --query "What is Newton's third law?"
-    python retrieval.py --query "photosynthesis steps" --subject Biology
+        
 """
 
 import argparse
