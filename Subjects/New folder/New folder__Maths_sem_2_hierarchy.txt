@@ -1,0 +1,104 @@
+# chapter 8
+# INTRODUCTION TO TRIGONOMETRY
+    ### 8.1 Introduction
+    ### 8.2 Trigonometric Ratios
+  ## EXERCISE 8.1
+    ### 8.3 Trigonometric Ratios of Some Specific Angles
+  ## Trigonometric Ratios of $4 5 ^ { \circ }$
+  ## Trigonometric Ratios of $3 0 ^ { \circ }$ and ${ \bf 6 0 } ^ { \circ }$
+  ## Trigonometric Ratios of ${ \bf 0 } ^ { \circ }$ and $9 0 ^ { \circ }$
+  ## EXERCISE 8.2
+    ### 8.4 Trigonometric Identities
+  ## Solution :
+  ## EXERCISE 8.3
+    ### 8.5 Summary
+# chapter 9
+# SOME APPLICATIONS OF TRIGONOMETRY
+    ### 9.1 Heights and Distances
+  ## EXERCISE 9.1
+    ### 9.2 Summary
+# chapter 10
+# CIRCLES
+    ### 10.1 Introduction
+    ### 10.2 Tangent to a Circle
+  ## Remarks
+  ## EXERCISE 10.1
+    ### 10.3 Number of Tangents from a Point on a Circle
+  ## Remarks
+  ## EXERCISE 10.2
+    ### 10.4 Summary
+# chapter 11
+# AREAS RELATED TO CIRCLES
+    ### 11.1 Areas of Sector and Segment of a Circle
+  ## EXERCISE 11.1
+    ### 11.2 Summary
+# chapter 12
+# SURFACE AREAS AND VOLUMES
+    ### 12.1 Introduction
+    ### 12.2 Surface Area of a Combination of Solids
+  ## EXERCISE 12.1
+    ### 12.3 Volume of a Combination of Solids
+  ## EXERCISE 12.2
+    ### 12.4 Summary
+# chapter 13
+# STATISTICS
+    ### 13.1 Introduction
+    ### 13.2 Mean of Grouped Data
+  ## EXERCISE 13.1
+    ### 13.3 Mode of Grouped Data
+  ## Remarks :
+  ## EXERCISE 13.2
+    ### 13.4 Median of Grouped Data
+  ## Solution :
+  ## Remarks :
+  ## EXERCISE 13.3
+    ### 13.5 Summary
+  ## A NOTE TO THE READER
+# chapter 15
+# PROBABILITY
+  ## 14
+    ### 14.1 Probability — A Theoretical Approach
+  ## Remarks :
+  ## Let us answer (i) :
+  ## Let us answer (ii) :
+  ## EXERCISE 14.1
+    ### 14.2 Summary
+  ## A NOTE TO THE READER
+  ## MATHEMATICAL MODELLIN
+  ## A2G
+  ## A2.1 Introduction
+  ## A2.2 Stages in Mathematical Modelling
+  ## EXERCISE A2.1
+  ## 1. Consider the following situation.
+  ## A2.3 Some Illustrations
+  ## Solution :
+  ## Solution :
+  ## EXERCISE A2.2
+  ## A2.4 Why is Mathematical Modelling Important?
+  ## EXERCISE A2.3
+  ## A2.5 Summary
+  ## ANSWERS/HINTS
+  ## EXERCISE 8.1
+  ## EXERCISE 8.2
+  ## EXERCISE 8.3
+  ## EXERCISE 9.1
+  ## EXERCISE 10.1
+  ## EXERCISE 10.2
+  ## EXERCISE 11.1
+  ## EXERCISE 12.1
+  ## EXERCISE 12.2
+  ## EXERCISE 13.1
+  ## EXERCISE 13.2
+  ## EXERCISE 13.3
+  ## EXERCISE 14.1
+  ## EXERCISE A2.2
+  ## EXERCISE A2.3
+# Suggested Pedagogical Processes
+# Learning Outcomes
+# The learners may be provided with opportunities individually or in groups and encouraged to—
+# The learner—
+# Suggested Pedagogical Processes in an Inclusive Setup
+# FUNDAMENTALDUTIES
+# Fundamental duties:It shall be the duty of every citizen of India-
+# Right of Children to Free and Compulsory Education (RTE) Act, 2009
+# Important provisions of RTE Act

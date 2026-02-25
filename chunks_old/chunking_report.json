@@ -1,0 +1,76 @@
+{
+  "total_chunks": 1662,
+  "total_theory": 1228,
+  "total_exercise": 283,
+  "total_activity": 151,
+  "files": [
+    {
+      "file": "Biology.md",
+      "chunks": 391,
+      "theory": 316,
+      "exercise": 49,
+      "activity": 26,
+      "output": "chunks\\Biology_chunks.json"
+    },
+    {
+      "file": "Economics.md",
+      "chunks": 182,
+      "theory": 132,
+      "exercise": 47,
+      "activity": 3,
+      "output": "chunks\\Economics_chunks.json"
+    },
+    {
+      "file": "Geography.md",
+      "chunks": 147,
+      "theory": 135,
+      "exercise": 6,
+      "activity": 6,
+      "output": "chunks\\Geography_chunks.json"
+    },
+    {
+      "file": "History.md",
+      "chunks": 222,
+      "theory": 165,
+      "exercise": 31,
+      "activity": 26,
+      "output": "chunks\\History_chunks.json"
+    },
+    {
+      "file": "Maths_sem_1.md",
+      "chunks": 188,
+      "theory": 119,
+      "exercise": 69,
+      "activity": 0,
+      "output": "chunks\\Maths_sem_1_chunks.json"
+    },
+    {
+      "file": "Maths_sem_2.md",
+      "chunks": 160,
+      "theory": 113,
+      "exercise": 47,
+      "activity": 0,
+      "output": "chunks\\Maths_sem_2_chunks.json"
+    },
+    {
+      "file": "Physics.md",
+      "chunks": 275,
+      "theory": 154,
+      "exercise": 31,
+      "activity": 90,
+      "output": "chunks\\Physics_chunks.json"
+    },
+    {
+      "file": "Social_political.md",
+      "chunks": 97,
+      "theory": 94,
+      "exercise": 3,
+      "activity": 0,
+      "output": "chunks\\Social_political_chunks.json"
+    }
+  ],
+  "config": {
+    "min_tokens": 80,
+    "max_tokens": 512
+  }
+}

@@ -2,20 +2,13 @@
 # Chapter 1
 # Chemical Reactions and Equations
 
-consider the following situations of daily Clife and think what happens when -
-
-milk is left at room temperature during summers.   
-an iron tawa/pan/nail is left exposed to humid atmosphere.   
-grapes get fermented.   
-. food is cooked.   
-food gets digested in our body.   
-we respire.
+consider the following situations of daily Clife and think what happens when - milk is left at room temperature during summers.an iron tawa/pan nail is left exposed to humid atmosphere.grapes get fermented.food is cooked.food gets digested in our body. we respire.
 
 In all the above situations, the nature and the identity of the initial substance have somewhat changed. We have already learnt about physical and chemical changes of matter in our previous classes. Whenever a chemical change occurs, we can say that a chemical reaction has taken place.
 
 You may perhaps be wondering as to what is actually meant by a chemical reaction. How do we come to know that a chemical reaction has taken place? Let us perform some activities to find the answer to these questions.
 
-### Activity 1.1
+## Activity 1.1
 
 CAUTION: This Activity needs the teacher’s assistance. It would be better if students wear suitable eyeglasses.
 
@@ -29,13 +22,13 @@ Burning of a magnesium ribbon in air and collection of magnesium oxide in a watc
 
 You must have observed that magnesium ribbon burns with a dazzling white flame and changes into a white powder. This powder is magnesium oxide. It is formed due to the reaction between magnesium and oxygen present in the air.
 
-### Activity 1.2
+## Activity 1.2
 
 ■ Take lead nitrate solution in a test tube.   
 ■ Add potassium iodide solution to this.   
 ■ What do you observe?
 
-### Activity 1.3
+## Activity 1.3
 
 Take a few zinc granules in a conical flask or a test tube.   
 ■ Add dilute hydrochloric acid or sulphuric acid to this (Fig. 1.2).
@@ -49,7 +42,6 @@ Touch the conical flask or test tube. Is there any change in its temperature?
 Figure 1.2 Formation of hydrogen gas by the action of dilute sulphuric acid on zinc
 
 From the above three activities, we can say that any of the following observations helps us to determine whether a chemical reaction has taken place –
-
 change in state   
 change in colour   
 evolution of a gas   
@@ -57,7 +49,7 @@ change in temperature.
 
 As we observe the changes around us, we can see that there is a large variety of chemical reactions taking place around us. We will study about the various types of chemical reactions and their symbolic representation in this Chapter.
 
-### 1.1 CHEMICALEQUATIONS
+## 1.1 CHEMICALEQUATIONS
 
 Activity 1.1 can be described as – when a magnesium ribbon is burnt in oxygen, it gets converted to magnesium oxide. This description of a chemical reaction in a sentence form is quite long. It can be written in a shorter form. The simplest way to do this is to write it in the form of a word-equation.
 
@@ -69,7 +61,7 @@ Magnesium + Oxygen®Magnesium oxide
 
 The substances that undergo chemical change in the reaction (1.1), magnesium and oxygen, are the reactants. The new substance is magnesium oxide, formed during the reaction, as a product. A word-equation shows change of reactants to products through an arrow placed between them. The reactants are written on the left-hand side (LHS) with a plus sign $( + )$ between them. Similarly, products are written on the right-hand side (RHS) with a plus sign $( + )$ between them. The arrowhead points towards the products, and shows the direction of the reaction.
 
-#### 1.1.1 Writing a Chemical Equation
+### 1.1.1 Writing a Chemical Equation
 
 Is there any other shorter way for representing chemical equations? Chemical equations can be made more concise and useful if we use chemical formulae instead of words. A chemical equation represents a chemical reaction. If you recall formulae of magnesium, oxygen and magnesium oxide, the above wordequation can be written as –
 
@@ -79,7 +71,7 @@ $$
 
 Count and compare the number of atoms of each element on the LHS and RHS of the arrow. Is the number of atoms of each element the same on both the sides? If yes, then the equation is balanced. If not, then the equation is unbalanced because the mass is not the same on both sides of the equation. Such a chemical equation is a skeletal chemical equation for a reaction. Equation (1.2) is a skeletal chemical equation for the burning of magnesium in air.
 
-#### 1.1.2 Balanced Chemical Equations
+### 1.1.2 Balanced Chemical Equations
 
 Recall the law of conservation of mass that you studied in Class IX; mass can neither be created nor destroyed in a chemical reaction. That is, the total mass of the elements present in the products of a chemical reaction has to be equal to the total mass of the elements present in the reactants.
 
@@ -195,29 +187,27 @@ $$
 
 Using these steps, can you balance Eq. (1.2) given in the text earlier?
 
-## 
+### QUESTIONS
 
 1. Why should a magnesium ribbon be cleaned before burning in air?   
-2. Write the balanced equation for the following chemical reactions.
 
+2. Write the balanced equation for the following chemical reactions.
 (i) Hydrogen $^ +$ Chlorine Hydrogen chloride   
 (ii)Barium chloride $^ +$ Aluminium sulphate Barium sulphate $^ +$ Aluminium chloride   
 (iii)Sodium $^ +$ Water Sodium hydroxide $^ +$ Hydrogen
 
 3. Write a balanced chemical equation with state symbols for the following reactions.
-
 (i) Solutions of barium chloride and sodium sulphate in water react to give insoluble barium sulphate and the solution of sodium chloride.   
 (ii) Sodium hydroxide solution (in water) reacts with hydrochloric acid solution (in water) to produce sodium chloride solution and water.
 
 
-### 1.2 TYPES OFCHEMICALREACTIONS
+## 1.2 TYPES OFCHEMICALREACTIONS
 
 We have learnt in Class IX that during a chemical reaction atoms of one element do not change into those of another element. Nor do atoms disappear from the mixture or appear from elsewhere. Actually, chemical reactions involve the breaking and making of bonds between atoms to produce new substances. You will study about types of bonds formed between atoms in Chapters 3 and 4.
 
-#### 1.2.1 Combination Reaction
+### 1.2.1 Combination Reaction
 
-### Activity 1.4
-
+#### Activity 1.4
 ■ Take a small amount of calcium oxide or quick lime in a beaker.   
 ■ Slowly add water to this.   
 ■ Touch the beaker as shown in Fig. 1.3.   
@@ -237,9 +227,7 @@ $$
 In this reaction, calcium oxide and water combine to form a single product, calcium hydroxide. Such a reaction in which a single product is formed from two or more reactants is known as a combination reaction.
 
 ## Do You Know ?
-
 A solution of slaked lime produced by the reaction 1.13 is used for whitewashing walls. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium carbonate on the walls. Calcium carbonate is formed after two to three days of whitewashing and gives a shiny finish to the walls. It is interesting to note that the chemical formula for marble is also $\mathrm { C a C O } _ { 3 }$ .
-
 $$
 \begin{array}{l}\mathrm {C a (O H)} _ {2} (\mathrm {a q}) + \mathrm {C O} _ {2} (\mathrm {g}) \rightarrow \mathrm {C a C O} _ {3} (\mathrm {s}) + \mathrm {H} _ {2} \mathrm {O} (\mathrm {l})\\(\text {C a l c i u m}) (\text {C a l c i u m})\\\text {h y d r o x i d e}) \quad \text {c a r b o n a t e})\end{array}\tag {1.14}
 $$
@@ -247,13 +235,11 @@ $$
 Let us discuss some more examples of combination reactions.
 
 (I) Burning of coal
-
 $$
 \mathrm {C} (\mathrm {s}) + \mathrm {O} _ {2} (\mathrm {g}) \rightarrow \mathrm {C O} _ {2} (\mathrm {g}) \tag {1.15}
 $$
 
 (ii) Formation of water from $\mathrm { H } _ { 2 } ( \mathrm { g } )$ and $\mathrm { O } _ { 2 } ( \mathrm { g } )$
-
 $$
 2 \mathrm {H} _ {2} (\mathrm {g}) + \mathrm {O} _ {2} (\mathrm {g}) \rightarrow 2 \mathrm {H} _ {2} \mathrm {O} (1) \tag {1.16}
 $$
@@ -261,9 +247,7 @@ $$
 In simple language we can say that when two or more substances (elements or compounds) combine to form a single product, the reactions are called combination reactions.
 
 In Activity 1.4, we also observed that a large amount of heat is evolved. This makes the reaction mixture warm. Reactions in which heat is released along with the formation of products are called exothermic chemical reactions.
-
 Other examples of exothermic reactions are –
-
 (I) Burning of natural gas
 
 $$
@@ -282,9 +266,9 @@ $$
 
 Identify the type of the reaction taking place in Activity 1.1, where heat is given out along with the formation of a single product.
 
-#### 1.2.2 Decomposition Reaction
+### 1.2.2 Decomposition Reaction
 
-### Activity 1.5
+#### Activity 1.5
 
 ■ n Take about $2 \textrm { g }$ ferrous sulphate crystals in a dry boiling tube.   
 ■ Note the colour of the ferrous sulphate crystals.   
@@ -314,7 +298,7 @@ $$
 
 Another example of a thermal decomposition reaction is given in Activity 1.6.
 
-### Activity 1.6
+#### Activity 1.6
 
 ■ Take about $2 \mathrm { g }$ lead nitrate powder in a boiling tube.   
 ■ Hold the boiling tube with a pair of tongs and heat it over a flame, as shown in Fig. 1.5.   
@@ -328,7 +312,7 @@ $$
 
 Let us perform some more decomposition reactions as given in Activities 1.7 and 1.8.
 
-### Activity 1.7
+#### Activity 1.7
 
 n Take a plastic mug. Drill two holes at its base and fit rubber stoppers in these holes. Insert carbon electrodes in these rubber stoppers as shown in Fig. 1.6.   
 ■ Connect these electrodes to a 6 volt battery.   
@@ -348,7 +332,7 @@ What happens in each case?
 ![](images/bd21b027fa259dcde55f9197dbdf4e2d0eade6f4963e8f7f5671ddb1c7babbe0.jpg)  
 Figure 1.6 Electrolysis of water
 
-### Activity 1.8
+#### Activity 1.8
 
 Take about 2 g silver chloride in a china dish.   
 ■ What is its colour?   
@@ -374,7 +358,7 @@ The above reactions are used in black and white photography. What form of energy
 
 We have seen that the decomposition reactions require energy either in the form of heat, light or electricity for breaking down the reactants. Reactions in which energy is absorbed are known as endothermic reactions.
 
-### Carry out the following Activity
+#### Carry out the following Activity
 
 Take about $2 \ \mathrm { g }$ barium hydroxide in a test tube. Add $_ { \mathrm { ~ 1 ~ g ~ } }$ of ammonium chloride and mix with the help of a glass rod. Touch the bottom of the test tube with your palm. What do you feel? Is this an exothermic or endothermic reaction?
 
@@ -385,18 +369,15 @@ Take about $2 \ \mathrm { g }$ barium hydroxide in a test tube. Add $_ { \mathrm
 (i) Name the substance ‘X’ and write its formula.   
 (ii) Write the reaction of the substance ‘X’named in (i) above with water.
 
-2. Why is the amount of gas collected in one of the test tubes in Activity 1.7 double of the amount collected in the other? Name
+2. Why is the amount of gas collected in one of the test tubes in Activity 1.7 double of the amount collected in the other? Name this gas.
 
-this gas.
-
-
-#### 1.2.3 Displacement Reaction
+### 1.2.3 Displacement Reaction
 
 ![](images/8e8820ad39e31f07692c9b48d0df43e3d4c779fe53b165b0deaa03693ac22850.jpg)  
 Figure 1.8   
 (a) Iron nails dipped in copper sulphate solution
 
-### Activity 1.9
+#### Activity 1.9
 
 ■ Take three iron nails and clean them by rubbing with sand paper.   
 ■ Take two test tubes marked as (A) and (B). In each test tube, take about 10 mL copper sulphate solution.   
@@ -430,9 +411,9 @@ $$
 
 Zinc and lead are more reactive elements than copper. They displace copper from its compounds.
 
-#### 1.2.4 Double Displacement Reaction
+### 1.2.4 Double Displacement Reaction
 
-### Activity 1.10
+#### Activity 1.10
 
 Take about $3 ~ \mathrm { m L }$ of sodium sulphate solution in a test tube.   
 ■ In another test tube, take about 3 mL of barium chloride solution.   
@@ -456,9 +437,9 @@ Recall Activity 1.2: where you have mixed the solutions of lead(II) nitrate and 
 (ii) Write the balanced chemical equation for this reaction.   
 (iii) Is this also a double displacement reaction?
 
-#### 1.2.5 Oxidation and Reduction
+### 1.2.5 Oxidation and Reduction
 
-### Activity 1.11
+#### Activity 1.11
 
 Heat a china dish containing about 1 g copper powder (Fig. 1.10).   
 What do you observe?
@@ -504,9 +485,9 @@ From the above examples we can say that if a substance gains oxygen or loses hyd
 
 Recall Activity 1.1: where a magnesium ribbon burns with a dazzling flame in air (oxygen) and changes into a white substance, magnesium oxide. Is magnesium being oxidised or reduced in this reaction?
 
-### 1.3 HAVE YOU OBSERVED THEEFFECTS OFOXIDATION REACTIONSIN EVERYDAYLIFE?
+## 1.3 HAVE YOU OBSERVED THEEFFECTS OFOXIDATION REACTIONSIN EVERYDAYLIFE?
 
-#### 1.3.1 Corrosion
+### 1.3.1 Corrosion
 
 You must have observed that iron articles are shiny when new, but get coated with a reddish brown powder when left for some time. This process is commonly known as rusting of iron. Some other metals also get tarnished in this manner. Have you noticed the colour of the coating formed on copper and silver? When a metal is attacked by substances around it such as moisture, acids, etc., it is said to corrode and this process is called corrosion. The black coating on silver and the green coating on copper are other examples of corrosion.
 
@@ -514,7 +495,7 @@ Corrosion causes damage to car bodies, bridges, iron railings, ships and to all 
 
 year an enormous amount of money is spent to replace damaged iron. You will learn more about corrosion in Chapter 3.
 
-#### 1.3.2 Rancidity
+### 1.3.2 Rancidity
 
 Have you ever tasted or smelt the fat/oil containing food materials left for a long time?
 
@@ -663,11 +644,11 @@ Litmus solution is a purple dye, which is extracted from lichen, a plant belongi
 1. You have been provided with three test tubes. One of them contains distilled water and the other two contain an acidic solution and a basic solution, respectively. If you are given only red litmus paper, how will you identify the contents of each test tube?
 
 
-### 2.1 UNDERSTANDING THE CHEMICALPROPERTIES OFACIDS AND BASES
+## 2.1 UNDERSTANDING THE CHEMICALPROPERTIES OFACIDS AND BASES
 
-#### 2.1.1 Acids and Bases in the Laboratory
+### 2.1.1 Acids and Bases in the Laboratory
 
-### Activity 2.1
+#### Activity 2.1
 
 Collect the following solutions from the science laboratory - hydrochloric acid (HCl), sulphuric acid $\mathrm { ( H } _ { 2 } \mathrm { S O } _ { 4 } )$ nitric acid $\left( \mathrm { H N O } _ { 3 } \right)$ )，acetic acid $( \mathrm { C H } _ { 3 } \mathrm { C O O H } )$ )，sodium hydroxide (NaOH),calcium hydroxide $\left[ \mathrm { C a } ( \mathrm { O H } ) _ { 2 } \right]$ ，potassium hydroxide (KOH),magnesium hydroxide $\mathrm { [ M g ( O H ) _ { 2 } ] }$ , and ammonium hydroxide $\mathrm { ( N H _ { 4 } O H ) }$   
 Put a drop of each of the above solutions on a watch-glass one by one and test with a drop of the indicators shown in Table 2.1.   
@@ -680,7 +661,7 @@ Table 2.1
 
 These indicators tell us whether a substance is acidic or basic by change in colour. There are some substances whose odour changes in acidic or basic media. These are called olfactory indicators. Let us try out some of these indicators.
 
-### Activity 2.2
+#### Activity 2.2
 
 Take some finely chopped onions in a plastic bag along with some strips of clean cloth. Tie up the bag tightly and leave overnight in the fridge. The cloth strips can now be used to test for acids and bases.   
 Take two of these cloth strips and check their odour.   
@@ -696,9 +677,9 @@ Which of these – vanilla, onion and clove, can be used as olfactory indicators
 
 Let us do some more activities to understand the chemical properties of acids and bases.
 
-#### 2.1.2 How do Acids and Bases React with Metals?
+### 2.1.2 How do Acids and Bases React with Metals?
 
-### Activity 2.3
+#### Activity 2.3
 
 CAUTION: teacher's assistance.
 
@@ -721,7 +702,7 @@ Note that the metal in the above reactions displaces hydrogen atoms from the aci
 
 Can you now write the equations for the reactions you have observed?
 
-### Activity 2.4
+#### Activity 2.4
 
 ■ Place a few pieces of granulated zinc metal in a test tube.   
 ■ Add $2 ~ \textrm { m L }$ of sodium hydroxide solution and warm the contents of the test tube.   
@@ -735,9 +716,9 @@ $$
 
 You find again that hydrogen is formed in the reaction. However, such reactions are not possible with all metals.
 
-#### 2.1.3 How do Metal Carbonates and Metal Hydrogencarbonates React with Acids?
+### 2.1.3 How do Metal Carbonates and Metal Hydrogencarbonates React with Acids?
 
-### Activity 2.5
+#### Activity 2.5
 
 ■ Take two test tubes, label them as A and B.   
 ■ Take about $0 . 5 \ \mathrm { g }$ of sodium carbonate $\left( \mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 } \right)$ in test tube A and about $0 . 5 \mathrm { \textrm { g } }$ of sodium hydrogencarbonate $\left( \mathrm { N a H C O } _ { 3 } \right)$ in test tube B.   
@@ -788,9 +769,9 @@ Metal carbonate/Metal hydrogencarbonate +
 
 Acid Salt + Carbon dioxide $+$ Water
 
-#### 2.1.4 How do Acids and Bases React with each other?
+### 2.1.4 How do Acids and Bases React with each other?
 
-### Activity 2.6
+#### Activity 2.6
 
 ■ Take about $2 \textrm { m L }$ of dilute NaOH solution in a test tube and add two drops of phenolphthalein solution.   
 ■ What is the colour of the solution?   
@@ -813,9 +794,9 @@ $$
 \mathrm {B a s e} + \mathrm {A c i d} \rightarrow \mathrm {S a l t} + \mathrm {W a t e r}
 $$
 
-#### 2.1.5 Reaction of Metallic Oxides with Acids
+### 2.1.5 Reaction of Metallic Oxides with Acids
 
-### Activity 2.7
+#### Activity 2.7
 
 ■ Take a small amount of copper oxide in a beaker and add dilute hydrochloric acid slowly while stirring.   
 ■ Note the colour of the solution. What has happened to the copper oxide?
@@ -828,25 +809,25 @@ $$
 
 now write and balance the equation for the above reaction. Since metallic oxides react with acids to give salts and water, similar to the reaction of a base with an acid, metallic oxides are said to be basic oxides.
 
-#### 2.1.6 Reaction of a Non-metallic Oxide with Base
+### 2.1.6 Reaction of a Non-metallic Oxide with Base
 
 You saw the reaction between carbon dioxide and calcium hydroxide (lime water) in Activity 2.5. Calcium hydroxide, which is a base, reacts with carbon dioxide to produce a salt and water. Since this is similar to the reaction between a base and an acid, we can conclude that nonmetallic oxides are acidic in nature.
 
-## 
+## QUESTIONS
 
 1.Why should curd and sour substances not be kept in brass and copper vessels?   
 2. Which gas is usually liberated when an acid reacts with a metal? Illustrate with an example. How will you test for the presence of this gas?   
 3. Metal compound A reacts with dilute h y d r o c h l o r i c a c i d t o p r o d u c e effervescence. The gas evolved extinguishes a burning candle. Write a balanced chemical equation for the reaction if one of the compounds formed is calcium chloride.
 
 
-### 2.2 WHAT DO ALL ACIDS AND ALL BASES HAVE IN COMMON?
+## 2.2 WHAT DO ALL ACIDS AND ALL BASES HAVE IN COMMON?
 
 In Section 2.1 we have seen that all acids have similar chemical properties. What leads to this similarity in properties? We saw in Activity 2.3 that all acids generate hydrogen gas on reacting with metals, so hydrogen seems to be common to all acids. Let us perform an Activity to investigate whether all compounds containing hydrogen are acidic.
 
 ![](images/ee69e436d5fb28a00a4778a8d2119f65502b1f9e4d7b9a826c5b9c95ca0649a9.jpg)  
 Figure 2.3 Acid solution in water conducts electricity
 
-### Activity 2.8
+## Activity 2.8
 
 ■ Take solutions of glucose, alcohol, hydrochloric acid, sulphuric acid, etc.   
 Fix two nails on a cork, and place the cork in a 100 mL beaker.   
@@ -863,14 +844,14 @@ Acids contain $\mathrm { H } ^ { + }$ ion as cation and anion such as $\mathrm {
 
 Repeat the same Activity using alkalis such as sodium hydroxide, calcium hydroxide, etc. What can you conclude from the results of this Activity?
 
-#### 2.2.1 What Happens to an Acid or a Base in a Water Solution?
+### 2.2.1 What Happens to an Acid or a Base in a Water Solution?
 
 Do acids produce ions only in aqueous solution? Let us test this.
 
 ![](images/c644d13a593b04239065710b75f2be1918dae869e9dfd350aa0b253831ba2ac5.jpg)  
 Figure 2.4 Preparation of HCl gas
 
-### Activity 2.9
+#### Activity 2.9
 
 ■ Take about 1g solid NaCl in a clean and dry test tube and set up the apparatus as shown in Fig. 2.4.   
 ■ Add some concentrated sulphuric acid to the test tube.   
@@ -932,7 +913,7 @@ Let us see what is involved when water is mixed with an acid or a base.
 Figure 2.5   
 Warning sign displayed on containers containing concentrated acids and bases
 
-### Activity 2.10
+#### Activity 2.10
 
 ■ Take 10 mL water in a beaker.   
 ■ Add a few drops of concentrated $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ to it and swirl the beaker slowly.   
@@ -945,7 +926,7 @@ The process of dissolving an acid or a base in water is a highly exothermic one.
 
 Mixing an acid or base with water results in decrease in the concentration of ions $\mathrm { ( H , O ^ { + } / O H ^ { - } ) }$ per unit volume. Such a process is called dilution and the acid or the base is said to be diluted.
 
-## 
+## QUESTIONS
 
 1. Why do HCl, $\mathrm { H N O } _ { 3 }$ , etc., show acidic characters in aqueous solutions while solutions of compounds like alcohol and glucose do not show acidic character?   
 2. Why does an aqueous solution of an acid conduct electricity?   
@@ -954,7 +935,7 @@ Mixing an acid or base with water results in decrease in the concentration of io
 5. H o w i s t h e c o n c e n t r a t i o n o f hydronium ions $\mathrm { ( H } _ { 3 } \mathrm { O } ^ { + } )$ affected when a solution of an acid is diluted?   
 6. How is the concentration of hydroxide –ions (OH ) affected when excess base is dissolved in a solution of sodium hydroxide?
 
-### 2.3 HOW STRONG ARE ACID OR BASE SOLUTIONS?
+## 2.3 HOW STRONG ARE ACID OR BASE SOLUTIONS?
 
 We know how acid-base indicators can be used to distinguish between an acid and a base. We have also learnt in the previous section about dilution and decrease in concentration of $\mathrm { H } ^ { + }$ or $\mathrm { O H } ^ { - }$ ions in solutions. Can we quantitatively find the amount of these ions present in a solution? Can we judge how strong a given acid or base is?
 
@@ -967,7 +948,7 @@ The pH of a neutral solution is 7. Values less than 7 on the pH scale represent 
 ![](images/be7d255581298461ce9d86b89f76ca453d62a12bb6c215f5097560ad0fc10dd6.jpg)  
 Figure 2.6 + –Variation of pH with the change in concentration of H (aq) and OH (aq) ions
 
-### Activity 2.11
+## Activity 2.11
 
 ■ Test the pH values of solutions given in Table 2.2.   
 ■ Record your observations.   
@@ -982,21 +963,18 @@ Figure 2.7 pH of some common substances shown on a pH paper (colours are only a 
 
 The strength of acids and bases depends on the number of $\mathrm { H } ^ { + }$ – ions and OH ions produced, respectively. If we take hydrochloric acid and acetic acid of the same concentration, say one molar, then these produce different amounts of hydrogen ions. Acids that give rise to more $\mathrm { H } ^ { + }$ ions are said to be strong acids, and acids that give less $\mathrm { H } ^ { + }$ ions are said to be weak acids. Can you now say what weak and strong bases are?
 
-#### 2.3.1 Importance of pH in Everyday Life Are plants and animals pH sensitive?
+### 2.3.1 Importance of pH in Everyday Life Are plants and animals pH sensitive?
 
 Our body works within the pH range of 7.0 to 7.8. Living organisms can survive only in a narrow range of pH change. When pH of rain water is less than 5.6, it is called acid rain. When acid rain flows into the rivers, it lowers the pH of the river water. The survival of aquatic life in such rivers becomes difficult.
 
 ## Do You Know ?
-
-## Acids in other planets
-
-The atmosphere of venus is made up of thick white and yellowish clouds of sulphuric acid. Do you think life can exist on this planet?
+Acids in other planets: The atmosphere of venus is made up of thick white and yellowish clouds of sulphuric acid. Do you think life can exist on this planet?
 
 ## What is the pH of the soil in your backyard?
 
 Plants require a specific pH range for their healthy growth. To find out the pH required for the healthy growth of a plant, you can collect the soil from various places and check the pH in the manner described below in Activity 2.12. Also, you can note down which plants are growing in the region from which you have collected the soil.
 
-### Activity 2.12
+#### Activity 2.12
 
 ■ Put about 2 g soil in a test tube and add 5 mL water to it.   
 ■ Shake the contents of the test tube.   
@@ -1031,29 +1009,29 @@ Table 2.3 Some naturally occurring acids
 <table><tr><td>Natural source</td><td>Acid</td><td>Natural source</td><td>Acid</td></tr><tr><td>Vinegar</td><td>Acetic acid</td><td>Sour milk (Curd)</td><td>Lactic acid</td></tr><tr><td>Orange</td><td>Citric acid</td><td>Lemon</td><td>Citric acid</td></tr><tr><td>Tamarind</td><td>Tartaric acid</td><td>Ant sting</td><td>Methanoic acid</td></tr><tr><td>Tomato</td><td>Oxalic acid</td><td>Nettle sting</td><td>Methanoic acid</td></tr></table>
 
 
-## 
+## QUESTIONS
 
 1. You have two solutions, A and B. The pH of solution A is 6 and pH of solution B is 8. Which solution has more hydrogen ion concentration? Which of this is acidic and which one is basic?   
 +2. What effect does the concentration of H (aq) ions have on the nature of the solution?   
 3. Do basic solutions also have $\mathrm { H } ^ { + } ( \mathrm { a q } )$ ions? If yes, then why are these basic?   
 4. Under what soil condition do you think a farmer would treat the soil of his fields with quick lime (calcium oxide) or slaked lime (calcium hydroxide) or chalk (calcium carbonate)?
 
-### 2.4 MORE ABOUT SALTS
+## 2.4 MORE ABOUT SALTS
 
 In the previous sections we have seen the formation of salts during various reactions. Let us understand more about their preparation, properties and uses.
 
-#### 2.4.1 Family of Salts
+### 2.4.1 Family of Salts
 
-### Activity 2.13
+#### Activity 2.13
 
 ■ Write the chemical formulae of the salts given below. Potassium sulphate, sodium sulphate, calcium sulphate, magnesium sulphate, copper sulphate, sodium chloride, sodium nitrate, sodium carbonate and ammonium chloride.
 
 Identify the acids and bases from which the above salts may be obtained.   
 ■ Salts having the same positive or negative radicals are said to belong to a family. For example, NaCl and $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ belong to the family of sodium salts. Similarly, NaCl and KCl belong to the family of chloride salts. How many families can you identify among the salts given in this Activity?
 
-#### 2.4.2 pH of Salts
+### 2.4.2 pH of Salts
 
-### Activity 2.14
+#### Activity 2.14
 
 ■ Collect the following salt samples – sodium chloride, potassium nitrate, aluminium chloride, zinc sulphate, copper sulphate, sodium acetate, sodium carbonate and sodium hydrogencarbonate (some other salts available can also be taken).   
 Check their solubility in water (use distilled water only).   
@@ -1069,7 +1047,7 @@ Table 2.4
 <table><tr><td>Salt</td><td>pH</td><td>Acid used</td><td>Base used</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
 
 
-#### 2.4.3 Chemicals from Common Salt
+### 2.4.3 Chemicals from Common Salt
 
 By now you have learnt that the salt formed by the combination of hydrochloric acid and sodium hydroxide solution is called sodium chloride. This is the salt that you use in food. You must have observed in the above Activity that it is a neutral salt.
 
@@ -1079,11 +1057,11 @@ You must have heard about Mahatma Gandhi’s Dandi March. Did you know that sodi
 
 ![](images/27bbc0f6d72da597a60ab772fc6b2153c2fd0d78e4a50f84e6f6276973f4aa29.jpg)
 
-## Common salt — A raw material for chemicals
+#### Common salt — A raw material for chemicals
 
 The common salt thus obtained is an important raw material for various materials of daily use, such as sodium hydroxide, baking soda, washing soda, bleaching powder and many more. Let us see how one substance is used for making all these different substances.
 
-## Sodium hydroxide
+#### Sodium hydroxide
 
 When electricity is passed through an aqueous solution of sodium chloride (called brine), it decomposes to form sodium hydroxide. The process is called the chlor-alkali process because of the products formed– chlor for chlorine and alkali for sodium hydroxide.
 
@@ -1093,7 +1071,7 @@ $$
 
 Chlorine gas is given off at the anode, and hydrogen gas at the cathode. Sodium hydroxide solution is formed near the cathode. The three products produced in this process are all useful. Figure 2.8 shows the different uses of these products.
 
-## Bleaching powder
+#### Bleaching powder
 
 You have already come to know that chlorine is produced during the electrolysis of aqueous sodium chloride (brine). This chlorine gas is used for the manufacture of bleaching powder. Bleaching powder is produced by the action of chlorine on dry slaked lime $\left[ \mathrm { C a } ( \mathrm { O H } ) _ { 2 } \right]$ . Bleaching powder is represented as $\mathrm { C a O C l } _ { 2 }$ , though the actual composition is quite complex.
 
@@ -1147,7 +1125,7 @@ $$
 
 What does $1 0 \mathrm { H } _ { 2 } \mathrm { O }$ signify? Does it make $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ wet? We will address this question in the next section.
 
-S o d i u m c a r b o n a t e a n d s o d i u m hydrogencarbonate are useful chemicals for many industrial processes as well.
+Sodium carbonate and sodium hydrogencarbonate are useful chemicals for many industrial processes as well.
 
 ## Uses of washing soda
 
@@ -1156,12 +1134,12 @@ S o d i u m c a r b o n a t e a n d s o d i u m hydrogencarbonate are useful che
 (iii) Sodium carbonate can be used as a cleaning agent for domestic purposes.   
 (iv) It is used for removing permanent hardness of water.
 
-#### 2.4.4 Are the Crystals of Salts really Dry?
+### 2.4.4 Are the Crystals of Salts really Dry?
 
 ![](images/7702fb52bad28e1957851dce137015a48cf6c50f8989397d4737b72269850427.jpg)  
 Figure 2.9 Removing water of crystallisation
 
-### Activity 2.15
+#### Activity 2.15
 
 ■ Heat a few crystals of copper sulphate in a dry boiling tube.   
 ■ What is the colour of the copper sulphate after heating?   
@@ -1191,15 +1169,12 @@ $$
 
 Note that only half a water molecule is shown to be attached as water of crystallisation. How can you get half a water molecule? It is written in this form because two formula units of $\mathrm { C a S O _ { 4 } }$ share one molecule of water. Plaster of Paris is used for making toys, materials for decoration and for making surfaces smooth. Try to find out why is calcium sulphate hemihydrate called ‘Plaster of Paris’?
 
-## 
+## QUESTIONS
 
 1. What is the common name of the compound $\mathrm { C a O C l } _ { 2 }$ ?   
 2. Name the substance which on treatment with chlorine yields bleaching powder.   
 3. Name the sodium compound which is used for softening hard water.   
-4. What will happen if a solution of sodium hydrocarbonate is heated?
-
-Give the equation of the reaction involved.
-
+4. What will happen if a solution of sodium hydrocarbonate is heated? Give the equation of the reaction involved.
 5. Write an equation to show the reaction between Plaster of Paris and water.
 
 
@@ -1220,7 +1195,7 @@ Give the equation of the reaction involved.
 ■ Water of crystallisation is the fixed number of water molecules present in one formula unit of a salt.   
 Salts have various uses in everyday life and in industries.
 
-## ExERCISES
+## EXERCISES
 
 1. A solution turns red litmus blue, its pH is likely to be
 
@@ -1323,20 +1298,20 @@ n Class IX you have learnt about various Ielements. You have seen that elements 
 • What properties did you think of while categorising elements as metals or nonmetals?   
 • How are these properties related to the uses of these elements? Let us look at some of these properties in detail.
 
-### 3.1 PHYSICALPROPERTIES
+## 3.1 PHYSICALPROPERTIES
 
-#### 3.1.1 Metals
+### 3.1.1 Metals
 
 The easiest way to start grouping substances is by comparing their physical properties. Let us study this with the help of the following activities. For performing Activities 3.1 to 3.6, collect the samples of following metals – iron, copper, aluminium, magnesium, sodium, lead, zinc and any other metal that is easily available.
 
-### Activity 3.1
+#### Activity 3.1
 
 ■ Take samples of iron, copper, aluminium and magnesium. Note the appearance of each sample.   
 ■ Clean the surface of each sample by rubbing them with sand paper and note their appearance again.
 
 Metals, in their pure state, have a shining surface. This property is called metallic lustre.
 
-### Activity 3.2
+#### Activity 3.2
 
 ■ Take small pieces of iron, copper, aluminium, and magnesium. Try to cut these metals with a sharp knife and note your observations.   
 ■ Hold a piece of sodium metal with a pair of tongs.
@@ -1348,7 +1323,7 @@ What do you observe?
 
 You will find that metals are generally hard. The hardness varies from metal to metal.
 
-### Activity 3.3
+#### Activity 3.3
 
 ■ Take pieces of iron, zinc, lead and copper.   
 ■ Place any one metal on a block of iron and strike it four or five times with a hammer. What do you observe?   
@@ -1357,7 +1332,7 @@ Repeat with other metals.
 
 You will find that some metals can be beaten into thin sheets. This property is called malleability. Did you know that gold and silver are the most malleable metals?
 
-### Activity 3.4
+#### Activity 3.4
 
 ■ List the metals whose wires you have seen in daily life.
 
@@ -1370,7 +1345,7 @@ Can you name some metals that are used for making cooking vessels? Do you know w
 ![](images/25adddcf24302f8fd877d797670fa33ef3af6fa7feef9ff066dbf76c69b2f6f7.jpg)  
 Figure 3.1 Metals are good conductors of heat.
 
-### Activity 3.5
+#### Activity 3.5
 
 ■ Take an aluminium or copper wire. Clamp this wire on a stand, as shown in Fig. 3.1.   
 ■ Fix a pin to the free end of the wire using wax.   
@@ -1382,7 +1357,7 @@ The above activity shows that metals are good conductors of heat and have high m
 
 Do metals also conduct electricity? Let us find out.
 
-### Activity 3.6
+#### Activity 3.6
 
 ■ Set up an electric circuit as shown in Fig. 3.2.   
 ■ Place the metal to be tested in the circuit between terminals Aand B as shown.   
@@ -1395,13 +1370,13 @@ You must have seen that the wires that carry current in your homes have a coatin
 
 What happens when metals strike a hard surface? Do they produce a sound? The metals that produce a sound on striking a hard surface are said to be sonorous. Can you now say why school bells are made of metals?
 
-#### 3.1.2 Non-metals
+### 3.1.2 Non-metals
 
 In the previous Class you have learnt that there are very few non-metals as compared to metals. Some of the examples of non-metals are carbon, sulphur, iodine, oxygen, hydrogen, etc. The non-metals are either solids or gases except bromine which is a liquid.
 
 Do non-metals also have physical properties similar to that of metals? Let us find out.
 
-### Activity 3.7
+#### Activity 3.7
 
 ■ Collect samples of carbon (coal or graphite), sulphur and iodine.   
 ■ Carry out the Activities 3.1 to 3.4 and 3.6 with these non-metals and record your observations.
@@ -1424,7 +1399,7 @@ potassium) are so soft that they can be cut with a knife. They have low densitie
 
 Elements can be more clearly classified as metals and non-metals
 
-### Activity 3.8
+#### Activity 3.8
 
 ■ Take a magnesium ribbon and some sulphur powder.   
 ■ Burn the magnesium ribbon. Collect the ashes formed and dissolve them in water.   
@@ -1448,15 +1423,15 @@ Most non-metals produce acidic oxides when dissolve in water. On the other hand,
 
 2. Explain the meanings of malleable and ductile.
 
-### 3.2 CHEMICAL PROPERTIES OF METALS
+## 3.2 CHEMICAL PROPERTIES OF METALS
 
 We will learn about the chemical properties of metals in the following Sections 3.2.1 to 3.2.4. For this, collect the samples of following metals – aluminium, copper, iron, lead, magnesium, zinc and sodium.
 
-#### 3.2.1 What happens when Metals are burnt in Air?
+### 3.2.1 What happens when Metals are burnt in Air?
 
 You have seen in Activity 3.8 that magnesium burns in air with a dazzling white flame. Do all metals react in the same manner? Let us check by performing the following Activity.
 
-### Activity 3.9
+#### Activity 3.9
 
 ■ CAUTION: The following activity needs the teacher’s assistance. It would be better if students wear eye protection.   
 ■ Hold any of the samples taken above with a pair of tongs and try burning over a flame. Repeat with the other metal samples.   
@@ -1512,9 +1487,9 @@ Anodising is a process of forming a thick oxide layer of aluminium. Aluminium de
 
 After performing Activity 3.9, you must have observed that sodium is the most reactive of the samples of metals taken here. The reaction of magnesium is less vigorous implying that it is not as reactive as sodium. But burning in oxygen does not help us to decide about the reactivity of zinc, iron, copper or lead. Let us see some more reactions to arrive at a conclusion about the order of reactivity of these metals.
 
-#### 3.2.2 What happens when Metals react with Water?
+### 3.2.2 What happens when Metals react with Water?
 
-### Activity 3.10
+#### Activity 3.10
 
 CAUTION: This Activity needs the teacher’s assistance.
 
@@ -1565,7 +1540,7 @@ $$
 
 Metals such as lead, copper, silver and gold do not react with water at all.
 
-#### 3.2.3 What happens when Metals react with Acids?
+### 3.2.3 What happens when Metals react with Acids?
 
 You have already learnt that metals react with acids to give a salt and hydrogen gas.
 
@@ -1573,7 +1548,7 @@ Metal $+$ Dilute acid Salt $^ +$ Hydrogen
 
 But do all metals react in the same manner? Let us find out.
 
-### Activity 3.11
+#### Activity 3.11
 
 ■ Collect all the metal samples except sodium and potassium again. If the samples are tarnished, rub them clean with sand paper.   
 CAUTION: Do not take sodium and potassium as they react vigorously even with cold water.   
@@ -1594,9 +1569,9 @@ You must have observed in Activity 3.11, that the rate of formation of bubbles w
 
 Aqua regia, (Latin for ‘royal water’) is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio of 3:1. It can dissolve gold, even though neither of these acids can do so alone. Aqua regia is a highly corrosive, fuming liquid. It is one of the few reagents that is able to dissolve gold and platinum.
 
-#### 3.2.4 How do Metals react with Solutions of other Metal Salts?
+### 3.2.4 How do Metals react with Solutions of other Metal Salts?
 
-### Activity 3.12
+#### Activity 3.12
 
 ■ Take a clean wire of copper and an iron nail.   
 ■ Put the copper wire in a solution of iron sulphate and the iron nail in a solution of copper sulphate taken in test tubes (Fig. 3.4).
@@ -1619,7 +1594,7 @@ Metal A + Salt solution of B ® Salt solution of A+ Metal B
 
 Which metal, copper or iron, is more reactive according to your observations in Activity 3.12?
 
-#### 3.2.5 The Reactivity Series
+### 3.2.5 The Reactivity Series
 
 The reactivity series is a list of metals arranged in the order of their decreasing activities. After performing displacement experiments (Activities 1.9 and 3.12), the following series, (Table 3.2) known as the reactivity or activity series has been developed.
 
@@ -1650,7 +1625,7 @@ A, B, C and D.
 4. Which gas is produced when dilute hydrochloric acid is added to a reactive metal? Write the chemical reaction when iron reacts with dilute $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ .   
 5. What would you observe when zinc is added to a solution of iron(II) sulphate? Write the chemical reaction that takes place.
 
-### 3.3 HOW DO METALS AND NON-METALS REACT?
+## 3.3 HOW DO METALS AND NON-METALS REACT?
 
 In the above activities, you saw the reactions of metals with a number of reagents. Why do metals react in this manner? Let us recall what we learnt about the electronic configuration of elements in Class IX. We learnt that noble gases, which have a completely filled valence shell, show little chemical activity. We, therefore, explain the reactivity of elements as a tendency to attain a completely filled valence shell.
 
@@ -1678,11 +1653,11 @@ Figure 3.6 Formation of magnesium chloride
 
 The compounds formed in this manner by the transfer of electrons from a metal to a nonmetal are known as ionic compounds or electrovalent compounds. Can you name the cation and anion present in $\mathrm { M g C l } _ { 2 } ^ { 1 }$ ?
 
-#### 3.3.1 Properties of Ionic Compounds
+### 3.3.1 Properties of Ionic Compounds
 
 To learn about the properties of ionic compounds, let us perform the following Activity:
 
-### Activity 3.13
+#### Activity 3.13
 
 ■ Take samples of sodium chloride, potassium iodide, barium chloride or any other salt from the science laboratory.   
 ■ What is the physical state of these salts?   
@@ -1719,11 +1694,11 @@ You may have observed the following general properties for ionic compounds—
 2. Why do ionic compounds have high melting points?
 
 
-### 3.4 OCCURRENCE OFMETALS
+## 3.4 OCCURRENCE OFMETALS
 
 The earth’s crust is the major source of metals. Seawater also contains some soluble salts such as sodium chloride, magnesium chloride, etc. The elements or compounds, which occur naturally in the earth’s crust, are known as minerals. At some places, minerals contain a very high percentage of a particular metal and the metal can be profitably extracted from it. These minerals are called ores.
 
-#### 3.4.1 Extraction of Metals
+### 3.4.1 Extraction of Metals
 
 You have learnt about the reactivity series of metals. Having this knowledge, you can easily understand how a metal is extracted from its ore. Some metals are found in the earth’s crust in the free state. Some are found in the form of their compounds. The metals at the bottom of the activity series are the least reactive. They are often found in a free state. For example, gold, silver, platinum and copper are found in the free state. Copper and silver are also found in the combined state as their sulphide or oxide ores. The metals at the top of the activity series (K, Na, Ca, Mg and Al) are so reactive that they are never found in nature as free elements.
 
@@ -1738,13 +1713,13 @@ Several steps are involved in the extraction of pure metal from ores. A summary 
 
 ![](images/59cb5646aeef92b77a3fa6a7df6c151fbe3c72988050f843870fff6944d42db1.jpg)
 
-#### 3.4.2 Enrichment of Ores
+### 3.4.2 Enrichment of Ores
 
 Ores mined from the earth are usually contaminated with large amounts of impurities such as soil, sand, etc., called gangue. The impurities must be removed from the ore prior to the extraction of the metal. The processes
 
 used for removing the gangue from the ore are based on the differences between the physical or chemical properties of the gangue and the ore. Different separation techniques are accordingly employed.
 
-#### 3.4.3 Extracting Metals Low in the Activity Series
+### 3.4.3 Extracting Metals Low in the Activity Series
 
 Metals low in the activity series are very unreactive. The oxides of these metals can be reduced to metals by heating alone. For example, cinnabar (HgS) is an ore of mercury. When it is heated in air, it is first converted into mercuric oxide (HgO). Mercuric oxide is then reduced to mercury on further heating.
 
@@ -1766,7 +1741,7 @@ $$
 2 \mathrm {C u} _ {2} \mathrm {O} + \mathrm {C u} _ {2} \mathrm {S} \xrightarrow {\text {H e a t}} 6 \mathrm {C u} (\mathrm {s}) + \mathrm {S O} _ {2} (\mathrm {g})
 $$
 
-#### 3.4.4 Extracting Metals in the Middle of the Activity Series
+### 3.4.4 Extracting Metals in the Middle of the Activity Series
 
 The metals in the middle of the activity series such as iron, zinc, lead, copper, are moderately reactive. These are usually present as sulphides or carbonates in nature. It is easier to obtain a metal from its oxide, as compared to its sulphides and carbonates. Therefore, prior to reduction, the metal sulphides and carbonates must be converted into metal oxides. The sulphide ores are converted into oxides by heating strongly in the presence of excess air. This process is known as roasting. The carbonate ores are changed into oxides by heating strongly in limited air. This process is known as calcination. The chemical reaction that takes place during roasting and calcination of zinc ores can be shown as follows – Roasting
 
@@ -1807,7 +1782,7 @@ $$
 \mathrm {F e} _ {2} \mathrm {O} _ {3} (\mathrm {s}) + 2 \mathrm {A l} (\mathrm {s}) \rightarrow 2 \mathrm {F e} (\mathrm {l}) + \mathrm {A l} _ {2} \mathrm {O} _ {3} (\mathrm {s}) + \text {H e a t}
 $$
 
-#### 3.4.5 Extracting Metals towards the Top of the Activity Series
+### 3.4.5 Extracting Metals towards the Top of the Activity Series
 
 The metals high up in the reactivity series are very reactive. They cannot be obtained from their compounds by heating with carbon. For example, carbon cannot reduce the oxides of sodium, magnesium, calcium, aluminium, etc., to the respective metals. This is because these metals have more affinity for oxygen than carbon. These metals are obtained by electrolytic reduction. For example, sodium, magnesium and calcium are obtained by the electrolysis of their molten chlorides. The metals are deposited at the cathode (the negatively charged electrode), whereas, chlorine is liberated at the anode (the positively charged electrode). The reactions are –
 
@@ -1817,7 +1792,7 @@ At anode
 
 Similarly, aluminium is obtained by the electrolytic reduction of aluminium oxide.
 
-#### 3.4.6 Refining of Metals
+### 3.4.6 Refining of Metals
 
 The metals produced by various reduction processes described above are not very pure. They contain impurities, which must be removed to obtain pure metals. The most widely used method for refining impure metals is electrolytic refining.
 
@@ -1831,7 +1806,7 @@ Electrolytic refining of copper. The electrolyte is a solution of acidified copp
 
 the electrolyte. An equivalent amount of pure metal from the electrolyte is deposited on the cathode. The soluble impurities go into the solution, whereas, the insoluble impurities settle down at the bottom of the anode and are known as anode mud.
 
-## QuEstiONS
+## QUEStiONS
 
 1. Define the following terms.
 
@@ -1842,7 +1817,7 @@ the electrolyte. An equivalent amount of pure metal from the electrolyte is depo
 2. Name two metals which are found in nature in the free state.   
 3. What chemical process is used for obtaining a metal from its oxide?
 
-### 3.5 CORROSION
+## 3.5 CORROSION
 
 You have learnt the following about corrosion in Chapter 1 –
 
@@ -1856,7 +1831,7 @@ Figure 3.13
 ![](images/7903b1084388af41afe6cf9d551c76c6e498936b23aa882bcefd9142c045e6e0.jpg)  
 Investigating the conditions under which iron rusts. In tube A, both air and water are present. In tube B, there is no air dissolved in the water. In tube C, the air is dry.
 
-### Activity 3.14
+## Activity 3.14
 
 ■ Take three test tubes and place clean iron nails in each of them.   
 ■ Label these test tubes A, B and C. Pour some water in test tube Aand cork it.   
@@ -1865,7 +1840,7 @@ Investigating the conditions under which iron rusts. In tube A, both air and wat
 
 You will observe that iron nails rust in test tube A, but they do not rust in test tubes B and C. In the test tube A, the nails are exposed to both air and water. In the test tube B, the nails are exposed to only water, and the nails in test tube C are exposed to dry air. What does this tell us about the conditions under which iron articles rust?
 
-#### 3.5.1 Prevention of Corrosion
+### 3.5.1 Prevention of Corrosion
 
 The rusting of iron can be prevented by painting, oiling, greasing, galvanising, chrome plating, anodising or making alloys.
 
@@ -1992,7 +1967,7 @@ CO2
 
 n the last Chapter, we came to know many compounds of importance to us. In this Chapter we will study about some more interesting compounds and their properties. Also, we shall be learning about carbon, an element which is of immense significance to us in both its elemental form and in the combined form.
 
-### Activity 4.1
+## Activity 4.1
 
 Make a list of ten things you have used or consumed since the morning.   
 Compile this list with the lists made by your classmates and then sort the items into the adjacent Table.   
@@ -2005,7 +1980,7 @@ Look at the items that come in the last column of the above table filled by you 
 
 Food, clothes, medicines, books, or many of the things that you listed are all based on this versatile element carbon. In addition, all living structures are carbon based. The amount of carbon present in the earth’s crust and in the atmosphere is quite meagre. The earth’s crust has only $0 . 0 2 \%$ carbon in the form of minerals (like carbonates, hydrogen- carbonates, coal and petroleum) and the atmosphere has $0 . 0 3 \%$ of carbon dioxide. In spite of this small amount of carbon available in nature, the importance of carbon seems to be immense. In this Chapter, we will know about the properties of carbon which make carbon so important to us.
 
-### 4.1 BONDING IN CARBON – THE COVALENTBOND
+## 4.1 BONDING IN CARBON – THE COVALENTBOND
 
 In the previous Chapter, we have studied the properties of ionic compounds. We saw that ionic compounds have high melting and boiling points and conduct electricity in solution or in the molten state. We also
 
@@ -2089,12 +2064,12 @@ Diamonds can be synthesised by subjecting pure carbon to very high pressure and 
 
 Fullerenes form another class of carbon allotropes. The first one to be identified was C-60 which has carbon atoms arranged in the shape of a football. Since this looked like the geodesic dome designed by the US architect Buckminster Fuller, the molecule was named fullerene.
 
-## QUEsTIONS
+## QUESTIONS
 
 1. What would be the electron dot structure of carbon dioxide which has the formula $\mathrm { C O } _ { 2 }$ ?   
 2. What would be the electron dot structure of a molecule of sulphur which is made up of eight atoms of sulphur? (Hint – The eight atoms of sulphur are joined together in the form of a ring.)
 
-### 4.2 VERSATILE NATURE OFCARBON
+## 4.2 VERSATILE NATURE OFCARBON
 
 We have seen the formation of covalent bonds by the sharing of electrons in various elements and compounds. We have also seen the structure of a simple carbon compound, methane. In the beginning of the Chapter, we saw how many things we use contain carbon. In fact, we ourselves are made up of carbon compounds. The numbers of carbon compounds whose formulae are known to chemists was recently estimated to be in millions! This outnumbers by a large margin the compounds formed by all the other elements put together. Why is it that this property is seen in carbon and no other element? The nature of the covalent bond
 
@@ -2110,7 +2085,7 @@ Again the bonds that carbon forms with most other elements are very strong makin
 
 The two characteristic features seen in carbon, that is, tetravalency and catenation, put together give rise to a large number of compounds. Many have the same noncarbon atom or group of atoms attached to different carbon chains. These compounds were initially extracted from natural substances and it was thought that these carbon compounds or organic compounds could only be formed within a living system. That is, it was postulated that a ‘vital force’ was necessary for their synthesis. Friedrich Wöhler disproved this in 1828 by preparing urea from ammonium cyanate. But carbon compounds, except for carbides, oxides of carbon, carbonate and hydrogencarbonate salts continue to be studied under organic chemistry.
 
-#### 4.2.1 Saturated and Unsaturated Carbon Compounds
+### 4.2.1 Saturated and Unsaturated Carbon Compounds
 
 We have already seen the structure of methane. Another compound formed between carbon and hydrogen is ethane with a formula of $\mathrm { C } _ { 2 } \mathrm { H } _ { 6 }$ . In order to arrive at the structure of simple carbon compounds, the first step is to link the carbon atoms together with a single bond (Fig. 4.6a) and then use the hydrogen atoms to satisfy the remaining valencies of carbon (Fig. 4.6b). For example, the structure of ethane is arrived in the following steps –
 
@@ -2156,7 +2131,7 @@ The electron dot structure for ethene is given in Fig. 4.7. Yet another compound
 
 necessary between the two carbon atoms in order to satisfy their valencies? Such compounds of carbon having double or triple bonds between the carbon atoms are known as unsaturated carbon compounds and they are more reactive than the saturated carbon compounds.
 
-#### 4.2.2 Chains, Branches and Rings
+### 4.2.2 Chains, Branches and Rings
 
 In the earlier section, we mentioned the carbon compounds methane, ethane and propane, containing respectively 1, 2 and 3 carbon atoms. Such ‘chains’ of carbon atoms can contain many more carbon atoms. The names and structures of six of these are given in Table 4.2.
 
@@ -2214,7 +2189,7 @@ Figure 4.10 Structure of benzene
 
 All these carbon compounds which contain only carbon and hydrogen are called hydrocarbons. Among these, the saturated hydrocarbons are called alkanes. The unsaturated hydrocarbons which contain one or more double bonds are called alkenes. Those containing one or more triple bonds are called alkynes.
 
-#### 4.2.3 Will you be my Friend?
+### 4.2.3 Will you be my Friend?
 
 Carbon seems to be a very friendly element. So far we have been looking at compounds containing carbon and hydrogen only. But carbon also forms bonds with other elements such as halogens, oxygen, nitrogen and sulphur. In a hydrocarbon chain, one or more hydrogens can be replaced by these elements, such that the valency of carbon remains satisfied. In such compounds, the element replacing hydrogen is referred to as a heteroatom. These heteroatoms are also present in some groups as given in Table 4.3. These heteroatoms and the group containing these confer specific properties to the compound, regardless of the length and nature of the carbon chain and hence are called functional groups. Some important functional groups are given in the Table 4.3. Free valency or valencies of the group are shown by the single line. The functional group is attached to the carbon chain through this valency by replacing one hydrogen atom or atoms.
 
@@ -2229,7 +2204,7 @@ O</td></tr><tr><td>4. Carboxylic acid</td><td>O
 II
 —C—OH</td></tr></table>
 
-#### 4.2.4 Homologous Series
+### 4.2.4 Homologous Series
 
 You have seen that carbon atoms can be linked together to form chains of varying lengths. These chains can be branched also. In addition, hydrogen atom or other atoms on these carbon chains can be replaced by any of the functional groups that we saw above. The presence of a functional group such as alcohol decides the properties of the carbon compound, regardless of the length of the carbon chain. For example, the chemical properties of $\mathrm { C H } _ { 3 } \mathrm { O H }$ , $\mathrm { C _ { 2 } H _ { 5 } O H }$ , $\mathrm { C } _ { 3 } \mathrm { H } _ { 7 } \mathrm { O H }$ and $\mathrm { C _ { 4 } H _ { 9 } O H }$ are all very similar. Hence, such a series of compounds in which the same functional group substitutes for hydrogen in a carbon chain is called a homologous series.
 
@@ -2245,14 +2220,14 @@ As the molecular mass increases in any homologous series, a gradation in physica
 
 which are determined solely by the functional group, remain similar in a homologous series.
 
-### Activity 4.2
+#### Activity 4.2
 
 Calculate the difference in the formulae and molecular masses for (a) $\mathrm { C H } _ { 3 } \mathrm { O H }$ and $\mathrm { C } _ { 2 } \mathrm { H } _ { 5 } \mathrm { O H }$ (b) $\mathrm { C _ { 2 } H _ { 5 } O H }$ and $\mathrm { C } _ { 3 } \mathrm { H } _ { 7 } \mathrm { O H }$ , and (c) $\mathrm { C } _ { 3 } \mathrm { H } _ { 7 } \mathrm { O H }$ and $\mathrm { C _ { 4 } H _ { 9 } O H }$ .   
 ■ Is there any similarity in these three?   
 Arrange these alcohols in the order of increasing carbon atoms to get a family. Can we call this family a homologous series?   
 ■ Generate the homologous series for compounds containing up to four carbons for the other functional groups given in Table 4.3.
 
-#### 4.2.5 Nomenclature of Carbon Compounds
+### 4.2.5 Nomenclature of Carbon Compounds
 
 The names of compounds in a homologous series are based on the name of the basic carbon chain modified by a “prefix” “phrase before” or “suffix” “phrase after” indicating the nature of the functional group. For example, the names
 
@@ -2316,11 +2291,11 @@ HHHH
 
 HHHH
 
-### 4.3 CHEMICAL PROPERTIES OFCARBON COMPOUNDS
+## 4.3 CHEMICAL PROPERTIES OFCARBON COMPOUNDS
 
 In this section we will be studying about some of the chemical properties of carbon compounds. Since most of the fuels we use are either carbon or its compounds, we shall first study combustion.
 
-#### 4.3.1 Combustion
+### 4.3.1 Combustion
 
 Carbon, in all its allotropic forms, burns in oxygen to give carbon dioxide along with the release of heat and light. Most carbon compounds also release a large amount of heat and light on burning. These are the oxidation reactions that you learnt about in the first Chapter –
 
@@ -2330,7 +2305,7 @@ Carbon, in all its allotropic forms, burns in oxygen to give carbon dioxide alon
 
 Balance the latter two reactions like you learnt in the first Chapter.
 
-### Activity 4.3
+#### Activity 4.3
 
 CAUTION: This Activity needs the teacher’s assistance.
 
@@ -2338,7 +2313,7 @@ CAUTION: This Activity needs the teacher’s assistance.
 ■ Observe the nature of the flame and note whether smoke is produced.   
 Place a metal plate above the flame. Is there a deposition on the plate in case of any of the compounds?
 
-### Activity 4.4
+#### Activity 4.4
 
 ■ Light a bunsen burner and adjust the air hole at the base to get different types of flames/presence of smoke.   
 When do you get a yellow, sooty flame?   
@@ -2358,9 +2333,9 @@ Aluminous flame is seen when the atoms of the gaseous substance are heated and s
 
 Coal and petroleum have been formed from biomass which has been subjected to various biological and geological processes. Coal is the remains of trees, ferns, and other plants that lived millions of years ago. These were crushed into the earth, perhaps by earthquakes or volcanic eruptions. They were pressed down by layers of earth and rock. They slowly decayed into coal. Oil and gas are the remains of millions of tiny plants and animals that lived in the sea. When they died, their bodies sank to the sea bed and were covered by silt. Bacteria attacked the dead remains, turning them into oil and gas under the high pressures they were being subjected to. Meanwhile, the silt was slowly compressed into rock. The oil and gas seeped into the porous parts of the rock, and got trapped like water in a sponge. Can you guess why coal and petroleum are called fossil fuels?
 
-#### 4.3.2 Oxidation
+### 4.3.2 Oxidation
 
-### Activity 4.5
+#### Activity 4.5
 
 Take about 3 mL of ethanol in a test tube and warm it gently in a water bath.   
 Add a $5 \%$ solution of alkaline potassium permanganate drop by drop to this solution.   
@@ -2377,7 +2352,7 @@ We see that some substances are capable of adding oxygen to others. These substa
 
 Alkaline potassium permanganate or acidified potassium dichromate are oxidising alcohols to acids, that is, adding oxygen to the starting material. Hence they are known as oxidising agents.
 
-#### 4.3.3 Addition Reaction
+### 4.3.3 Addition Reaction
 
 Unsaturated hydrocarbons add hydrogen in the presence of catalysts such as palladium or nickel to give saturated hydrocarbons. Catalysts are substances that cause a reaction to occur or proceed at a different rate without the reaction itself being affected. This reaction is commonly used in the hydrogenation of vegetable oils using a nickel catalyst. Vegetable oils generally have long unsaturated carbon chains while animal fats have saturated carbon chains.
 
@@ -2387,7 +2362,7 @@ $$
 
 You must have seen advertisements stating that some vegetable oils are ‘healthy’. Animal fats generally contain saturated fatty acids which are said to be harmful for health. Oils containing unsaturated fatty acids should be chosen for cooking.
 
-#### 4.3.4 Substitution Reaction
+### 4.3.4 Substitution Reaction
 
 Saturated hydrocarbons are fairly unreactive and are inert in the presence of most reagents. However, in the presence of sunlight, chlorine is added to hydrocarbons in a very fast reaction. Chlorine can replace the hydrogen atoms one by one. It is called a substitution reaction because one type of atom or a group of atoms takes the place of another. A number of products are usually formed with the higher homologues of alkanes.
 
@@ -2399,17 +2374,17 @@ $\mathrm { C H } _ { 4 } + \mathrm { C l } _ { 2 } \to \mathrm { C H } _ { 3 } \
 2. A mixture of oxygen and ethyne is burnt for welding. Can you tell why a mixture of ethyne and air is not used?
 
 
-### 4.4 SOME IMPORTANT CARBON COMPOUNDS – ETHANOL AND ETHANOIC ACID
+## 4.4 SOME IMPORTANT CARBON COMPOUNDS – ETHANOL AND ETHANOIC ACID
 
 Many carbon compounds are invaluable to us. But here we shall study the properties of two commercially important compounds – ethanol and ethanoic acid.
 
-#### 4.4.1 Properties of Ethanol
+### 4.4.1 Properties of Ethanol
 
 Ethanol is a liquid at room temperature (refer to Table 4.1 for the melting and boiling points of ethanol). Ethanol is commonly called alcohol and is the active ingredient of all alcoholic drinks. In addition, because it is a
 
 good solvent, it is also used in medicines such as tincture iodine, cough syrups, and many tonics. Ethanol is also soluble in water in all proportions. Consumption of small quantities of dilute ethanol causes drunkenness. Even though this practice is condemned, it is a socially widespread practice. However, intake of even a small quantity of pure ethanol (called absolute alcohol) can be lethal. Also, long-term consumption of alcohol leads to many health problems.
 
-### Activity 4.6
+#### Activity 4.6
 
 Teacher’s demonstration –
 
@@ -2443,19 +2418,19 @@ Unlike ethanol, intake of methanol in very small quantities can cause death. Met
 
 Sugarcane plants are one of the most efficient convertors of sunlight into chemical energy. Sugarcane juice can be used to prepare molasses which is fermented to give alcohol (ethanol). Some countries now use alcohol as an additive in petrol since it is a cleaner fuel which gives rise to only carbon dioxide and water on burning in sufficient air (oxygen).
 
-#### 4.4.2 Properties of Ethanoic Acid
+### 4.4.2 Properties of Ethanoic Acid
 
 Ethanoic acid is commonly called acetic acid and belongs to a group of acids called carboxylic acids. $5- 8 \%$ solution of acetic acid in water is called vinegar and is used widely as a preservative in pickles. The melting point of pure ethanoic acid is $2 9 0 \mathrm { K }$ and hence it often freezes during winter in cold climates. This gave rise to its name glacial acetic acid.
 
 The group of organic compounds called carboxylic acids are obviously characterised by their acidic nature. However, unlike mineral acids like HCl, which are completely ionised, carboxylic acids are weak acids.
 
-### Activity 4.7
+#### Activity 4.7
 
 ■ Compare the pH of dilute acetic acid and dilute hydrochloric acid using both litmus paper and universal indicator.   
 Are both acids indicated by the litmus test?   
 Does the universal indicator show them as equally strong acids?
 
-### Activity 4.8
+#### Activity 4.8
 
 Take 1 mL ethanol (absolute alcohol) and 1 mL glacial acetic acid along with a few drops of concentrated sulphuric acid in a test tube.   
 Warm in a water-bath for at least five minutes as shown in Fig. 4.11.   
@@ -2482,7 +2457,7 @@ Let us perform an activity to find out.
 ![](images/eda996cece151aabcc3c7b75cd804ead9d2af028f87404fa416fcac59365c2c7.jpg)  
 Formation of ester
 
-### Activity 4.9
+#### Activity 4.9
 
 □ Set up the apparatus as shown in Chapter 2, Activity 2.5.   
 Take a spatula full of sodium carbonate in a test tube and add $2 ~ \mathrm { m L }$ of dilute ethanoic acid.   
@@ -2507,9 +2482,9 @@ $$
 2. What are oxidising agents?
 
 
-### 4.5 SOAPS AND DETERGENTS
+## 4.5 SOAPS AND DETERGENTS
 
-### Activity 4.10
+## Activity 4.10
 
 Take about 10 mL of water each in two test tubes.   
 Add a drop of oil (cooking oil) to both the test tubes and label them as Aand B.   
@@ -2534,7 +2509,7 @@ Figure 4.13 Effect of soap in cleaning
 
 a large enough to scatter light. Hence a soap solution appears cloudy.
 
-### Activity 4.11
+## Activity 4.11
 
 Take about $1 0 ~ \mathrm { m L }$ of distilled water (or rain water) and $1 0 \ \mathrm { m L }$ of hard water (from a tubewell or hand-pump) in separate test tubes.   
 Add a couple of drops of soap solution to both.   
@@ -2544,7 +2519,7 @@ In which test tube do you observe a white curdy precipitate?
 
 Note for the teacher: If hard water is not available in your locality, prepare some h a r d w a t e r b y d i s s o l v i n g hydrogencarbonates / sulphates / chlorides of calcium or magnesium in water.
 
-### Activity 4.12
+## Activity 4.12
 
 Take two test tubes with about $1 0 \mathrm { m L }$ of hard water in each.   
 Add five drops of soap solution to one and five drops of detergent solution to the other.   
@@ -2641,7 +2616,7 @@ matter, and light often behaves somewhat like a stream of particles. This confus
 
 In this Chapter, we shall study the phenomena of reflection and refraction of light using the straight-line propagation of light. These basic concepts will help us in the study of some of the optical phenomena in nature. We shall try to understand in this Chapter the reflection of light by spherical mirrors and refraction of light and their application in real life situations.
 
-### 9.1 REFLECTION OFLIGHT
+## 9.1 REFLECTION OFLIGHT
 
 A highly polished surface, such as a mirror, reflects most of the light falling on it. You are already familiar with the laws of reflection of light.
 
@@ -2654,7 +2629,7 @@ These laws of reflection are applicable to all types of reflecting surfaces incl
 
 The size of the image is equal to that of the object. The image formed is as far behind the mirror as the object is in front of it. Further, the image is laterally inverted. How would the images be when the reflecting surfaces are curved? Let us explore.
 
-### Activity 9.1
+## Activity 9.1
 
 Take a large shining spoon. Try to view your face in its curved surface.   
 ■ Do you get the image? Is it smaller or larger?   
@@ -2664,7 +2639,7 @@ Take a large shining spoon. Try to view your face in its curved surface.
 
 The curved surface of a shining spoon could be considered as a curved mirror. The most commonly used type of curved mirror is the spherical mirror. The reflecting surface of such mirrors can be considered to form a part of the surface of a sphere. Such mirrors, whose reflecting surfaces are spherical, are called spherical mirrors. We shall now study about spherical mirrors in some detail.
 
-### 9.2 SPHERICALMIRRORS
+## 9.2 SPHERICALMIRRORS
 
 The reflecting surface of a spherical mirror may be curved inwards or outwards. A spherical mirror, whose reflecting surface is curved inwards, that is, faces towards the centre
 
@@ -2683,7 +2658,7 @@ Figure 9.1 Schematic representation of spherical mirrors; the shaded side is non
 
 The reflecting surface of a spherical mirror forms a part of a sphere. This sphere has a centre. This point is called the centre of curvature of the spherical mirror. It is represented by the letter C. Please note that the centre of curvature is not a part of the mirror. It lies outside its reflecting surface. The centre of curvature of a concave mirror lies in front of it. However, it lies behind the mirror in case of a convex mirror. You may note this in Fig.9.2 (a) and (b). The radius of the sphere of which the reflecting surface of a spherical mirror forms a part, is called the radius of curvature of the mirror. It is represented by the letter R. You may note that the distance PC is equal to the radius of curvature. Imagine a straight line passing through the pole and the centre of curvature of a spherical mirror. This line is called the principal axis. Remember that principal axis is normal to the mirror at its pole. Let us understand an important term related to mirrors, through an Activity.
 
-### Activity 9.2
+## Activity 9.2
 
 CAUTION: Do not look at the Sun directly or even into a mirror reflecting sunlight. It may damage your eyes.
 
@@ -2709,11 +2684,11 @@ The reflecting surface of a spherical mirror is by-and-large spherical. The surf
 
 Is there a relationship between the radius of curvature R, and focal length f, of a spherical mirror? For spherical mirrors of small apertures, the radius of curvature is found to be equal to twice the focal length. We put this as $\mathrm { R } = 2 f$ . This implies that the principal focus of a spherical mirror lies midway between the pole and centre of curvature.
 
-#### 9.2.1 Image Formation by Spherical Mirrors
+### 9.2.1 Image Formation by Spherical Mirrors
 
 You have studied about the image formation by plane mirrors. You also know the nature, position and relative size of the images formed by them. How about the images formed by spherical mirrors? How can we locate the image formed by a concave mirror for different positions of the object? Are the images real or virtual? Are they enlarged, diminished or have the same size? We shall explore this with an Activity.
 
-### Activity 9.3
+#### Activity 9.3
 
 You have already learnt a way of determining the focal length of a concave mirror. In Activity 9.2, you have seen that the sharp bright spot of light you got on the paper is, in fact, the image of the Sun. It was a tiny, real, inverted image. You got the approximate focal length of the concave mirror by measuring the distance of the image from the mirror.
 
@@ -2733,7 +2708,7 @@ Table 9.1 Image formation by a concave mirror for different positions of the obj
 <table><tr><td>Position of the object</td><td>Position of the image</td><td>Size of the image</td><td>Nature of the image</td></tr><tr><td>At infinity</td><td>At the focus F</td><td>Highly diminished, point-sized</td><td>Real and inverted</td></tr><tr><td>Beyond C</td><td>Between F and C</td><td>Diminished</td><td>Real and inverted</td></tr><tr><td>At C</td><td>At C</td><td>Same size</td><td>Real and inverted</td></tr><tr><td>Between C and F</td><td>Beyond C</td><td>Enlarged</td><td>Real and inverted</td></tr><tr><td>At F</td><td>At infinity</td><td>Highly enlarged</td><td>Real and inverted</td></tr><tr><td>Between Pand F</td><td>Behind the mirror</td><td>Enlarged</td><td>Virtual and erect</td></tr></table>
 
 
-#### 9.2.2 Representation of Images Formed by Spherical Mirrors Using Ray Diagrams
+### 9.2.2 Representation of Images Formed by Spherical Mirrors Using Ray Diagrams
 
 We can also study the formation of images by spherical mirrors by drawing ray diagrams. Consider an extended object, of finite size, placed in front of a spherical mirror. Each small portion of the extended object acts like a point source. An infinite number of rays originate from each of these points. To construct the ray diagrams, in order to locate the image of an
 
@@ -2796,7 +2771,7 @@ Figure 9.7 illustrates the ray diagrams for the formation of image by a concave 
 f   
 Figure 9.7 Ray diagrams for the image formation by a concave mirror
 
-### Activity 9.4
+#### Activity 9.4
 
 ■ Draw neat ray diagrams for each position of the object shown in Table 9.1.   
 ■ You may take any two of the rays mentioned in the previous section for locating the image.   
@@ -2812,7 +2787,7 @@ Concave mirrors are commonly used in torches, search-lights and vehicles headlig
 
 We studied the image formation by a concave mirror. Now we shall study the formation of image by a convex mirror.
 
-### Activity 9.5
+#### Activity 9.5
 
 Take a convex mirror. Hold it in one hand.   
 ■ Hold a pencil in the upright position in the other hand.   
@@ -2834,7 +2809,7 @@ Table 9.2 Nature, position and relative size of the image formed by a convex mir
 
 You have so far studied the image formation by a plane mirror, a concave mirror and a convex mirror. Which of these mirrors will give the full image of a large object? Let us explore through an Activity.
 
-### Activity 9.6
+#### Activity 9.6
 
 ■ Observe the image of a distant object, say a distant tree, in a plane mirror.   
 ■ Could you see a full-length image?   
@@ -2855,7 +2830,7 @@ Convex mirrors are commonly used as rear-view (wing) mirrors in vehicles. These 
 3. Name a mirror that can give an erect and enlarged image of an object.   
 4. Why do we prefer a convex mirror as a rear-view mirror in vehicles?
 
-#### 9.2.3 Sign Convention for Reflection by Spherical Mirrors
+### 9.2.3 Sign Convention for Reflection by Spherical Mirrors
 
 While dealing with the reflection of light by spherical mirrors, we shall follow a set of sign conventions called the New Cartesian Sign Convention. In this convention, the pole (P) of the mirror is taken as the origin (Fig. 9.9). The principal axis of the mirror is taken as the x-axis $( \mathrm { { X } } ^ { \prime } \mathrm { { X } } )$ of the coordinate system. The conventions are as follows –
 
@@ -2870,7 +2845,7 @@ The New Cartesian Sign Convention described above is illustrated in Fig.9.9 for 
 ![](images/f92b5688a5d555b397ec177b0b51f2915cc3c5debba907370c069becb7ef8a96.jpg)  
 Figure 9.9 The New Cartesian Sign Convention for spherical mirrors
 
-#### 9.2.4 Mirror Formula and Magnification
+### 9.2.4 Mirror Formula and Magnification
 
 In a spherical mirror, the distance of the object from its pole is called the object distance (u). The distance of the image from the pole of the mirror is called the image distance (v). You already know that the distance of the principal focus from the pole is called the focal length (f). There is a relationship between these three quantities given by the mirror formula which is expressed as
 
@@ -2994,7 +2969,7 @@ The image is inverted and enlarged.
 2. A concave mirror produces three times magnified (enlarged) real image of an object placed at $1 0 \mathrm { c m }$ in front of it. Where is the image located?
 
 
-### 9.3 REFRACTION OFLIGHT
+## 9.3 REFRACTION OFLIGHT
 
 Light seems to travel along straight-line paths in a transparent medium. What happens when light enters from one transparent medium to another? Does it still move along a straightline path or change its direction? We shall recall some of our day-to-day experiences.
 
@@ -3004,14 +2979,14 @@ Let us consider the case of the apparent displacement of a pencil, partly immers
 
 Does a pencil appear to be displaced to the same extent, if instead of water, we use liquids like kerosene or turpentine? Will the letters appear to rise to the same height if we replace a glass slab with a transparent plastic slab? You will find that the extent of the effect is different for different pair of media. These observations indicate that light does not travel in the same direction in all media. It appears that when travelling obliquely from one medium to another, the direction of propagation of light in the second medium changes. This phenomenon is known as refraction of light. Let us understand this phenomenon further by doing a few activities.
 
-### Activity 9.7
+## Activity 9.7
 
 ■ Place a coin at the bottom of a bucket filled with water.   
 ■ With your eye to a side above water, try to pick up the coin in one go. Did you succeed in picking up the coin?   
 Repeat the Activity. Why did you not succeed in doing it in one go?   
 ■ Ask your friends to do this. Compare your experience with theirs.
 
-### Activity 9.8
+## Activity 9.8
 
 Place a large shallow bowl on a Table and put a coin in it.   
 ■ Move away slowly from the bowl. Stop when the coin just disappears from your sight.   
@@ -3020,7 +2995,7 @@ Place a large shallow bowl on a Table and put a coin in it.
 
 The coin becomes visible again on pouring water into the bowl. The coin appears slightly raised above its actual position due to refraction of light.
 
-### Activity 9.9
+## Activity 9.9
 
 Draw a thick straight line in ink, over a sheet of white paper placed on a Table.   
 Place a glass slab over the line in such a way that one of its edges makes an angle with the line.   
@@ -3028,11 +3003,11 @@ Look at the portion of the line under the slab from the sides. What do you obser
 Next, place the glass slab such that it is normal to the line. What do you observe now? Does the part of the line under the glass slab appear bent?   
 ■ Look at the line from the top of the glass slab. Does the part of the line, beneath the slab, appear to be raised? Why does this happen?
 
-#### 9.3.1 Refraction through a Rectangular Glass Slab
+### 9.3.1 Refraction through a Rectangular Glass Slab
 
 To understand the phenomenon of refraction of light through a glass slab, let us do an Activity.
 
-### Activity 9.10
+#### Activity 9.10
 
 ■ Fix a sheet of white paper on a drawing board using drawing pins.   
 ■ Place a rectangular glass slab over the sheet in the middle.   
@@ -3068,7 +3043,7 @@ $$
 
 This constant value is called the refractive index of the second medium with respect to the first. Let us study about refractive index in some detail.
 
-#### 9.3.2 The Refractive Index
+### 9.3.2 The Refractive Index
 
 You have already studied that a ray of light that travels obliquely from one transparent medium into another will change its direction in the second medium. The extent of the change in direction that takes place in a given pair of media may be expressed in terms of the refractive index, the “constant” appearing on the right-hand side of Eq.(9.4).
 
@@ -3119,7 +3094,7 @@ The ability of a medium to refract light is also expressed in terms of its optic
 4. You are given kerosene, turpentine and water. In which of these does the light travel fastest? Use the information given in Table 9.3.   
 5. The refractive index of diamond is 2.42. ? What is the meaning of this statement?
 
-#### 9.3.3 Refraction by Spherical Lenses
+### 9.3.3 Refraction by Spherical Lenses
 
 You might have seen watchmakers using a small magnifying glass to see tiny parts. Have you ever touched the surface of a magnifying glass with your hand? Is it plane surface or curved? Is it thicker in the middle or at the edges? The glasses used in spectacles and that by a watchmaker are examples of lenses. What is a lens? How does it bend light rays? We shall discuss these in this section.
 
@@ -3135,7 +3110,7 @@ Figure 9.12
 
 A lens, either a convex lens or a concave lens, has two spherical surfaces. Each of these surfaces forms a part of a sphere. The centres of these spheres are called centres of curvature of the lens. The centre of curvature of a lens is usually represented by the letter C. Since there are two centres of curvature, we may represent them as $\mathrm { C } _ { 1 }$ and $\mathrm { C } _ { 2 }$ . An imaginary straight line passing through the two centres of curvature of a lens is called its principal axis. The central point of a lens is its optical centre. It is usually represented by the letter O. A ray of light through the optical centre of a lens passes without suffering any deviation. The effective diameter of the circular outline of a spherical lens is called its aperture. We shall confine our discussion in this Chapter to such lenses whose aperture is much less than its radius of curvature and the two centres of curvatures are equidistant from the optical centre O. Such lenses are called thin lenses with small apertures. What happens when parallel rays of light are incident on a lens? Let us do an Activity to understand this.
 
-### Activity 9.11
+#### Activity 9.11
 
 CAUTION: Do not look at the Sun directly or through a lens while doing this Activity or otherwise. You may damage your eyes if you do so.
 
@@ -3153,11 +3128,11 @@ Observe Fig.9.12 (b) carefully. Several rays of light parallel to the principal 
 
 If you pass parallel rays from the opposite surface of the lens, you get another principal focus on the opposite side. Letter F is usually used to represent principal focus. However, a lens has two principal foci. They are represented by $\mathrm { F } _ { 1 }$ and $\mathrm { F } _ { 2 }$ . The distance of the principal focus from the optical centre of a lens is called its focal length. The letter $f$ is used to represent the focal length. How can you find the focal length of a convex lens? Recall the Activity 9.11. In this Activity, the distance between the position of the lens and the position of the image of the Sun gives the approximate focal length of the lens.
 
-#### 9.3.4 Image Formation by Lenses
+### 9.3.4 Image Formation by Lenses
 
 Lenses form images by refracting light. How do lenses form images? What is their nature? Let us study this for a convex lens first.
 
-### Activity 9.12
+#### Activity 9.12
 
 ■ Take a convex lens. Find its approximate focal length in a way described in Activity 9.11.   
 ■ Draw five parallel straight lines, using chalk, on a long Table such that the distance between the successive lines is equal to the focal length of the lens.   
@@ -3175,7 +3150,7 @@ Table 9.4 Nature, position and relative size of the image formed by a convex len
 
 Let us now do an Activity to study the nature, position and relative size of the image formed by a concave lens.
 
-### Activity 9.13
+#### Activity 9.13
 
 ■ Take a concave lens. Place it on a lens stand.   
 ■ Place a burning candle on one side of the lens.   
@@ -3191,7 +3166,7 @@ Table 9.5 Nature, position and relative size of the image formed by a concave le
 
 What conclusion can you draw from this Activity? A concave lens will always give a virtual, erect and diminished image, irrespective of the position of the object.
 
-#### 9.3.5 Image Formation in Lenses Using Ray Diagrams
+### 9.3.5 Image Formation in Lenses Using Ray Diagrams
 
 We can represent image formation by lenses using ray diagrams. Ray diagrams will also help us to study the nature, position and relative size of the image formed by lenses. For drawing ray diagrams in lenses, alike of spherical mirrors, we consider any two of the following rays –
 
@@ -3244,11 +3219,11 @@ Figure 9.16 The position, size and the nature of the image formed by a convex le
 (b)   
 Figure 9.17 Nature, position and relative size of the image formed by a concave lens
 
-#### 9.3.6 Sign Convention for Spherical Lenses
+### 9.3.6 Sign Convention for Spherical Lenses
 
 For lenses, we follow sign convention, similar to the one used for spherical mirrors. We apply the rules for signs of distances, except that all measurements are taken from the optical centre of the lens. According to the convention, the focal length of a convex lens is positive and that of a concave lens is negative. You must take care to apply appropriate signs for the values of u, v, f, object height h and image height $h ^ { \prime }$ .
 
-#### 9.3.7 Lens Formula and Magnification
+### 9.3.7 Lens Formula and Magnification
 
 As we have a formula for spherical mirrors, we also have formula for spherical lenses. This formula gives the relationship between objectdistance (u), image-distance (v) and the focal length (f). The lens formula is expressed as
 
@@ -3352,7 +3327,7 @@ or, $\mathrm { m } { = } \frac { + 3 0 \mathrm { c m } } { - 1 5 \mathrm { c m }
 
 The negative signs of m and $h ^ { \prime }$ show that the image is inverted and real. It is formed below the principal axis. Thus, a real, inverted image, 4 cm tall, is formed at a distance of 30 cm on the other side of the lens. The image is two times enlarged.
 
-#### 9.3.8 Power of a Lens
+### 9.3.8 Power of a Lens
 
 You have already learnt that the ability of a lens to converge or diverge light rays depends on its focal length. For example, a convex lens of short focal length bends the light rays through large angles, by focussing them closer to the optical centre. Similarly, concave lens of very short focal length causes higher divergence than the one with longer focal length. The degree of convergence or divergence of light rays achieved by a lens is expressed in terms of its power. The power of a lens is defined as the reciprocal of its focal length. It is represented by the letter $P$ . The power $P$ of a lens of focal length f is given by
 
@@ -3472,7 +3447,7 @@ ou have studied in the previous chapter about refraction of light by lenses. You
 
 We have learnt in the previous chapter about light and some of its properties. In this chapter, we shall use these ideas to study some of the optical phenomena in nature. We shall also discuss about rainbow formation, splitting of white light and blue colour of the sky.
 
-### 10.1 THE HUMAN EYE
+## 10.1 THE HUMAN EYE
 
 The human eye is one of the most valuable and sensitive sense organs. It enables us to see the wonderful world and the colours around us. On closing the eyes, we can identify objects to some extent by their smell, taste, sound they make or by touch. It is, however, impossible to identify colours while closing the eyes. Thus, of all the sense organs, the human eye is the most significant one as it enables us to see the beautiful, colourful world around us.
 
@@ -3483,7 +3458,7 @@ distances on the retina. We find a structure called iris behind the cornea. Iris
 ![](images/8ea946c66c5426cd400894304cdc3fa3ba761c37ddd57d68b50d57d023cc5cfb.jpg)  
 Figure 10.1 The human eye
 
-#### 10.1.1 Power of Accommodation
+### 10.1.1 Power of Accommodation
 
 The eye lens is composed of a fibrous, jelly-like material. Its curvature can be modified to some extent by the ciliary muscles. The change in the curvature of the eye lens can thus change its focal length. When the muscles are relaxed, the lens becomes thin. Thus, its focal length increases. This enables us to see distant objects clearly. When you are looking at objects closer to the eye, the ciliary muscles contract. This increases the curvature of the eye lens. The eye lens then becomes thicker. Consequently, the focal length of the eye lens decreases. This enables us to see nearby objects clearly.
 
@@ -3491,7 +3466,7 @@ The ability of the eye lens to adjust its focal length is called accommodation. 
 
 Sometimes, the crystalline lens of people at old age becomes milky and cloudy. This condition is called cataract. This causes partial or complete loss of vision. It is possible to restore vision through a cataract surgery.
 
-### 10.2 DEFECTS OF VISION AND THEIR CORRECTION
+## 10.2 DEFECTS OF VISION AND THEIR CORRECTION
 
 Sometimes, the eye may gradually lose its power of accommodation. In such conditions, the person cannot see the objects distinctly and comfortably. The vision becomes blurred due to the refractive defects of the eye.
 
@@ -3575,11 +3550,11 @@ An eye bank collects, evaluates and distributes the donated eyes. All eyes donat
 
 One pair of eyes gives vision to up to FOUR CORNEALBLIND PEOPLE.
 
-### 10.3REFRACTIONOFLIGHTTHROUGHAPRISM
+## 10.3REFRACTIONOFLIGHTTHROUGHAPRISM
 
 You have learnt how light gets refracted through a rectangular glass slab. For parallel refracting surfaces, as in a glass slab, the emergent ray is parallel to the incident ray. However, it is slightly displaced laterally. How would light get refracted through a transparent prism? Consider a triangular glass prism. It has two triangular bases and three rectangular lateral surfaces. These surfaces are inclined to each other. The angle between its two lateral faces is called the angle of the prism. Let us now do an activity to study the refraction of light through a triangular glass prism.
 
-### Activity 10.1
+## Activity 10.1
 
 ■ Fix a sheet of white paper on a drawing board using drawing pins.   
 ■ Place a glass prism on it in such a way that it rests on its triangular base. Trace the outline of the prism using a pencil.   
@@ -3598,11 +3573,11 @@ Figure 10.4 Refraction of light through a triangular glass prism
 
 Here PE is the incident ray, EF is the refracted ray and FS is the emergent ray. You may note that a ray of light is entering from air to glass at the first surface AB. The light ray on refraction has bent towards the normal. At the second surface AC, the light ray has entered from glass to air. Hence it has bent away from normal. Compare the angle of incidence and the angle of refraction at each refracting surface of the prism. Is this similar to the kind of bending that occurs in a glass slab? The peculiar shape of the prism makes the emergent ray bend at an angle to the direction of the incident ray. This angle is called the angle of deviation. In this case ÐD is the angle of deviation. Mark the angle of deviation in the above activity and measure it.
 
-### 10.4 DISPERSION OF WHITE LIGHT BYAGLASS PRISM
+## 10.4 DISPERSION OF WHITE LIGHT BYAGLASS PRISM
 
 You must have seen and appreciated the spectacular colours in a rainbow. How could the white light of the Sun give us various colours of the rainbow? Before we take up this question, we shall first go back to the refraction of light through a prism. The inclined refracting surfaces of a glass prism show exciting phenomenon. Let us find it out through an activity.
 
-### Activity 10.2
+## Activity 10.2
 
 Take a thick sheet of cardboard and make a small hole or narrow slit in its middle.   
 ■ Allow sunlight to fall on the narrow slit. This gives a narrow beam of white light.   
@@ -3637,7 +3612,7 @@ Figure 10.8 Rainbow formation
 
 You can also see a rainbow on a sunny day when you look at the sky through a waterfall or through a water fountain, with the Sun behind you.
 
-### 10.5 ATMOSPHERIC REFRACTION
+## 10.5 ATMOSPHERIC REFRACTION
 
 You might have observed the apparent random wavering or flickering of objects seen through a turbulent stream of hot air rising above a fire or a radiator. The air just above the fire becomes hotter than the air further up. The hotter air is lighter (less dense) than the cooler air above it, and has a refractive index slightly
 
@@ -3659,17 +3634,17 @@ The Sun is visible to us about 2 minutes before the actual sunrise, and about 2 
 ![](images/887c03e69232274bffd1aaba7620e20e31c277dd6822f192f4a98e6771d184f2.jpg)  
 Figure 10.10 Atmospheric refraction effects at sunrise and sunset
 
-### 10.6 SCATTERING OFLIGHT
+## 10.6 SCATTERING OFLIGHT
 
 The interplay of light with objects around us gives rise to several spectacular phenomena in nature. The blue colour of the sky, colour of water in deep sea, the reddening of the sun at sunrise and the sunset are some of the wonderful phenomena we are familiar with. In the previous class, you have learnt about the scattering of light by colloidal particles. The path of a beam of light passing through a true solution is not visible. However, its path becomes visible through a colloidal solution where the size of the particles is relatively larger.
 
-#### 10.6.1 Tyndall Effect
+### 10.6.1 Tyndall Effect
 
 T h e e a r t h ’ s a t m o s p h e r e i s a heterogeneous mixture of minute particles. These particles include smoke, tiny water droplets, suspended particles of dust and molecules of air. When a beam of light strikes such fine particles, the path of the beam becomes visible. The light reaches us, after being reflected diffusely by these particles. The phenomenon of scattering of light by the colloidal particles gives rise to Tyndall effect which you have studied in Class IX. This phenomenon is seen when a fine beam of sunlight enters a smoke-filled room through a small hole. Thus, scattering of light makes the particles visible. Tyndall effect can also be observed when sunlight passes through a canopy of a dense forest. Here, tiny water droplets in the mist scatter light.
 
 The colour of the scattered light depends on the size of the scattering particles. Very fine particles scatter mainly blue light while particles of larger size scatter light of longer wavelengths. If the size of the scattering particles is large enough, then, the scattered light may even appear white.
 
-#### 10.6.2Whyis thecolouroftheclearSkyBlue?
+### 10.6.2Whyis thecolouroftheclearSkyBlue?
 
 The molecules of air and other fine particles in the atmosphere have size smaller than the wavelength of visible light. These are more effective in scattering light of shorter wavelengths at the blue end than light of longer wavelengths at the red end. The red light has a wavelength about 1.8 times greater than blue light. Thus, when sunlight passes through the atmosphere, the fine particles in air scatter the blue colour (shorter wavelengths) more strongly than red. The scattered blue light
 
@@ -3741,7 +3716,7 @@ You might have observed that ‘danger’ signal lights are red in colour. Do yo
 
 lectricity has an important place in modern Esociety. It is a controllable and convenient schools, hospitals, industries and so on. What constitutes electricity? How does it flow in an electric circuit? What are the factors that control or regulate the current through an electric circuit? In this Chapter, we shall attempt to answer such questions. We shall also discuss the heating effect of electric current and its applications.
 
-### 11.1ELECTRICCURRENTANDCIRCUIT
+## 11.1ELECTRICCURRENTANDCIRCUIT
 
 We are familiar with air current and water current. We know that flowing water constitute water current in rivers. Similarly, if the electric charge flows through a conductor (for example, through a metallic wire), we say that there is an electric current in the conductor. In a torch, we know that the cells (or a battery, when placed in proper order) provide flow of charges or an electric current through the torch bulb to glow. We have also seen that the torch gives light only when its switch is on. What does a switch do? A switch makes a conducting link between the cell and the bulb. A continuous and closed path of an electric current is called an electric circuit. Now, if the circuit is broken anywhere (or the switch of the torch is turned of f), the current stops flowing and the bulb does not glow.
 
@@ -3780,7 +3755,7 @@ $$
 2. Define the unit of current.   
 3. Calculate the number of electrons constituting one coulomb of charge.
 
-### 11.2 ELECTRIC POTENTIALAND POTENTIALDIFFERENCE
+## 11.2 ELECTRIC POTENTIALAND POTENTIALDIFFERENCE
 
 What makes the electric charge to flow? Let us consider the analogy of flow of water. Charges do not flow in a copper wire by themselves, just as water in a perfectly horizontal tube does not flow. If one end of the tube is connected to a tank of water kept at a higher level, such that there is a pressure difference between the two ends of the tube, water flows out of the other end of the tube. For flow of charges in a conducting metallic wire, the gravity, of course, has no role to play; the electrons move only if there is a difference of electric pressure – called the potential difference – along the conductor. This difference of potential may be produced by a battery, consisting of one or more electric cells. The chemical action within a cell generates the potential difference across the
 
@@ -3820,7 +3795,7 @@ $$
 2. What is meant by saying that the potential difference between two points is 1 V?   
 3. How much energy is given to each coulomb of charge passing through a 6 V battery?
 
-### 11.3 CIRCUITDIAGRAM
+## 11.3 CIRCUITDIAGRAM
 
 We know that an electric circuit, as shown in Fig. 11.1, comprises a cell (or a battery), a plug key, electrical component(s), and connecting wires. It is often convenient to draw a schematic diagram, in which different components of the circuit are represented by the symbols conveniently used. Conventional symbols used to represent some of the most commonly used electrical components are given in Table 11.1.
 
@@ -3830,11 +3805,11 @@ Table 11.1 Symbols of some commonly used components in circuit diagrams
 No.</td><td>Components</td><td>Symbols</td></tr><tr><td>1</td><td>An electric cell</td><td>+ | -</td></tr><tr><td>2</td><td>A battery or a combination of cells</td><td>+ | - | - | -</td></tr><tr><td>3</td><td>Plug key or switch (open)</td><td>- ()-</td></tr><tr><td>4</td><td>Plug key or switch (closed)</td><td>- ()-</td></tr><tr><td>5</td><td>A wire joint</td><td>-</td></tr><tr><td>6</td><td>Wires crossing without joining</td><td>-</td></tr></table>
 
 
-### 11.4 OHM’S LAW
+## 11.4 OHM’S LAW
 
 Is there a relationship between the potential difference across a conductor and the current through it? Let us explore with an Activity.
 
-### Activity 11.1
+## Activity 11.1
 
 ■ Set up a circuit as shown in Fig. 11.2, consisting of a nichrome wire XY of length, say $0 . 5 ~ \mathrm { m }$ , an ammeter, a voltmeter and four cells of $1 . 5 \mathrm { ~ V ~ }$ each. (Nichrome is an alloy of nickel, chromium, manganese, and iron metals.)   
 ■ First use only one cell as the source in the circuit. Note the reading in the ammeter I, for the current and reading of the voltmeter V for the potential difference across the nichrome wire XY in the circuit. Tabulate them in the Table given.   
@@ -3889,7 +3864,7 @@ $$
 
 It is obvious from Eq. (11.7) that the current through a resistor is inversely proportional to its resistance. If the resistance is doubled the current gets halved. In many practical cases it is necessary to increase or decrease the current in an electric circuit. A component used to regulate current without changing the voltage source is called variable resistance. In an electric circuit, a device called rheostat is often used to change the resistance in the circuit. We will now study about electrical resistance of a conductor with the help of following Activity.
 
-### Activity 11.2
+## Activity 11.2
 
 Take a nichrome wire, a torch bulb, a 10 W bulb and an ammeter (0 – 5 A range), a plug key and some connecting wires.   
 ■ Set up the circuit by connecting four dry cells of $1 . 5 \mathrm { ~ V ~ }$ each in series with the ammeter leaving a gap XY in the circuit, as shown in Fig. 11.4.
@@ -3914,7 +3889,7 @@ Now repeat the above step with the 10 W bulb in the gap XY.
 
 In this Activity we observe that the current is different for different components. Why do they differ? Certain components offer an easy path for the flow of electric current while the others resist the flow. We know that motion of electrons in an electric circuit constitutes an electric current. The electrons, however, are not completely free to move within a conductor. They are restrained by the attraction of the atoms among which they move. Thus, motion of electrons through a conductor is retarded by its resistance. A component of a given size that offers a low resistance is a good conductor. A conductor having some appreciable resistance is called a resistor. A component of identical size that offers a higher resistance is a poor conductor. An insulator of the same size offers even higher resistance.
 
-### 11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR
+## 11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR
 
 ## EPENDS
 
@@ -4051,7 +4026,7 @@ The resistance of the new wire is 1Ω.
 (b) Which material is the best conduct.or?
 
 
-### 11.6 RESISTANCE OF A SYSTEM OF RESISTORS
+## 11.6 RESISTANCE OF A SYSTEM OF RESISTORS
 
 In preceding sections, we learnt about some simple electric circuits. We have noticed how the current through a conductor depends upon its resistance and the potential difference across its ends. In various electrical gadgets, we often use resistors in various combinations. We now therefore intend to see how Ohm’s law can be applied to combinations of resistors.
 
@@ -4065,11 +4040,11 @@ Figure 11.7 shows a combination of resistors in which three resistors are connec
 ![](images/077bf710e0bde025d46af7015d0d778ecb281888ac8b55df1ccd35542787bd9d.jpg)  
 Figure 11.7 Resistors in parallel
 
-#### 11.6.1 Resistors in Series
+### 11.6.1 Resistors in Series
 
 What happens to the value of current when a number of resistors are connected in series in a circuit? What would be their equivalent resistance? Let us try to understand these with the help of the following activities.
 
-### Activity 11.4
+#### Activity 11.4
 
 ■ Join three resistors of different values in series. Connect them with a battery, an ammeter and a plug key, as shown in Fig. 11.6. You may use the resistors of values like 1 Ω, 2 Ω, 3 Ω etc., and a battery of $6 \mathrm { ~ V ~ }$ for performing this Activity.   
 Plug the key. Note the ammeter reading.   
@@ -4078,7 +4053,7 @@ Plug the key. Note the ammeter reading.
 
 You will observe that the value of the current in the ammeter is the same, independent of its position in the electric circuit. It means that in a series combination of resistors the current is the same in every part of the circuit or the same current through each resistor.
 
-### Activity 11.5
+#### Activity 11.5
 
 In Activity 11.4, insert a voltmeter across the ends X and Y of the series combination of three resistors, as shown in Fig. 11.6.   
 Plug the key in the circuit and note the voltmeter reading. It gives the potential difference across the series combination of resistors. Let it be V. Now measure the potential difference across the two terminals of the battery. Compare the two values.   
@@ -4189,11 +4164,11 @@ This is the total resistance of the series circuit; it is equal to the sum of th
 1. Draw a schematic diagram of a circuit consisting of a battery of three cells of $2 \mathrm { ~ V ~ }$ each, a $5 \Omega$ resistor, an $8 \Omega$ resistor, and a $1 2 \Omega$ resistor, and a plug key, all connected in series.   
 2. Redraw the circuit of Question 1, putting in an ammeter to measure the current through the resistors and a voltmeter to measure the potential difference across the $1 2 \ \Omega$ resistor. What would be the readings in the ammeter and the voltmeter?
 
-#### 11.6.2 Resistors in Parallel
+### 11.6.2 Resistors in Parallel
 
 Now, let us consider the arrangement of three resistors joined in parallel with a combination of cells (or a battery), as shown in Fig.11.7.
 
-### Activity 11.6
+#### Activity 11.6
 
 Make a parallel combination, XY, of three resistors having resistances R , R , and $\mathrm { R } _ { 3 }$ , respectively. Connect it with a battery, a plug key and an ammeter, as shown in Fig. 11.10. Also connect a v o l t m e t e r i n p a r a l l e l w i t h t h e combination of resistors.
 
@@ -4326,7 +4301,7 @@ We have seen that in a series circuit the current is constant throughout the ele
 4. How can three resistors of resistances $2 \Omega , 3 \Omega$ , and $6 \Omega$ be connected to give a total resistance of (a) $4 \Omega , ( \mathrm { b } ) 1 \Omega ?$   
 5. What is (a) the highest, (b) the lowest total resistance that can be secured by combinations of four coils of resistance $4 \Omega , 8 \Omega , 1 2 \Omega , 2 4 \Omega ?$
 
-### 11.7 HEATING EFFECT OF ELECTRICCURRENT
+## 11.7 HEATING EFFECT OF ELECTRICCURRENT
 
 We know that a battery or a cell is a source of electrical energy. The chemical reaction within the cell generates the potential difference between its two terminals that sets the electrons in motion to flow the current through a resistor or a system of resistors connected to the battery. We have also seen, in Section 11.2, that to maintain the current, the source has to keep expending its energy. Where does this energy go? A part of the source energy in maintaining the current may be consumed into useful work (like in rotating the blades of an electric fan). Rest of the source energy may be expended in heat to raise the temperature of gadget. We often observe this in our everyday life. For example, an electric fan becomes warm if used continuously for longer time etc. On the other hand, if the electric circuit is purely resistive, that is, a configuration of resistors only connected to a battery; the source energy continually gets dissipated entirely in the form of heat. This is known as the heating effect of electric current. This effect is utilised in devices such as electric heater, electric iron etc.
 
@@ -4416,7 +4391,7 @@ $$
 2. Compute the heat generated while transferring 96000 coulomb of charge in one hour through a potential difference of 50 V.   
 3. An electric iron of resistance $2 0 ~ \Omega$ takes a current of 5 A. Calculate the heat developed in 30 s.
 
-#### 11.7.1 Practical Applications of Heating Effect of Electric Current
+### 11.7.1 Practical Applications of Heating Effect of Electric Current
 
 The generation of heat in a conductor is an inevitable consequence of electric current. In many cases, it is undesirable as it converts useful electrical energy into heat. In electric circuits, the unavoidable heating can increase the temperature of the components and alter their properties. However, heating effect of electric current has many useful applications. The electric laundry iron, electric toaster, electric oven, electric kettle and electric heater are some of the familiar devices based on Joule’s heating.
 
@@ -4426,7 +4401,7 @@ filled with chemically inactive nitrogen and argon gases to prolong the life of 
 
 Another common application of Joule’s heating is the fuse used in electric circuits. It protects circuits and appliances by stopping the flow of any unduly high electric current. The fuse is placed in series with the device. It consists of a piece of wire made of a metal or an alloy of appropriate melting point, for example aluminium, copper, iron, lead etc. If a current larger than the specified value flows through the circuit, the temperature of the fuse wire increases. This melts the fuse wire and breaks the circuit. The fuse wire is usually encased in a cartridge of porcelain or similar material with metal ends. The fuses used for domestic purposes are rated as 1 A, 2 A, 3 A, 5 A, 10 A, etc. For an electric iron which consumes $1 \mathrm { k W }$ electric power when operated at 220 V, a current of (1000/220) A, that is, 4.54 A will flow in the circuit. In this case, a 5 A fuse must be used.
 
-### 11.8 ELECTRIC POWER
+## 11.8 ELECTRIC POWER
 
 You have studied in your earlier Class that the rate of doing work is power. This is also the rate of consumption of energy.
 
@@ -4597,7 +4572,7 @@ Plot a graph between V and I and calculate the resistance of that resistor.
 
 n the previous Chapter on ‘Electricity’ we Ilearnt about the heating effects of electric current. What could be the other effects of electric current? We know that an electric current-carrying wire behaves like a magnet. Let us perform the following Activity to reinforce it.
 
-### Activity 12.1
+## Activity 12.1
 
 ![](images/7dd5701cf326b5c6d461dafdb8de355356a1e1e597ba6b658f5b3b218bad6f31.jpg)  
 Figure 12.1 Compass needle is deflected on passing an electric current through a metallic conductor
@@ -4619,7 +4594,7 @@ Hans Christian Oersted, o n e o f t h e l e a d i n g scientists of the 19th cen
 
 that a compass needle got deflected when an electric current passed through a metallic wire placed nearby. Through this observation Oersted showed that electricity and magnetism were related phenomena. His research later created technologies such as the radio, television and fiber optics. The unit of magnetic field strength is named the oersted in his honor.
 
-### 12.1 MAGNETIC FIELD AND FIELD LINES
+## 12.1 MAGNETIC FIELD AND FIELD LINES
 
 We are familiar with the fact that a compass needle gets deflected when brought near a bar magnet. A compass needle is, in fact, a small bar magnet. The ends of the compass needle point approximately towards north and south directions. The end pointing towards north is called north seeking or north pole. The other end that points towards south is called south seeking or south pole. Through various activities we have observed that like poles repel, while unlike poles of magnets attract each other.
 
@@ -4628,7 +4603,7 @@ We are familiar with the fact that a compass needle gets deflected when brought 
 1. Why does a compass needle get d e fl e c t e d w h e n b r o u g h t n e a r a bar magnet?
 
 
-### Activity 12.2
+## Activity 12.2
 
 ![](images/4c853159fa0a84c0684fbe8fcc580f54c7feb406649071add2db7d64123f2743.jpg)  
 Figure 12.2
@@ -4647,7 +4622,7 @@ magnet, in which the force of the magnet can be detected, is said to have a magn
 
 Are there other ways of obtaining magnetic field lines around a bar magnet? Yes, you can yourself draw the field lines of a bar magnet.
 
-### Activity 12.3
+## Activity 12.3
 
 Take a small compass and a bar magnet.   
 ■ Place the magnet on a sheet of white paper fixed on a drawing board, using some adhesive material.   
@@ -4677,7 +4652,7 @@ The relative strength of the magnetic field is shown by the degree of closeness 
 
 No two field-lines are found to cross each other. If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.
 
-### 12.2 MAGNETIC FIELD DUE TO A CURRENT-CARRYING CONDUCTOR
+## 12.2 MAGNETIC FIELD DUE TO A CURRENT-CARRYING CONDUCTOR
 
 In Activity 12.1, we have seen that an electric current through a metallic conductor produces a magnetic field around it. In order to find the direction of the field produced let us repeat the activity in the following way –
 
@@ -4695,13 +4670,13 @@ Take a long straight copper wire, two or three cells of 1.5 V each, and a plug k
 ■ Replace the cell connections in the circuit as shown in Fig. 12.5 (b). This would result in the change of the direction of current through the copper wire, that is, from south to north.   
 ■ Observe the change in the direction of deflection of the needle. You will see that now the needle moves in opposite direction, that is, towards the west [Fig. 12.5 (b)]. It means that the direction of magnetic field produced by the electric current is also reversed.
 
-#### 12.2.1 Magnetic Field due to a Current through a Straight Conductor
+### 12.2.1 Magnetic Field due to a Current through a Straight Conductor
 
 What determines the pattern of the magnetic field generated by a current through a conductor? Does the pattern depend on the shape of the conductor? We shall investigate this with an activity.
 
 We shall first consider the pattern of the magnetic field around a straight conductor carrying current.
 
-### Activity 12.5
+#### Activity 12.5
 
 ![](images/5a7cf83f4649efa4055d3f31615573b592662e3d1b55866e58717236e755fdb3.jpg)
 
@@ -4729,7 +4704,7 @@ What happens to the deflection of the needle if the compass is moved away from t
 
 remains the same? To see this, now place the compass at a farther point from the conducting wire (say at point Q). What change do you observe? We see that the deflection in the needle decreases. Thus the magnetic field produced by a given current in the conductor decreases as the distance from it increases. From Fig. 12.6, it can be noticed that the concentric circles representing the magnetic field around a current-carrying straight wire become larger and larger as we move away from it.
 
-#### 12.2.2 Right-Hand Thumb Rule
+### 12.2.2 Right-Hand Thumb Rule
 
 A convenient way of finding the direction of magnetic field associated with a currentcarrying conductor is given in Fig. 12.7.
 
@@ -4756,7 +4731,7 @@ the magnetic field (at any point below or above the wire) turns clockwise in a p
 2. List the properties of magnetic field lines.   
 3. Why don’t two magnetic field lines intersect each other?
 
-#### 12.2.3 Magnetic Field due to a Current through a Circular Loop
+### 12.2.3 Magnetic Field due to a Current through a Circular Loop
 
 We have so far observed the pattern of the magnetic field lines produced around a current-carrying straight wire. Suppose this straight wire is bent in the form of a circular loop and a current is passed through it. How would the magnetic field lines look like? We know that the magnetic field produced by a current-carrying straight wire depends inversely on the distance from it. Similarly at every point of a current-carrying circular loop, the concentric circles representing the magnetic field around it would become larger and larger as we move away from the wire (Fig. 12.8). By the time we reach at the centre of the circular loop, the arcs of these big circles would appear as straight lines. Every point on the wire carrying current would give rise to the magnetic field appearing as straight lines at the center of the loop. By applying the right hand rule, it is easy to check that every section of the wire contributes to the magnetic field lines in the same direction within the loop.
 
@@ -4769,7 +4744,7 @@ We know that the magnetic field produced by a current-carrying wire at a given p
 
 * This rule is also called Maxwell’s corkscrew rule. If we consider ourselves driving a corkscrew in the direction of the current, then the direction of the rotation of corkscrew is the direction of the magnetic field..
 
-### Activity 12.6
+#### Activity 12.6
 
 ■ Take a rectangular cardboard having two holes. Insert a circular coil having large number of turns through them, normal to the plane of the cardboard.   
 ■ Connect the ends of the coil in series with a battery, a key and a rheostat, as shown in Fig. 12.9.
@@ -4781,7 +4756,7 @@ Figure 12.9 Magnetic field produced by a current-carrying circular coil.
 Plug the key.   
 ■ Tap the cardboard gently a few times. Note the pattern of the iron filings that emerges on the cardboard.
 
-#### 12.2.4 Magnetic Field due to a Current in a Solenoid
+### 12.2.4 Magnetic Field due to a Current in a Solenoid
 
 A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid. The pattern of the magnetic field lines around a current-carrying solenoid is shown in Fig. 12.10. Compare the
 
@@ -4810,11 +4785,11 @@ The magnetic field inside a long straight solenoid-carrying current
 (d) is the same at all points.
 
 
-### 12.3 FORCEONACURRENT-CARRYING CONDUCTORINAMAGNETICFIELD
+## 12.3 FORCEONACURRENT-CARRYING CONDUCTORINAMAGNETICFIELD
 
 We have learnt that an electric current flowing through a conductor produces a magnetic field. The field so produced exerts a force on a magnet placed in the vicinity of the conductor. French scientist Andre Marie Ampere (1775–1836) suggested that the magnet must also exert an equal and opposite force on the current-carrying conductor. The force due to a magnetic field acting on a c u r r e n t - c a r r y i n g c o n d u c t o r c a n b e demonstrated through the following activity.
 
-### Activity 12.7
+## Activity 12.7
 
 ![](images/8fed64c9de73ac188e8166203016374da3b41e7e66430e71f4bf4f5482a252e4.jpg)  
 Figure 12.12 A current-carrying rod, AB, experiences a force perpendicular to its length and the magnetic field. Support for the magnet is not shown here, for simplicity.
@@ -4884,7 +4859,7 @@ uth (b) towards east
 
 An electric current always produces a magnetic field. Even weak ion currents that travel along the nerve cells in our body produce magnetic fields. When we touch something, our nerves carry an electric impulse to the muscles we need to use. This impulse produces a temporary magnetic field. These fields are very weak and are about one-billionth of the earth’s magnetic field. Two main organs in the human body where the magnetic field produced is significant, are the heart and the brain. The magnetic field inside the body forms the basis of obtaining the images of different body parts. This is done using a technique called Magnetic Resonance Imaging (MRI). Analysis of these images helps in medical diagnosis. Magnetism has, thus, got important uses in medicine.
 
-### 12.4 DOMESTIC ELECTRIC CIRCUITS
+## 12.4 DOMESTIC ELECTRIC CIRCUITS
 
 In our homes, we receive supply of electric power through a main supply (also called mains), either supported through overhead electric poles or by underground cables. One of the wires in this supply, usually with red insulation cover, is called live wire (or positive). Another wire, with black insulation, is called neutral wire (or negative). In our country, the potential difference between the two is $2 2 0 \mathrm { V } .$ .
 

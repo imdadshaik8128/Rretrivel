@@ -1,13 +1,9 @@
 # Chapter 1
 # Power-sharing
 
-1072CH01
-
 ## Overview
 
 With this chapter, we resume the tour of democracy that we started last year. We noted last year that in a democracy all power does not rest with any one organ of the government. An intelligent sharing of power among legislature, executive and judiciary is very important to the design of a democracy. In this and the next two chapters, we carry this idea of power-sharing forward. We start with two stories from Belgium and Sri Lanka. Both these stories are about how democracies handle demands for power-sharing. The stories yield some general conclusions about the need for power-sharing in democracy. This allows us to discuss various forms of power-sharing that will be taken up in the following two chapters.
-
-Chapter I
 
 I have a simple equation in mind. Sharing power $=$ dividing power $=$ weakening the country. Why do we start by talking of this?
 
@@ -64,7 +60,6 @@ The Sri Lankan Tamils launched parties and struggles for the recognition of Tami
 The distrust between the two
 
 communities turned into widespread confl ict. It soon turned into a CIVIL WAR. As a result thousands of people of both the communities have been killed. Many families were forced to leave the country as refugees and many more lost their livelihoods. You have read (Chapter 1 of Economics textbook, Class X) about Sri Lanka’s excellent record of economic development, education and health. But the civil war has caused a terrible setback to the social, cultural and economic life of the country. It ended in 2009.
-
 
 Civil war: A violent confl ict between opposing groups within a country that becomes so intense that it appears like a war.
 
@@ -186,7 +181,6 @@ Here are some examples of power sharing. Which of the four types of power sharin
 
 ## Exercises
 
-
 1. What are the diff erent forms of power sharing in modern democracies? Give an example of each of these.   
 2. State one prudential reason and one moral reason for power sharing with an example from the Indian context.   
 3. After reading this chapter, three students drew diff erent conclusions. Which of these do you agree with and why? Give your reasons in about 50 words.
@@ -246,8 +240,6 @@ Which of these statements are true and false?
 # Chapter 2
 # Federalism
 
-1072CH02
-
 ## Overview
 
 In the previous chapter, we noted that vertical division of power among different levels of government is one of the major forms of power-sharing in modern democracies. In this chapter, we focus on this form of powersharing. It is most commonly referred to as federalism. We begin by describing federalism in general terms. The rest of the chapter tries to understand the theory and practice of federalism in India. A discussion of the federal constitutional provisions is followed by an analysis of the policies and politics that has strengthened federalism in practice. Towards the end of the chapter, we turn to the local government, a new and third tier of Indian federalism.
@@ -289,7 +281,7 @@ The second route is where a large country decides to divide its power between th
 
 If federalism works only in big countries, why did Belgium adopt it?
 
-## GlO ssary
+### Glossary
 
 Jurisdiction: The area over which someone has legal authority. The area may be defi ned in terms of geographical boundaries or in terms of certain kinds of subjects.
 
@@ -517,6 +509,9 @@ If you live in a village, fi nd out the names of the following: your panch or wa
 
 If you live in urban areas, fi nd out the name of your municipal councillor, and the municipal chairperson or mayor. Also fi nd out about the budget of your municipal corporation, municipality and the major items on which money was spent.
 
+
+## Exercises
+
 1. Locate the following States on a blank outline political map of India: Manipur, Sikkim, Chhattisgarh and Goa.   
 2. Identify and shade three federal countries (other than India) on a blank outline political map of the world.   
 3. Point out one feature in the practice of federalism in India that is similar to and one feature that is diff erent from that of Belgium.   
@@ -548,10 +543,6 @@ E. Banking; F. Forests; G. Communications; H. Trade; I. Marriages
 
 <table><tr><td>Union List</td><td></td></tr><tr><td>State List</td><td></td></tr><tr><td>Concurrent List</td><td></td></tr></table>
 
-
-## Exercises
-
-
 10. Examine the following pairs that give the level of government in India and the powers of the government at that level to make laws on the subjects mentioned against each. Which of the following pairs is not correctly matched?
 
 <table><tr><td>(a) State government</td><td>State List</td></tr><tr><td>(b) Central government</td><td>Union List</td></tr><tr><td>(c) Central and State governments</td><td>Concurrent List</td></tr><tr><td>(d) Local governments</td><td>Residuary powers</td></tr></table>
@@ -577,13 +568,8 @@ Which of the statements given above are correct?
 # Chapter 3
 # Gender, Religion and Caste
 
-1072CH03
-
 ## Overview
-
 The existence of social diversity does not threaten democracy. Political expression of social differences is possible and sometimes quite desirable in a democratic system. In this chapter we apply these ideas to the practice of democracy in India. We look at three kinds of social differences that can take the form of social divisions and inequalities. These are social differences based on gender, religion and caste. In each case we look at the nature of this division in India and how it gets expressed in politics. We also ask whether different expressions based on these differences are healthy or otherwise in a democracy.
-
-
 
 ## Gender and politics
 
@@ -592,11 +578,8 @@ The existence of social diversity does not threaten democracy. Political express
 ![](images/ce0623fb925adac20d0171fc55fa703f5c174f2f1a34ccd9cb2bab603570e1c9.jpg)  
 A poster from Bengal affi rming women’s strength.
 
-## GlO ssary
-
-Sexual division of labour:
-
-A system in which all work inside the home is either done by the women of the family, or organised by them through the domestic helpers.
+### Glossary
+Sexual division of labour: A system in which all work inside the home is either done by the women of the family, or organised by them through the domestic helpers.
 
 Let us begin with gender division. This is a form of hierarchical social division seen everywhere, but is rarely recognised in the study of politics. The gender division tends to be understood as natural and unchangeable. However, it is not based on biology but on social expectations and stereotypes.
 
@@ -647,15 +630,11 @@ Sws.Ju/.
 
 Discuss all these perceptions of an ideal woman that prevail in our society. Do you agree with any of these? If not, what is your image of an ideal woman?
 
-## Glo ssary
-
+### Glossary
 Feminist: A woman or a man who believes in equal rights and opportunities for women and men.
 
-## GlO ssary
-
-Patriarchy: Literally, rule by father, this concept is used to refer to a system that values men more and gives them power over women.
-
-participation of women in public life is very high.
+### Glossary
+Patriarchy: Literally, rule by father, this concept is used to refer to a system that values men more and gives them power over women.participation of women in public life is very high.
 
 In our country, women still lag much behind men despite some improvement since Independence. Ours is still a male-dominated, P ATRIARCHAL society. Women face
 
@@ -663,7 +642,7 @@ disadvantage, discrimination and oppression in various ways:
 
  The literacy rate among women is only 54 per cent compared with 76 per cent among men. Similarly, a smaller proportion of girl students go for higher studies. When we
 
-## Let'sdoit
+## Let's do it
 
 A ‘time use survey’ was conducted in six states of our country. It shows that an average woman works every day for a little over seven and half hours while an average man works for six and a half hours. Yet the work done by men is more visible because most of their work leads to generation of income. Women also do a lot of direct income generating work, but the bulk of their work is household related. This work remains unpaid and invisible.
 
@@ -895,6 +874,8 @@ At the same time, exclusive attention to caste can produce negative results as w
 
 ![](images/8bf8891fdead42b940bdc62082ff3040af806728ee9d018deb7f0f9f80a24078.jpg)
 
+## Exercises
+
 1. Mention diff erent aspects of life in which women are discriminated or disadvantaged in India.   
 2. State diff erent forms of communal politics with one example each.   
 3. State how caste inequalities are still continuing in India.   
@@ -946,13 +927,9 @@ Which of the statements are correct?
 # Chapter 4
 # Political Parties
 
-1072CH04
-
 ## Overview
 
 In this tour of democracy, we have come across political parties several times. In Class IX, we noticed the role of political parties in the rise of democracies, in the formation of constitutional designs, in electoral politics and in the making and working of governments. In this textbook, we have glanced at political parties as vehicles of federal sharing of political power and as negotiators of social divisions in the arena of democratic politics. Before concluding this tour, let us take a close look at the nature and working of political parties, especially in our country. We begin by asking two common questions: Why do we need parties? How many parties are good for a democracy? In the light of these, we introduce the national and regional political parties in today’s India and then look at what is wrong with political parties and what can be done about it.
-
-
 
 ## Why do we need political parties?
 
@@ -986,32 +963,11 @@ Election Commission has offi cially banned wall writing by parties during electi
 
 ![](images/0436779f30f852d96f0f44d3f17fc3c7e99d6575475b5a27cefe2df4481c6862.jpg)
 
-## GlO ssary
+### Glossary
+Partisan: A person who is strongly committed to a party, group or faction. Partisanship is marked by a tendency to take a ide and inability to take a balanced view on an issue. all, parties try to persuade people why their policies are better than others. 
 
-Partisan: A person
-
-who is strongly
-
-committed to a
-
-party, group or
-
-faction. Partisanship
-
-is marked by a
-
-tendency to take a
-
-ide and inability
-
-to take a balanced
-
-view on an issue.
-
-all, parties try to persuade people why their policies are better than others. They seek to implement these policies by winning popular support through elections.
-
-Thus, parties refl ect fundamental political divisions in a society. Parties are about a part of the society and thus, involve P ARTISANSHIP . Thus, a party is known by which part it stands for, which policies it supports and whose interests it upholds. A political party has three components:
-
+They seek to implement these policies by winning popular support through elections.Thus, parties refl ect fundamental political divisions in a society. Parties are about a part of the society and thus, involve P ARTISANSHIP . Thus, a party is known by which part it stands for, which policies it supports and whose interests it upholds. 
+A political party has three components:
  the leaders,   
  the active members and   
  the followers
@@ -1251,8 +1207,7 @@ Let us look at some of the recent efforts and suggestions in our country to refo
 
  The Constitution was amended to prevent elected MLAs and MPs from changing parties. This was done because many elected representatives were indulging in DEFECTION in order to become ministers or for cash rewards. Now the law says that if
 
-## Glo ssary
-
+### Glossary
 Defection: Changing party allegiance from the party on which a person got elected (to a legislative body) to a different party.
 
 ![](images/11d3ae3062158ea42e46c5e665ee2941c21506cdd0db17de4adbfaf0059e090e.jpg)  
@@ -1281,6 +1236,8 @@ There are two other ways in which political parties can be reformed. One, people
 pressure on political parties. This can be done through petitions, publicity and agitations. Ordinary citizens, pressure groups and movements and the media can play an important role in this. If political parties feel that they would lose public support by not taking up reforms, they would become more serious about reforms. Two, political parties can improve if
 
 those who want this, join political parties. The quality of democracy depends on the degree of public participation. It is diffi cult to reform politics if ordinary citizens do not take part in it and simply criticise it from the outside. The problem of bad politics can be solved by more and better politics. We shall return to this theme in the fi nal chapter.
+
+## Exercies
 
 1. State the various functions political parties perform in a democracy.   
 2. What are the various challenges faced by political parties?   
@@ -1333,8 +1290,6 @@ Do you agree with the statements and fears expressed by various people? How do y
 
 # Chapter 5
 # Outcomes of Democracy
-
-1072CH05
 
 ## Overview
 
@@ -1526,6 +1481,9 @@ The above cartoon and graph illustrate a point made in this section (Dignity and
 Those who say that their vote makes a difference...
 
 ![](images/308e2dc4a09ea88775a1736f54c3da2d089a838fe060c4b810122979ae2885ec.jpg)
+
+
+## Exercises
 
 1. How does democracy produce an accountable, responsive and legitimate government?   
 2. What are the conditions under which democracies accommodate social diversities?   

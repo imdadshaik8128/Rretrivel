@@ -33,8 +33,7 @@ Resources are vital for human survival as well as for maintaining the quality of
 ## 
 
 1. Imagine, if the oil supply gets exhausted one day, how would this affect our life style?   
-2. Plan a survey in your colony/village to investigate people’s attitude towards recycling of the domestic/agricultural wastes. Ask questions about :
-
+2. Plan a survey in your colony/village to investigate people’s attitude towards recycling of the domestic/agricultural wastes. Ask questions about 
 (a) What do they think about resources they use?   
 (b) What is their opinion about the wastes, and its utilisation?   
 (c) Collage your results.

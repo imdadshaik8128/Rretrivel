@@ -3,8 +3,6 @@
 
 ![](images/ae2bd1f9b3266fdc0f5c86c0c16bb781dcb8e6c7243525582a8a9899ece202e4.jpg)
 
-
-
 Food is needed by all living organisms mainly for growth and repair. Several organisms need food to maintain body temperature as well. A variety of substances are taken as food by every organisms from single celluar organisms like amoeba to the complex multicellular organisms like the human body. Even within the human body the cells require a wide variety of substances as food to carryout their functions. The mode of acquiring food varies from organism to organism.
 
 You have studied in the previous classes about how different organisms get their food. Let us recall them.
@@ -64,10 +62,9 @@ Can we state that photosynthesis is the basic energy source for most of the livi
 
 Let us study how the plants prepare carbohydrates through photosynthesis.
 
-### Activity-1
+## Activity-1
 
-## Presence of starch (a type of carbohydrate) in leaves
-
+### Presence of starch (a type of carbohydrate) in leaves
 Let us take a leaf from a plant with soft and thin leaves and well exposed to sun light.
 
 Arrange apparatus as shown in figure 2 (a). Take methylated spirit in a test tube and put the leaf in it.
@@ -139,9 +136,10 @@ Massive amounts of gaseous exchange occur through the stomata (usually present i
 
 It is actually at the level of the organelles involved in the process of photosynthesis and respiration that the choice of the gas required is made.
 
-### Activity-2
+## Activity-2
 
-## Carbondioxide is necessary for Photosynthesis
+### Carbondioxide is necessary for Photosynthesis
+
 
 We need a destarched plant to start with. We need to keep the plant in the dark for nearly three days to remove the starch (destarch). By placing the plant in dark the starch is removed from the leaves.
 
@@ -181,9 +179,10 @@ A Dutch scientist, Jan Ingenhousz (1730-1799), found the answer. He studied the 
 It was further confirmed when Engelman in the early $2 0 ^ { \mathrm { t h } }$ century ingeniously detected the point of maximum rate of photosynthesis. He used a strand of algae and exposed it to different colours of light (the colours that we see in a rainbow) Then he used oxygen sensitive bacteria and found that they crowd around areas illuminated with red and blue rays of light. This led to more studies on effect of light on photosynthesis, the role of different coloured compounds called pigments in plants and the utilization of light energy.
 
 
-### Lab Activity
+## Lab Activity
 
-## Oxygen is produced during photosynthesis in the presence of light
+### Oxygen is produced during photosynthesis in the presence of light
+
 
 Arrange the apparatus as shown in the figure. Make two identical sets.
 
@@ -204,9 +203,10 @@ What precautions do you need while removing test tube from the beaker.
 
 Discuss with your teacher.
 
-### Activity-3
+## Activity-3
 
-## Sunlight is necessary to form starch in green plants
+### Sunlight is necessary to form starch in green plants
+
 
 ![](images/71f865e30bae2b6f4943efe2796f671e37fdb30b4dbdd66dcb78894e060ce460.jpg)
 
@@ -256,7 +256,7 @@ You have studied about Chloroplast in Class IX. Let us observe theT figure of TS
 What makes chloroplast appear completely different from other cell organelles?
 
 
-## Do you know?
+### Do you know?
 
 If a cell is broken up, the chloroplasts also break into pieces, so it becomes a very difficult task to isolate them to study the different steps of photosynthesis.It was not until 1954, that Daniel I. Arnon was able to break up plant cells so gently that whole chloroplasts could be obtained that could carry through photosynthesis.
 
@@ -387,9 +387,10 @@ Pancreatic juice secreted from pancreas contains enzymes like trypsin for carryi
 
 Walls of the small intestine secrete intestinal juice called succusentericus which carry this process further that is small molecules of proteins are broken down to further smaller molecules. The same is the condition with fats. Carbohydrate digestion that started in the mouth and did not occur in the stomach, resumes now as the medium gradually changes to an alkaline one and the enzymes become active for carbohydrate breakdown.
 
-### Activity-4
+## Activity-4
 
-## Studying the enzymes chart
+### Studying the enzymes chart
+
 
 Let us study the chart showing different enzymes and digestive juices and their functions.
 
@@ -479,7 +480,7 @@ Table-2: Vitamins
 <table><tr><td>Vitamin</td><td>Resources</td><td>Deficiency diseases</td><td>Symptoms</td></tr><tr><td>Thiamin (B1)</td><td>Cereals, oil seeds, vegetables, milk, meat, fish, eggs.</td><td>Beri beri</td><td>Vomittings, fits, loss of appetite, difficulty in breathing, paralysis.</td></tr><tr><td>Riboflavin (B2)</td><td>Milk, eggs, liver, kidney, green leafy vegetables.</td><td>Glossitis</td><td>Mouth cracks at corners, red and sore tongue, photophobia, scaly skin.</td></tr><tr><td>Niacin (B3)</td><td>Kidney, liver, meat, egg, fish, oil seeds.</td><td>Pellagra</td><td>Dermatitis, diarrhoea, loss of memory, scaly skin.</td></tr><tr><td>Pyridoxine (B6)</td><td>Cereals, oil seeds, vegetables, milk, meat, fish, eggs, liver.</td><td>Anaemia</td><td>Hyper irritability, nausea, vomiting, fits.</td></tr><tr><td>Cyanocobalamin (B12)</td><td>Synthesised by bacteria present in the intestine.</td><td>Pernicious anaemia</td><td>Lean and weak, less appetite.</td></tr><tr><td>Folic acid</td><td>Liver, meat, eggs, milk, fruits, cereals, leafy vegetables.</td><td>Anaemia</td><td>Diarrhoea, loss of leucocytes, problems related to mucus in the intestines.</td></tr><tr><td>Pantothenic acid</td><td>Sweet potatoes, ground nuts, vegetables, liver, kidney, egg.</td><td>Burning feet</td><td>Walking problems, sprain.</td></tr><tr><td>Biotin</td><td>Pulses, nuts, vegetables, liver, milk, kidney.</td><td>Nerves disorders</td><td>Fatigue, mental depression, muscle pains.</td></tr><tr><td>Ascorbic acid (C)</td><td>Green leafy vegetables, citrus fruits, sprouts.</td><td>Scurvy</td><td>Delay in healing of wounds, fractures in bones.</td></tr><tr><td>Retinol (A)</td><td>Leafy vegetables, carrot, Tomato, pumpkin, papaya, mango, meat, fish, egg, liver, milk, cod liver oil, shark liver oil.</td><td>Eye, skin diseases</td><td>Night blindness, xerophthalmia, cornea failure, scaly skin.</td></tr><tr><td>Calciferol (D) (sunshine vitamin)</td><td>Liver, egg, butter, cod liver oil, shark liver oil, sun rays stimulate the formation of vitamin D from the sub-cutaneous fat.</td><td>Rickets</td><td>Improper formation of bones, Knock-knees, swollen wrists, delayed dentition, weak bones.</td></tr><tr><td>Tocoferol (E)</td><td>Fruits, vegetables, sprouts, sunflower oil.</td><td>Fertility related disorders</td><td>Sterility in males, abortions in females.</td></tr><tr><td>Phylloquinone (K)</td><td>Green leafy vegetables, milk, meat, egg.</td><td>problems related to Blood clotting</td><td>Delay in blood clotting, over bleeding.</td></tr></table>
 
 
-## Key words
+### Key words
 
 Glucose, starch, cellulose, chloroplast, grana, stroma, light reaction, dark reaction, heterotrophic nutrition, parasitic nutrition, haustoria, Alimentary canal, salivary glands, peristaltic movement, amylase, ptyalin, pepsin, chyme, sphincter, digestion, pancreas, enzymes, villi, bile juice, lipase, fat, liver, emulsification, kwashiorkor, marasmus.
 
@@ -595,7 +596,7 @@ d) Nutritional deficiency diseases
 29. What facts about the green plants do you appreciate?(AS6)   
 30. What food habits do you follow after reading this chapter? Why? (AS7)
 
-## Fill in the blanks
+### Fill in the blanks
 
 1. The food synthesized by the plant is stored as   
 2. are the sites of photosynthesis.   
@@ -604,7 +605,7 @@ d) Nutritional deficiency diseases
 5. The gastric juice contains _ acid.   
 6. vitamin is synthesised by bacteria present in intestine.
 
-## Choose the correct answer
+### Choose the correct answer
 
 7. Which of the following organisms take the food by parasitic nutrition? ( )
 
@@ -778,41 +779,41 @@ Let us observe the pathway of air from nostril to alveolus.
 fig-3: Respiratory gases   
 an
 
-## Nostrils:
+### Nostrils:
 
 ![](images/1e8d991d6586753e59f4040a39533dd92bc1a59857b8035ebc48e11d19aede5b.jpg)
 
 Air usually enters the body through the nostrils
 
-## Nasal cavity:
+### Nasal cavity:
 
 ![](images/619ede3ea2a226de516c2091d7200c4d4e5c20f6bb7dab861ba33bc8ba4c5a67.jpg)
 
-## Pharynx:
+### Pharynx:
 
 ![](images/294f736ecdd4fb74baf1d9343f198c44309166e73866eaf7af8c98f52cce3180.jpg)
 
-## Larynx:
+### Larynx:
 
 ![](images/75ec6bcb66931ab2190cf680a940702196aa9f12dd503d64bf7608a149a846c3.jpg)
 
-## Trachea:
+### Trachea:
 
 ![](images/e05a406c63c52d6d56cc54fd29d84b1cb49afd46519550dc96cf20609e26d5d6.jpg)
 
-## Bronchus:
+### Bronchus:
 
 ![](images/5154dc41ae32e0b9d685128f7b74cae67d642e48a560b40eb186a907c063a237.jpg)
 
-## Bronchioles:
+### Bronchioles:
 
 ![](images/a27fa0225191b23ebc1290b2acf7d5b8fe1184aa04185e87128733eaec476a08.jpg)
 
-## Alveolus:
+### Alveolus:
 
 ![](images/19713c3066718f1ce569c52ad08eedda693eebfaa10232454c876b8b1ef3e5f1.jpg)
 
-## Blood:
+### Blood:
 
 Air is filtered. The moist surface of the lining of the nasal cavity, and the hairs growing from its sides, remove some, of the tiny particles of dirt in the air. In addition, as the inhaled air passes through the nasal cavity, its temperature is brought close to that of the body, and it takes up water vapour so that it becomes more moist than before.
 
@@ -833,7 +834,7 @@ Blood carries oxygen, to each and every cell of the body and collects $\mathrm {
 The whole passage from nostrils to alveolus is moist and warm.
 
 
-## Do you know?
+### Do you know?
 
 The interior of lung is divided into millions of small chambers, thus tremendously increasing the moist surface available for transfer of gases between air and blood. The linings of the lungs are much folded and so their total surface is enormous. If all alveoli of our lungs are spread out they will cover an area of nearly $1 6 0 \mathrm { m } ^ { 2 }$ . Which is equivalent to tennis court.
 
@@ -893,7 +894,7 @@ Then the reverse occurs. The chest wall is lowered and moves inward, and the dia
 
 ![](images/77f331616297c52f913d71f014f15c0eaec91d0db20018d3a1886bd6a2ee4430.jpg)
 
-## Do you know?
+### Do you know?
 
 Our lungs are spongy in nature. They are not of the same size. The lung towards left is slightly smaller making space for your heart! Lungs are protected by two membranes called pleura. A fluid filled between these membranes protects the lungs from injury and also aid in the expansion of the spongy and elastic lung muscle, as they slide one over the other.
 
@@ -935,7 +936,7 @@ Why does the amount of Oxygen vary between exhaled and inhaled air?
 What has raised the percentage of carbon dioxide in exhaled air?
 
 
-## Do you know?
+### Do you know?
 
 The total lung capacity of human being is nearly 5800ml. Normally at rest who inhale or exhale approximately $5 0 0 \mathrm { m l }$ of air. 1200ml of air remains in lungs after complete exhalation.
 
@@ -959,7 +960,7 @@ $$
 
 ![](images/0d489912675283caeb118c3d4eeab66eaf5649a9b72fd27acc01afcb19848f5e.jpg)
 
-## Do you know?
+### Do you know?
 
 If haemoglobin is exposed to air at sea level, nearly every molecule combines with oxygen to form oxyhaemoglobin. At a height of $1 3 \mathrm { k m }$ (about 8 miles) above sea level, the concentration of oxygen is much lower about one fifth at sea level.
 
@@ -1080,9 +1081,10 @@ Respiration is an energy releasing pathway, do you agree? Justify your answer.
 
 Lavoisier around the late $1 8 ^ { \mathrm { t h } }$ century, through a series of carefullycentury, performed experiments, came to the opinion that respiration was a process like combustion. He wrote in a compilation in 1783, “respiration is a combustion process. It is a very slow process and here oxygen is not only combines with carbon but also with hydrogen.” Robinson also stated that respiration is a type of combustion and combustion is the source of heat in animals.
 
-### Activity-2
+## Activity-2
 
-## Observing changes during combustion of glucose
+### Observing changes during combustion of glucose
+
 
 Arrange apparatus as shown in the figure and heat it over a flame. Does it melt? What happens if you heat for somemore time?
 
@@ -1169,7 +1171,7 @@ fig-17: Evolved $C O _ { 2 }$ in respiration
 
 small beaker, fill three fourth with lime water. Insert it in the beaker carefully. Close the plastic bottle tightly. Make a similar set with unsprouted seeds. Keep this set undisturbed for one or two days. During this time observe the colour of lime water in both the sets. In which set does the colour change faster? Why?
 
-## vity-4
+### Activity-4
 
 ![](images/4de202219fda6847ad0a86891af73d3750d75498e2d1f6d5bf3cc02506d3a9fb.jpg)  
 fig-18: Heat evolved during respiration
@@ -1215,7 +1217,7 @@ Photosynthesis and respiration appear to be opposing reactions, but both have ve
 Photosynthesis takes place in the chloroplast to produce sugars, starch and other carbohydrates for the plant’s metabolic needs. Cellular respiration occurs in mitochondria where these carbohydrates are “burned” to produce chemical energy to function at the cellular level. During day time, the rate of photosynthesis is usually higher than that of respiration while at night it is just reverse in most plants. Temperature, humidity, light intensity etc. seem to affect the ratio of photosynthesis and respiration in plants.
 
 
-## Key words
+### Key words
 
 Aerobic respiration, Anaerobic respiration, Alveoli, Pharynx, Trachea, Bronchi, Bronchioles, Epiglottis, Anabolicprocess, Catabolicprocess, Aerial roots, Lenticels, Fermentation, energy currency.
 
@@ -1272,6 +1274,8 @@ Photosynthesis takes place in the chloroplast to produce sugars, starches and ot
 
 Cellular respiration occurs in mitochondria where mainly these carbohydrates are “burned” to produce chemical energy to do work at the cellular level.
 
+## Improve your learning
+
 1. Distinguish between (AS1)   
 a) inspiration and expiration   
 b) aerobic and anaerobic respiration   
@@ -1303,7 +1307,7 @@ d) photosynthesis and respiration
 24. Prepare an article on anaerobic respiration to present school symposium.(AS7)   
 25. Prepare a cartoon on discussion between haemoglobin and chlorophyll about respiration.(AS7)
 
-## Fill in the blanks
+### Fill in the blanks
 
 1. Exhaled air contains and   
 2. A flap like muscular valve controls movement of air and food is _ ___.   
@@ -1311,7 +1315,7 @@ d) photosynthesis and respiration
 4. Lenticels are the respiratory organs exists in _ part of plant.   
 5. Mangroove trees respire with their
 
-## Choose the correct answer
+### Choose the correct answer
 
 6. We will find vocal cords in ( )
 
@@ -1407,7 +1411,7 @@ Have you ever observed a doctor holding the wrist of the patient and looking at 
 
 counting the heart beat of the patient. Don’t you think that is crazy, holding the hand to count the heart beat?
 
-### Activity-1
+## Activity-1
 
 You could try to find out for yourself, what the doctor was doing. Keep your index and middle fingers on your wrist below the thumb as shown in the fig-1.
 
@@ -1424,7 +1428,7 @@ Table-1
 
 What did you observe? Is the pulse rate same in both conditions?
 
-### Activity-2
+## Activity-2
 
 We see that pulse rate varies from person to person and situation to situation. So it is not constant, when you are afraid or excited the pulse rate goes up. Observe your pulse rhythm in other ways as well such as climbing stairs, running, etc. There is a relationship between the pulse rate and the beat of our heart. Now let us try to find out more about this relationship.
 
@@ -1440,7 +1444,7 @@ What does the pulse rate show?
 fig-2: Matchstick stethoscope
 
 
-## Do you know?
+### Do you know?
 
 <table><tr><td>Newborn 
 (0–3 months)</td><td>Infants 
@@ -1450,7 +1454,7 @@ fig-2: Matchstick stethoscope
 
 In the year 1816, Rene Laennec discovered the Stethoscope. Before the discovery of stethoscope doctors used to hear heart beat by keeping ear on the chest of the patient. Laennec found that paper tube helps to hear the heart beat perfectly. Then he used a bamboo instead of paper tube to hear heart beat. Laennec called it stethoscope.
 
-### Activity-3
+## Activity-3
 
 Let us repeat the work done by Laennec.
 
@@ -1483,7 +1487,7 @@ fig-3: Location of Heart
 fig-4: Heart External features
 
 
-### Lab Activity
+## Lab Activity
 
 Aim: Observation of the internal structure of the mammalian heart.
 
@@ -1737,7 +1741,7 @@ Hence, naturally the blood is pumped into the blood vessels at regular intervals
 fig-10(1-5): Cardiac cycle
 
 
-Do you know?   
+### Do you know?   
 
 <table><tr><td>Name of the animal</td><td>Weight of the body</td><td>Weight of the heart</td><td>No. of 
 beats/min</td></tr><tr><td>Blue whale</td><td>1,50,000 kg</td><td>750 kg</td><td>7</td></tr><tr><td>Elephant</td><td>3000 kg</td><td>12 - 21 kg</td><td>46</td></tr><tr><td>Man</td><td>60-70kg</td><td>300 gm</td><td>76</td></tr><tr><td>Coaltit (Bird)</td><td>8 gm</td><td>0.15 gm</td><td>1200</td></tr></table>
@@ -1818,7 +1822,7 @@ Such type of transportation system which supplies nutrients to the tissues direc
 The other type of transportation system where the blood takes the responsibility of delivering the materials, which flows in the blood vessels is called closed type of circulatory system. Such type of closed circulatory system is present in annelids echinoderms, cephalopod molluscs (e.g. Octopus) and all the higher chordates.
 
 
-## Do you know?
+### Do you know?
 
 The human circulatory system can move one ml of blood from heart to a foot and back which is approximately 2 meters, in about 60 seconds.
 
@@ -1898,9 +1902,10 @@ Are roots directly in contact with water?
 
 How is water absorbed?
 
-### Activity-5
+## Activity-5
 
-## Absorbing root hairs
+### Absorbing root hairs
+
 
 To perform this activity, you need to germinate bajra or mustard seeds.
 
@@ -1919,9 +1924,10 @@ The soil water is an extremely dilute solution of salts. Soil water concentratio
 
 So, water passes into the neighbouring cell which in turn becomes diluted, finally water enters the xylem vessels. As there are vast number of root hairs and root cells involved, a pressure in the xylem vessels develops which forces the water upwards. This total pressure is known as root pressure. Root pressure is not the main cause of movement of water in xylem but it is certainly one of the factor. The other factors are also there. You will learn about those reasons in higher classes in detail.
 
-### Activity-6
+## Activity-6
 
-## What is root pressure
+### What is root pressure
+
 
 Take a regularly watered potted plant and cut the stem portion 1 cm above the ground level. Then connect a glass tube by means of strong rubber
 
@@ -1958,7 +1964,7 @@ Is there any relation between transpiration and rain fall?
 The amount of water passing through a plant is often considerable. For example, an oak tree can transpire as much as 900 liters of water per day. It follows therefore that areas of forest significantly affect the degree of saturation of the air above them, so that when air currents bring air which is already nearly saturated to a forest area, it becomes fully saturated and comes down as rain; this is why forest areas often have a higher rainfall than areas nearby.
 
 
-## Do you know?
+### Do you know?
 
 How much water is transpired by plants? Each fully grown maize plant transpires 15 liters per week. One acre of maize may transpires more than 13,25,000 liters of water in a hundred day growing season. A big mango tree will transpire from 750 to more than 3500 liters of water per day during growing season.
 
@@ -1995,7 +2001,7 @@ below it. So, any damage to the phloem all around the stem will prevent the food
 Foresters also encourage predators such as foxes, badgers, hawks and owls as they help to keep down the population of voles and rabbits. Grey squirrels too do great damage, particularly Casurina crop grown at beech and seashore, and for this reason, in some parts it is impossible to grow these trees as a crop. Observe barks of trees in your surroundings for evidence of bark having been gnawed off saplings and trees. Note the species of tree, the position of the damage, whether the damage is recent or old, and the size of tooth marks if these are visible. From these observations you could find out which species had caused the damage. Also look out for the effect of such damage on the tree as a whole.
 
 
-## Key words
+### Key words
 
 Circulation, Auricles, Ventricles, Pulse, Artery, Vein, Stethoscope, Aorta, Capillary, Systole, Diastole, Cardiac cycle, Blood pressure, Lymph, Single circulation, Double circulation, Coagulation of blood, Sphygmomanometer, Prothrombin, Thrombin, Fibrinogen, Fibrin, Root hair, Radical, Root pressure, Plant nutrients, Xylem, Phloem, Vascular bundles.
 
@@ -2096,7 +2102,7 @@ g) The valve that is present between right atrium and right ventricle can be nam
 24. Prepare a cartoon on heart beating? (AS7)   
 25. After reading this lesson what precautions would you suggest to your elders about edima.(AS7)
 
-## Choose the correct answer
+### Choose the correct answer
 
 1. The term cardiac refers to which organ in the body? ( )
 
@@ -2258,7 +2264,7 @@ Studying the structure and function of our excretory system will help us to unde
 In human beings excretion mainly occurs through a urinary or excretory system consisting of a pair of kidneys, a pair of ureters, urinary bladder and urethra, as shown in the fig-4. Now let us observe external and internal features of a kidney in goat / sheep, which is similar to Human kidney in function.
 
 
-### )Lab Activity
+## Lab Activity
 
 Aim: Studying the external and internal features of a kidney
 
@@ -2334,7 +2340,7 @@ Why the nephron is considered to be the structural and functional unit of the ki
 
 Formation of urine involves four stages i. Glomerular filtration, ii.Tubular reabsorption, iii. Tubular secretion, iv.Concentration of urine
 
-## i) Glomerular filtration
+i) Glomerular filtration
 
 Blood flows from renal artery to glomerulus through afferent arteriole. Observe the fig-7 of glomerular filtration in nephron and try to answer the following questions.
 
@@ -2342,7 +2348,7 @@ Which arteriole has more diameter, afferent or efferent?e
 
 What are the substances that are filtered into the glomerular capsule?
 
-## ii) Tubular Re-absorption
+ii) Tubular Re-absorption
 
 Filtrate from glomerular is also called primary urine which almost equal to blood in chemical composition except the presence of blood cells. It passes into proximal convoluted tubule. Useful substances in primary urine are reabsorbed into peritubular net work.
 
@@ -2350,20 +2356,18 @@ If you drink more water will you pass more urine?e
 
 What are the substances reabsorbed into peritubular net work from proximal convoluted tubule (PCT)?
 
-## iii) Tubular secretion
+iii) Tubular secretion
 
 After reabsorption in PCT region, the urine travels through the loop of Henle into DCT. Here some other wastes like extra salts ions of $\mathrm { K } ^ { + } \mathrm { N a } ^ { + }$ Cl – and $\mathrm { H } ^ { + }$ secretes from peritubular capillaries in to DCT. It occurs mostly in the distal convoluted tubule, which is also surrounded by peritubular capillaries. This maintains a proper concentration and pH of the urine. Smaller amount of tubular secretion also takes place in the area of proximal convoluted tubule. Observe tubular secretion in fig-7.
 
 What are the substances that secretes into DCT?
 
-
-## Do you know?
-
-After the age of 40 years the number of functioning nephrons usually decreases by about $10 \%$ in every 10 years.
-
-## iv) Formation of hypertonic Urine
+iv) Formation of hypertonic Urine
 
 $7 5 \%$ of water content of nephric filtrate is reabsorbed in the region of proximal convoluted tubule. $10 \%$ of water passes out of filtrate through osmosis in the area of loop of Henle. Further concentration of urine takes place in the area of collecting tubes in the presence of hormone called
+
+### Do you know?
+After the age of 40 years the number of functioning nephrons usually decreases by about $10 \%$ in every 10 years.
 
 i) Glomerular filtration: Blood flows inside the glomerulus under the influence of pressure due to the narrowness of efferent arteriole. As a result it undergoes pressure filtration or ultra filtration. Waste molecules, nutrient molecules and water are filtered out and enter the Bowman’s capsule.
 
@@ -2382,15 +2386,15 @@ What happens if reabsorption of water does not takes place?
 
 Now let us discuss remaining parts of excretory system.
 
-## 2. Ureters
+### 2. Ureters
 
 There are a pair of whitish, narrow distensible and muscular tubes of 30cm length. Each ureter arises from hilus of the kidney. It moves downward and obliquely opens into the urinary bladder. Ureter carries urine from the kidney to the urinary bladder. The movement of urine in the ureter is through peristalysis.
 
-## 3. Urinary bladder
+### 3. Urinary bladder
 
 It is a median, pear shaped and distensible sac. It is situated in the pelvic region on the ventral side of the rectum in the abdomen. It stores urine brought by two ureters. The storage capacity of urinary bladder is 300 - 800ml.
 
-## 4. Urethra
+### 4. Urethra
 
 It is a tube that takes urine from urinary bladder to outside. The opening of urinary bladder into urethra is guarded by a ring of muscles or sphincter. Urethra is 4 cm long in females open to vestibule and in males it is about 20cm long. Its opening is separate in females but is in common with the reproductive tract in males (urino-genital duct).
 
@@ -2436,7 +2440,7 @@ Each dialysis session lasts for 3 to 6 hours. This method has been using for tho
 Is there any long term solution for kidney failure patients?
 
 
-## Do you know?
+### Do you know?
 
 The first kidney transplantation was performed between identical twins in 1954 by Dr. Charles Hufnagel was a surgeon at Washington, USA . In India first kidney transplantation was done on $1 ^ { \mathrm { s t } }$ December 1971 at the Christian Medical college, Vellore, Tamilnadu.
 
@@ -2582,7 +2586,7 @@ fig-14(b): Jatropa
 fig-14(c): Rubber plant
 
 
-## Do you know?
+### Do you know?
 
 Chewing gum is a type of sticky for chewing made dates back 5000 years. Modern chewing gum originally made of natural latex from plants like chicle, sapota etc. Whenever pollen grains enter in our body they cause allergy due to the presence of nitrogenous substances. These allergens cause skin allergy and asthma. Ex: Parthenium.
 
@@ -2600,7 +2604,7 @@ Excretion and secretion are the same in nature. Since both are involved in passa
 
 ![](images/ed0fe9e1dd542f8304e82b061a516af7ac0e9820151a8bf9a635ef1211e6102f.jpg)
 
-## Key words
+### Key words
 
 Creatinine, tubular fluid, peritubular network, podocyte, glomerulus, PCT, DCT, afferent arteriole, efferent arteriole, calyces, micturation, urochrome, dialyser, heamodialysis, anticoagulant, alkoloid, biodiesel, loop of henle.
 
@@ -2685,7 +2689,7 @@ D. Primary metabolites and secondary metabolites
 23. We people have very less awareness about organ donation, to motivate people write slogans about organ donation?(AS7)   
 24. After learning this chapter what habits you would like to change or follow for proper functioning of kidneys?(AS7)
 
-## Fill in the blanks
+### Fill in the blanks
 
 1. Earthworm excretes it’s waste material through   
 2. The dark coloured outer zone of kidney is called   
@@ -2699,7 +2703,7 @@ D. Primary metabolites and secondary metabolites
 9. Rubber is produced from of Heavea braziliensis.   
 10. _ performed first Kidney Transplantation.
 
-## Choose the correct answer
+### Choose the correct answer
 
 11. The structural and functional unit of human kidney is called (
 
@@ -2884,9 +2888,10 @@ There is a sequence of events that brings about responses. They start from detec
 
 Let us do the following activity to find more about response to stimuli.
 
-### Activity-1
+## Activity-1
 
-## Holding a falling stick
+### Holding a falling stick
+
 
 Take a long scale or stick at least around $\%$ meter. Keep your fingers in holding position as shown in fig-1 . Ask your friend to hold the stick / scale near the end and let the other end be suspended between your fingers.
 
@@ -2924,7 +2929,7 @@ Now we know more about how nerves from different sections of the brain and spina
 
 ## Structure of nerve cell
 
-### Activity-2T
+### Activity-2
 
 Observe the permanent slide of nerve cell or neuron under microscope draw and label its parts, compare with the following diagram.R
 
@@ -2951,17 +2956,18 @@ On the basis of pathways followed, nerves are classified mainly into three diffe
 
 ## Afferent nerves or Sensory nerves :
 
-(a) Afferent (or ferrying towards) which carry messages towards the central nervous system (spinal cord or brain) from nerve endings on the muscles of different sense organs that sense the change in surroundings are called stimulus detectors. These are also called ‘sensory’ nerves.
+### (a) Afferent (or ferrying towards) :
+which carry messages towards the central nervous system (spinal cord or brain) from nerve endings on the muscles of different sense organs that sense the change in surroundings are called stimulus detectors. These are also called ‘sensory’ nerves.
 
 ![](images/d78322c0b99a2a1e38bef20fbeac089aa1430f164ae156250171c5c396d58900.jpg)
 
-## (b) Efferent nerves or motor nerves :
+### (b) Efferent nerves or motor nerves :
 
 Efferent (or ferrying away) which carry messages from the central nervous system to parts that shall carry out the response or the effectors (muscles). They are also called ‘motor’ nerves.
 
 ![](images/6092e4d047467b10174c564463c9e9262d08f24bee5b136a3efd1094fb7e58ba.jpg)
 
-## (c) Association nerves:
+### (c) Association nerves:
 
 Association nerves, which link together the afferent and efferentG nerves.
 
@@ -2974,12 +2980,13 @@ fig-7: Different nerve pathways
 
 Activity-1 showed a response on which you had some control or it was voluntary (recall the use of the voluntary and involuntary muscles that you studied in class $9 ^ { \mathrm { t h } }$ .). We know that our body would also need to respond to certain situations on which we may not have a control. Such responses are called reflexes.A simple activity shall help us to understand this better.
 
-### Activity-3
+## Activity-3
+
+### Knee jerk reflex
+
 
 ![](images/6437eb8c5646459949ecaca1b5bb0bc889633912cbdd73172767297a93033146.jpg)  
 fig-8: Knee jerk
-
-## Knee jerk reflex
 
 Cross the legs, in a seated position, so that the lower half of the uppermost leg hangs freely over the other. Strike the area below the knee cap sharply, while firmly grasping the front part of the thigh with the other hand. Note the changes in shape of the thigh muscles.
 
@@ -2990,7 +2997,7 @@ is said to be involuntary. Now the same thigh muscle can operate in a voluntary 
 Do you think most of the functions in our body go about in an involuntary manner? Why /Why not?
 
 
-## Do you know ?
+### Do you know ?
 
 The existence of the knee jerk was first noted in 1875. At first it was doubted whether a nervous reflex was involved at all. But it was discovered that if, in an anaesthetized monkey where spinal nerves supplying the limb were cut, the knee jerk reaction would not occur. Clearly a nerve pathway was involved.
 
@@ -3013,7 +3020,7 @@ In fact, you must have experienced, what happens when you do things consciously 
 in the leg muscles can be made to perform very special movement under the control of the conscious mind (voluntarily). Hence in a football game, the muscles of the leg operate both by reflexes and voluntarily. Most actions of our body are actually controlled together by voluntary and involuntary pathways.
 
 
-## Do you know ?
+### Do you know ?
 
 Nerve transmission from stimulus to a response can occur at a maximum speed of about 100 meters per second.
 
@@ -3089,7 +3096,7 @@ Functions : i) Contains centre for cardiac, respiratory and vasomotor activities
 ii) Coordinates reflexes like swallowing, coughing, sneezing and vomiting.
 
 
-## Do you know ?
+### Do you know ?
 
 The brain weighs approximately $1 4 0 0 \mathrm { g }$ . Though the brain comprises little more than $2 \%$ the body’s weight, it uses $20 \%$ of the whole body energy.
 
@@ -3114,7 +3121,7 @@ According to you what would be the function of the spinal cord?
 Are all functions of our body under direct control of the brain and spinal cord? WhyR do you think so?
 
 
-## Do you know ?E
+### Do you know ?
 
 Scientists have been able to trace out the nerves that originate from brain called cranial nerves and those that originate from spinal cord called spinal nerves. ThereC are 12 pairs of cranial nerves which arise from the brain. There are 31 pairs of spinal nerves.
 
@@ -3144,7 +3151,7 @@ We can take up an example to see how certain involuntary function controlled by 
 When we enter a dark room we cannot see anything immediately. Slowly we are able to see the things around us in the room. This is because of increase in diameter of pupil, which allows more light in. When we come out of the dark room into broad day light the diameter of the pupil decreases allowing less light to enter into the eyes. Both these functions occur under the influence of the autonomous nervous system.
 
 
-## Do you know ?
+### Do you know ?
 
 Research in the past two decades has brought out an interesting fact. Other than central nervous system and peripheral nervous system, there is a system of neurons present in our digestive tract that can function even independently of either CNS or PNS. It has been nick named as a second brain and the system is called as enteric nervous system (ENS).
 
@@ -3258,7 +3265,7 @@ Try to give examples of situations where you may see plants responding to a cert
 fig-18: Mimosa pudica
 
 
-## Do you know ?
+### Do you know ?
 
 Mimosa pudica leaves have pad like swellings at the base. They are called pulvini. Here cells contain lot of water and large intercellular spaces. Due to water pressure pulvini hold the leaf erect. Touch me not plant shows nastic movement by touch. This is called thigmonasty. When we touch the leaves, an electrical impulse is generated. This impulse acts on plant hormone. Because of this hormone water in the pulvini cells which are closer to the leaf vein migrate to other side of the cells.Then pulvini loss its firmness hence leaves become fold. After 20 to 30 minutes water comes back pulvini attains firmness and leaves become erect.
 
@@ -3332,7 +3339,7 @@ of response to chemicals is called chemo tropism. Unequal distribution of auxins
 
 ![](images/1c609bdc3d7f43a24364cf635417b49cbb131f0eadf824e418643f0613cc8465.jpg)
 
-## Key words
+### Key words
 
 Response, stimuli, neuron, schwann cell, axon, synapse, afferent or sensory nerves, efferent or motor nerves, association nerves, central nervous system, brain, spinal cord, cerebrospinal fluid, peripheral nervous system, insulin, endocrine glands, hormones, feedback mechanism, plant hormones, tropic movements, nastic movements.
 
@@ -3442,7 +3449,7 @@ iv) Salivating when food is put in the mouth. v) We close our ears when we hear 
 31. Its very interesting to watch a creeper entwining its tendril to the support. How do you appreciate it? (AS6)   
 32. Hormones are released at a speicific place, specific time for a specific function. Prepare a cartoon on hormones with a nice caption.(AS7)
 
-## Fillin the blanks
+### Fillin the blanks
 
 1. The largest region of the brain is   
 2. A point of contact between two neurons is   
@@ -3455,7 +3462,7 @@ B) To grow long branches in dwarf plants, one would use hormone.
 C) Seeds are to be stored for a long time __ ___ hormone can help.   
 D) When the apex / stem tip is cut off, to ensure growth of several lateral buds hormone has to be used.
 
-## Choose the correct answer
+### Choose the correct answer
 
 6. A person has loss of control on emotions, which part of brain stops it’s function. ( )
 
@@ -3656,7 +3663,7 @@ Whether they reproduce by budding or fission or fragmentation? And organisms for
 Cutting, layering and grafting are the traditional methods of artificial propagation in plants. Examples of plants produced in this manner are Banana, Pineapple, Orange, Grape, Rose, etc.
 
 
-## Do you know?
+### Do you know?
 
 For commercial purposes; they are being replaced by the modern technology of artificial propagation of plants involving tissue culture. In tissue culture, few plant cells or plant tissue are placed in a growth medium with plant hormones in it and it grows into new plants.Thousands of plants can be grown in very short interval of time.
 
@@ -3671,7 +3678,7 @@ Generally we may notice whitish thread like structures and blackish powdery like
 Rhizopus produces hundreds of microscopic reproductive units called spores. When the spore case (also called sporangium) bursts, the spores spread into air. These air-borne spores when fall on food or soil, under favourable conditions like damp and warm conditions, they germinate and produce new individuals. Fungi like Rhizopus, Mucor a few Bacteria and some non-flowering plants such as ferns and mosses reproduce by this method of spore formation.
 
 
-### )LabActivity
+### LabActivity
 
 To examine Rhizopus or common mold under the microscope, it is best to grow on your own in a controlled environment. Use a soft bread that is preservative free or a roti, fruits or vegetables such as potatoes or oranges. A good sample of mold may require 4-10 days to form spores so be sure to plan ahead for this project. (Please note: this should not be done by those with allergies to mold or with severe asthma.)
 
@@ -3845,7 +3852,6 @@ entered the body.) After the birth of the baby, the muscular contractions of the
 
 ![](images/552088794206323e099783dfa5168b582575b34d3ad349a8b60eeb3c751a3387.jpg)
 
-## Do you know?
 
 ## Need for sexual reproduction
 
@@ -3891,19 +3897,20 @@ You have studied in earlier classes that how birds and insects help plants as ag
 What happens in plants that carry the female reproductive structure or the male reproductive structure borne in separate flowers? Remember the flowers of bottle gourd you studied in earlier classes.
 
 
-## Do you know?
+### Do you know?
 
 Darwin in1876 showed that plants when isolated had the greatest tendency toT self-fertilize while when surrounded by varieties of the same flower, they readily cross fertilize.
 
 When pollen grains of a flower are transferred to the stigma of different flower on the same plant or different plant of the same species, this type of pollination is called cross pollination. Ex: Bottle gourd, Ridged gourd, Maize
 
-Do you know what is self-pollination?
+## Do you know what is self-pollination?
 
 Let us now observe some smaller parts that are involved in the process of reproduction in plants. The male reproductive part or the stamen consists of some sac like structures at its head bearing small ball like structures. We can easily observe these structures called pollen with the help of hand lens. The pollen grain reach the female reproductive part and fertilize the egg to form a zygote.
 
-### Activity-2
+## Activity-2
 
-## Observation of pollen grain
+### Observation of pollen grain
+
 
 Take a slide and put a few drops of water on it. Now take any flower like hibiscus, tridax, marigold, etc. Tap the anther over the drop of water. You will see small dot like structures floating on water. These are pollen grains. Observe these first under a hand lens then under a compound microscope.
 
@@ -3948,9 +3955,10 @@ Which floral parts may be seen in a fruit?
 
 The seed produced after fertilisation contains the future plant or embryo that develops into a seedling under appropriate conditions. The process is called germination.
 
-### Activity-3
+## Activity-3
 
-## Seed germination
+### Seed germination
+
 
 Soak few groundnut or bengal gram (chana) seeds overnight.
 
@@ -3967,11 +3975,9 @@ Observe the life cycle of plant as a whole in the following diagram.
 fig-24: Life cycle of flowering plant
 
 
-## Do you know?
+### Do you know?
 
-In sexually reproducing organisms usually single fertilization gives rise to zygote. In plants there occurs a second fertilization giving rise to a nutritive tissue that provides nutrition to the baby plant which develops from the zygote. The pollen grain has two cells. In one of its cells called a tube cell, there are two nuclei. They travel down
-
-through the stigma and style to the ovary. One of the nuclei fertilizes the egg to form zygote and the other nucleus fertilizes fusion nucleus to form an endosperm which provides food to the baby plant. This is called double fertilization.
+In sexually reproducing organisms usually single fertilization gives rise to zygote. In plants there occurs a second fertilization giving rise to a nutritive tissue that provides nutrition to the baby plant which develops from the zygote. The pollen grain has two cells. In one of its cells called a tube cell, there are two nuclei. They travel down through the stigma and style to the ovary. One of the nuclei fertilizes the egg to form zygote and the other nucleus fertilizes fusion nucleus to form an endosperm which provides food to the baby plant. This is called double fertilization.
 
 ## Cell division and continuation of life
 
@@ -4005,15 +4011,15 @@ August Weismann (1834-1914) a biologist hypothesised that
 fig-26: August Weismann
 
 
-## Do you know?
+### Do you know?
 
 August Weismann was a scientist with poor eye sight, it was difficult for him to use a microscope to study cells. But there were other things that he could do. Advancement of science is not only possible by mere collection of data. Someone must think, analyse and interpret the data. August Weismann’s poor eyesight forced him to spend time thinking. Think how great he was!
 
-The scheme of mitotic division was confirmed in 1904 by Theodor Boveri (1862–1915). The chemical nature of the genetic material was determined after a series of experiments over the next fifty years,
+The scheme of mitotic division was confirmed in 1904 by Theodor Boveri (1862–1915). The chemical nature of the genetic material was determined after a series of experiments over the next fifty years,culminating in the determination of its structure the deoxy ribonucleic acid (DNA) in 1953 by James Watson(DNA) and Francis Crick. Scientists proved that mitosis takes place in all body cells which retains same number of chromosomes. Meiotic division takes place in sex cells where the chromosome number is halved. Observe the fig-27.
 
 ![](images/50b8de8486b3461fa07061912bb7409f4c1d46d3be6f849de11d2770a2c72683.jpg)
+fig-27
 
-culminating in the determination of its structure the deoxy ribonucleic acid (DNA) in 1953 by James Watson(DNA) and Francis Crick. Scientists proved that mitosis takes place in all body cells which retains same number of chromosomes. Meiotic division takes place in sex cells where the chromosome number is halved. Observe the fig-27.
 
 ## Cell division in Human beings
 
@@ -4041,9 +4047,10 @@ M phase: This is mitotic cell division phase. It includes prophase, metaphase, a
 
 To understand the functional relationship between these phases, Potu Narasimha Rao and Johnson (see annexure) conducted some experiments using the cell fusion technique. That is combining two cells in experimental conditions. With this cell fusion technique Johnson and Potu Rao revealed for the first time the structure of interphase(GI, S and G2) chromosomes that are not ordinarily visible under the microscope. They provided evidence on progression of cells through the cell cycle in sequential unidirectional and controlled way by a series of chemical signals that can diffuse freely between nucleus and cytoplasm. These experiments are considered to be a ‘mile stone’ in the cell cycle studies.
 
-### Activity-4
+## Activity-4
 
-## Observe different stages of mitotic cell division
+### Observe different stages of mitotic cell division
+
 
 Take permanent slides which shows different stages of mitotic cell division from your lab kit. Observe carefully under microscope. Draw diagrams what you observe, and compare your observations with the following figures. (Fig-29)
 
@@ -4161,7 +4168,7 @@ Why doctors are prohibited to do sex determination through ultrasound scanning f
 We know that if health is lost, everything is lost. It’s our responsibility to be healthy and to make others realise the importance of health. Sound body is to sound mind. To be an ideal citizen of India we should have knowledge of reproductive health not only to control high population growth but to create a healthy society.
 
 
-## Key words
+### Key words
 
 Progeny, cyst, fragmentation, regeneration, vegetative propagation, artificial propagation, parthenogenesis, cutting, layering, grafting, stock, scion, desirable characters, tissue culture, amniotic fluid, placenta, umbilical cord, mitosis, meiosis, chromatids, chromosome, foeticide, HIV-AIDS, vasectomy, tubectomy.
 
@@ -4213,12 +4220,11 @@ Determination of sex before birth is illegal.
 Stop female foeticide.
 
 
-## )Improve your learning
+## Improve your learning
 
 1. Why do fish and frog produce a huge number of eggs each year?(AS1)   
 2. Give examples and explain what is meant by external fertilisation?(AS1)   
 3. Write differences between.(AS1)
-
 a) Grafting - Layering b) stamen-carple   
 4. Explain the process of fertilisation in plants.(AS1)   
 5. What are the different modes of asexual reproduction? Cite them with examples.(AS1)   
@@ -4260,7 +4266,7 @@ a) Grafting - Layering b) stamen-carple
 28. What precautions will you take to keep away from various sexually transmitted diseases?(AS7)   
 29. Conduct a seminar on child marriages and foetiside.(AS7)
 
-## Choose the correct answer
+### Choose the correct answer
 
 1. The part of the female reproductive system that produces the eggs?
 
@@ -4412,9 +4418,10 @@ Taste and smell are intimately entwined. This close relationship is most apparen
 
 The following activity helps us to observe how taste is affected by the sense of smell.
 
-### Activity-2
+## Activity-2
 
-## Chewing, cumin (Jeera), sounf (fennel seeds), potato and apple(
+### Chewing, cumin (Jeera), sounf (fennel seeds), potato and apple(
+
 
 First close your nose with your fingers. Pop in some Jeera in your mouth and chew it for some time. After that, chew some sounf. Could you recognize the taste? How long has it taken to know the taste? After some time wash your mouth and repeat the activity by chewing a piece of an apple followed by a potato(remember to close your nose).
 
@@ -4471,9 +4478,10 @@ What do you think could be the range of temperature for us to relish food items?
 
 Let us do a simple activity to see the role of different parts of the mouth in helping us to taste.
 
-### Activity-4
+## Activity-4
 
-## Sugar crystals over the tongue
+### Sugar crystals over the tongue
+
 
 Place some sugar crystals on your tongue keep your mouth opened and see that your tongue doesn’t touch the palate. Record the time from the moment you placed the crystals on your tongue till you got the taste by using stop watch.
 
@@ -4500,9 +4508,10 @@ Suppose your taste buds were affected what would happen to your interest in havi
 
 Would you be able to comfortably munch your food if you had lost some of your teeth?
 
-### Activity-5
+## Activity-5
 
-## To show break down of food by using the model of chalkpiece kept in vinegar
+### To show break down of food by using the model of chalkpiece kept in vinegar
+
 
 Break a piece of chalk into two halves. Crush one half to tiny pieces leaving the other as it is. Take two small mineral water bottles (( ${ } ^ { 1 } / _ { 2 }$ ltr bottle) cut them into two equal halves and discard the upper portion. Now we have two beakers from the lower cut portion.
 
@@ -4551,9 +4560,10 @@ Does the saliva have any other roles to play?
 
 Let us find out the role of saliva.
 
-### Activity-7
+## Activity-7
 
-## Action of saliva on flour (ata)
+### Action of saliva on flour (ata)
+
 
 Take a test tube half filled with water and add a pinch of flour to it. Shake the test tube well till the flour gets mixed. Take a few drops of this in a watch glass and test for the presence of starch by putting a drop of diluted tincture iodine in it. A blue black color confirms the presence of starch.
 
@@ -4578,9 +4588,10 @@ Do you think the pH of our mouth changes?
 ![](images/f2670ee481f66a2bef794e97cd6de9818f82763b8a933cab312ee8b83210845d.jpg)  
 fig-4: pH scale
 
-### Activity-8
+## Activity-8
 
-## Testing pH of mouth at intervals of one hour.
+### Testing pH of mouth at intervals of one hour.
+
 
 Ask your chemistry teacher to give you a strip of pH paper with a colour chart. (see the fig.4)
 
@@ -4603,7 +4614,7 @@ Do not hurry to complete the table. Take your own time.
 Based on the above tests we know that the saliva secreted causes the medium to change to alkaline as it aids in action of enzyme, salivary amylase.
 
 
-## Do you know?
+### Do you know?
 
 Why do we salivate during a nap of daytime?
 
@@ -4629,9 +4640,10 @@ What kind of the tube is oesophagus?
 
 How does mucus help in passage of food?
 
-### Activity-9
+## Activity-9
 
-## Making a model of oesophagus to observe how bolus movesT forward
+### Making a model of oesophagus to observe how bolus movesT forward
+
 
 Take a piece of waste cycle tube. Lubricate the inner side of the tubeR with oil. Insert one or two oil coated potatoes in the tube. Now try to push the potatos by squeezing the tube.E
 
@@ -4718,7 +4730,7 @@ Our stomach is not like a bag with specific volume. It is like a pouch which is 
 We also know that stomach secretes strong acids during digestion. The HCl secreted by the walls of the stomach is strong enough to digest the hard bones as well..Then how is the stomach protected from the secretions of its own acids. To understand this we will perform the following experiment.
 
 
-### Lab Activity
+## Lab Activity
 
 Take two similar green leaves. Apply vaseline or petroleum jelly or grease on one leaf leave the other free. Add 1 or 2 drops of some weak acid on both the leaves .Observe them after half an hour or so and write your observation in your note book.
 
@@ -4740,9 +4752,10 @@ Why do you think small intestine is long and coiled?
 
 What process is involved in this process of absorption?
 
-### Activity-10
+## Activity-10
 
-## Paper tube and folded papers
+### Paper tube and folded papers
+
 
 Take 10 20cm size chart paper fold the chart paper and join both ends with gum to make a tube. Now take 20 20cm chart paper and make a tube as mentioned the same above try to insert the big tube in small one. Can you? It is not possible. Now take another 20 20cm chart paper fold the paper as many folds as possible. Now join both ends to make a folded paper tube. Try to insert folded tube in first tube. Can you? How is it possible?
 
@@ -4817,7 +4830,7 @@ During respiration we breathe continuously by inhaling and exhaling air. This is
 Hence the process of digestion which is a complex process that involves many organs and organ systems. Though digestion occurs in the food canal, co-ordination of respiration and blood circulation is necessary otherwise oxidation of food and transport of substances which is vital for energy releasing process will not take place. This may lead to the shut down of systems interdependent on each other.
 
 
-## Key words
+### Key words
 
 Ghrelin, Leptin, Taste receptor, Chemoreceptors, Papillae, Food bolus, Peristalsis, Chyme, Pyloric Sphincter, Villi, Medulla oblongata , Brain stem, Nervous system.
 
@@ -4915,7 +4928,7 @@ d) large intestine
 30. There is a great variety in diversified life processes, express your feelings in the form of a poem.(AS7)   
 31. Suggest any two important habitual actions to your friend while eating food, keeping in view of this chapter.(AS7)
 
-## Fill in the blanks
+### Fill in the blanks
 
 1. $2 : 1 : 2 : 3$ is the ratio of our dentition. Here 1 represents   
 2. Large protein molecules are broken down in of digestive track.   
@@ -4939,7 +4952,7 @@ Choose the right ones.
 (ix)Pons varolii, brain stem ,medulla oblongata, mid brain.   
 (x) $6 ^ { \mathrm { { t h } } }$ cranial nerve, $5 ^ { \mathrm { t h } }$ cranial nerve, $1 0 ^ { \mathrm { t h } }$ cranial nerve, optic nerve.
 
-## Choose the correct answer
+### Choose the correct answer
 
 7. In which of the following situations you can taste quickly. (
 
@@ -4973,7 +4986,9 @@ D) Gastric
 
 10. Glucose and amino acids are absorbed through the following part of villus. ( )
 
-A) epithelial cells B) blood capillary
+A) epithelial cells 
+
+B) blood capillary
 
 C) lymphatic vessel
 
@@ -4997,7 +5012,7 @@ B) liberate $\mathrm { C O } _ { 2 }$ during respiration
 
 ![](images/2267d26c79022c5ae74f8c238d714c7dc243a058d8026444562329f4ac2ca6d0.jpg)
 
-end state digestion
+c) end state digestion
 
 D) secrete powerful digestive juices
 
@@ -5123,7 +5138,7 @@ Is variation all about apparent differences?
 
 Is it about some subtle differences as well that we most often overlook? (Remember looking for two similar neem /doob grass plants in the chapter on diversity and classification in class IX)
 
-### Activity-3
+## Activity-3
 
 Observe seeds in a pea or bean pod. You may observe several parts to arrive at a generalisation.
 
@@ -5168,20 +5183,19 @@ Because it has following advantages.
 
 ![](images/f76c9214f8153adb621def97f2c383b9c8c14ce4e4c2b2c14ad13cd3690697b4.jpg)
 
-## Do you know?
+### Do you know?
 
 Pea is an annual plant, with a life cycle of one year. It is a cool season crop grown in many parts of the world. Peas were present in Afghanistan in 2000 BC, in Harappa, Pakistan, and in northwest India in 2250– 1750 BC. In the second half of the 2nd millennium BC, this pulseG crop appeared in the Gangetic basin and southern India. Pea contains vitamin ‘A, C, E, K & B’ and minerals like Ca, Fe, Mg, Mn, P, S & Zn.
 
 ![](images/36f8c470d31abc29c138310f4c6ef90eb94506974b4a9a94cd61e0a830289f37.jpg)
 
+### Do you know?
+
 Mendel hypothesized that characters were carried as traits and an organism always carried a pair of factors for a character. He also hypothesized that distinguishing traits of the same character were presentA in the population of an organism. He assumed that the traits shown by the pea plants must be in the seeds that produced them. The seeds must have obtained these traits from the parent plants.
 
-How do parent plants pass on their traits to the seeds? Will the seeds from tall plants always produce new tall plants?E
+How do parent plants pass on their traits to the seeds? Will the seeds from tall plants always produce new tall plants?
 
 Mendel carried out several experiments to find out answers to such type of questions.
-
-
-## Do you know?
 
 ### Examples of experiments performed by Mendel
 
@@ -5367,7 +5381,7 @@ The process in which Traits are passed from one generation to another generation
 Mendel hypothesised that each character or trait is expressed due to a pair of factors or ‘alleles’ (contrasting expressions of the same trait), as he named them. Now we know that these are known as ‘genes’. Gene is a segment of a nucleic acid called ‘DNA’ which is present in the nucleus of every cell. It controls the expression of a trait or character. In viruses RNA can also be controlling the expression of a character.
 
 
-## Do you know?
+### Do you know?
 
 In 1953 the detailed structure of DNA was finally worked out at Cambridge by Francis Crick and James Watson. They discovered that DNA molecule looks rather like a spiral stair case, having a shape known as a double helix. The framework of stair case consists of alternate sugar and phosphate groups and the steps which join the framework together are the pairs of chemical compounds called bases. They are adenine, guanine, thymine and cytosine. Watson and Crick were awarded Nobel prize jointly with Franklin and Maurice Wilkins.
 
@@ -5403,7 +5417,7 @@ Is the sex also a character or trait? Does it follow Mendels’ law of dominance
 Were all your traits similar to that of your parents?
 
 
-## Do you know?
+### Do you know?
 
 ## Discovery of the sex chromosomes
 
@@ -5413,9 +5427,10 @@ Walter Setton and Thomas Hunt Morgan in the year 1956 studied on a small fruit f
 
 Variations develop during reproduction in organisms. Sexual reproduction and errors in DNA copying leads to variations in offsprings in a population. Let us try to study the consequences of variations in the population of an insect in an environment.
 
-### Activity-5
+## Activity-5
 
-## Variations in beetle population
+### Variations in beetle population
+
 
 Observe the below diagram showing variation in beetle population and it its impact. This is only an assumption.
 
@@ -5528,7 +5543,7 @@ You may observe in your surroundings some seedlings and some of the animal kids 
 There are some limitations and objections to the Darwin theory. Many new theories like synthetic theory, mutation theory are put forward.
 
 
-## Do you know?
+### Do you know?
 
 Identical thoughts of Charles Darwin and Alfred Russel Wallace.
 
@@ -5611,7 +5626,7 @@ fig-16: Dinosaur
 A rare and magnificient fossil of the dinosaurs, ketosaurs belonging to the lower Jurassic age going back to about 160 million years were collected from Yamanapalli in Adilabad district of Telangana. This fossil has 14 metres length and 5 metres height. This fossil is preserved at BM Birla Science Centre in Hyderabad.
 
 
-## Do you know?
+### Do you know?
 
 See the picture of Archeopteryx. Does it resemble a bird? Or a reptile? Or both? The organisms which bear the characters of two different groups are called connecting links. Archeopteryx has some avian characters and some reptelian characters. Hence it is recognised as connecting link between aves and reptiles.
 
@@ -5649,7 +5664,7 @@ Sometimes vestigal organs are abruptly appears even in humanbeings. This phenome
 There are nearly 180 vestigial organs in human beings. For example pinna, hair on skin, mammary glands in males, etc. That’s why human being is said to be a moving museum of vestigial organs.
 
 
-## Key words
+### Key words
 
 Variations, offsprings, traits, phenotype, genotype, heterozygous, homozygous, independent assortment, allele, heredity, autosomes, allosomes, natural selection, analogous organs, embryological evidences, Human evolution.
 
@@ -5718,7 +5733,7 @@ Fossils are evidences of ancient life forms or ancient habitats which have been 
 26. What is your understanding about survival of the fittest. Give some situations or examples that you observe in your surroundings?(AS7)   
 27. Write a monologue on evolution of a man to perform a stage show on the theatre day in your school.(AS7)
 
-## Fill in the blanks
+### Fill in the blanks
 
 1. The process of acquiring character or traits is called _   
 2. Mendel’s experiment explains about ___.   
@@ -5731,7 +5746,7 @@ Fossils are evidences of ancient life forms or ancient habitats which have been 
 9. Forelimb of whale is for swimming where as in horse it is used for   
 10. The study of fossils is called
 
-## Choose the correct answer
+### Choose the correct answer
 
 11. Which of the following is not a variation in rose plant. (
 
@@ -5874,7 +5889,7 @@ Apart from the food chains pyramids are another type of representations which sh
 pyramid is called “Ecological pyramid”. It was first introduced by a British ecologist Charles Elton in 1927. In the ecological pyramid the producers (first trophic level) are represented at the base; and other successive trophic levels (primary, secondary and tertiary consumers) are represented one above the other with top carnivores at the tip. There are three types of pyramids; pyramid of biomass, pyramid of number, pyramid of energy. In this chapter we will try to discuss about the pyramid of number, biomass and energy.
 
 
-## Do you know?
+### Do you know?
 
 A pyramid is a structure whose shape is roughly that of a pyramid in the geometric sense; that is, its outer surfaces are triangular and converge to a single point at the top. The base of a pyramid can be trilateral, quadrilateral or polygonal shape. The square pyramids, with square base and four triangular outer surfaces, is a common version.
 
@@ -5924,7 +5939,7 @@ In an aquatic ecosystem, the biomass of phytoplankton is quite negligible as com
 A more accurate idea of food relationship may be obtained if the above pyramid of numbers is converted into a pyramid of biomass. This indicates the mass of plant matter which is used by the aphids to produce the mass of the of aphids population, the total mass of the ladybird population that could be supported by the aphids and so on through out the chain. In short we can say that biomass is food for the next trophic level in a food chain.
 
 
-## Do you know?
+### Do you know?
 
 To reduce our dependence on fossil fuels (fuels formed by natural processes such as anaerobic decomposition of buried dead organisms, like coal, petrol etc.), and to help reduce air pollution, biomass can also be used as a source energy. Using biomass as fuel still puts carbon dioxide back into the atmosphere, but it is the same carbon dioxide taken from the air as the biomass was produced.
 
@@ -6121,7 +6136,7 @@ b) Some will adapt to the new conditions sufficiently to survive in reduced numb
 c) Some will benefit by the new conditions and will increase in numbers.
 
 
-## Do you know?
+### Do you know?
 
 Minamata disease was first discovered in Minamata city in Kumamoto prefecture, Japan, in 1956. It was caused by the release of methyl mercury in the industrial wastewater from the Chisso corporation’s chemical factory, which continued from 1932 to 1968. This highly toxic chemical bioaccumulated in shellfish and fish in Minimata Bay and the Shiranui Sea, which, when eaten by the local population, resulted in mercury poisoning. While cat, dog, pig and humans deaths continued for 36 years.
 
@@ -6198,7 +6213,7 @@ So one should have awareness about our environment. Protect nature Protect yours
 Courtesy-1: Research paper on status of Kolleru Lake between 1967 and 2004 by Marappan et.al., 2006. Courtesy-2: International Jornal of Life Sciences Biotechnology and Pharma Research. This research was done by Vidya Sagar Gummadavelli, Ravi Shankar Piska, Srinu Noothi and Pavan K. Manikonda.
 
 
-## Key words
+### Key words
 
 Food chain, Food web, Niche, Ecological Pyramid, Biomass, Pesticides, Bioaccumulation, Biomagnification, Ecofriendly activities, Environmental ethics, metal contamination.
 
@@ -6228,7 +6243,7 @@ The tendency of pollutants to concentrate as they move from one trophic level to
 There are several alternatives for pesticides, through which we can get more yield with less damage such as rotation of crops, biological control, developing resistant strains etc.
 
 
-## Improve your learning
+### Improve your learning
 
 1. What happens to the amount of energy transferred from one trophic level to the next in a food chain?(AS1)   
 2. What do pyramids and food chain indicate in an ecosystem?(AS1)   
@@ -6261,7 +6276,7 @@ There are several alternatives for pesticides, through which we can get more yie
 13. Prepare slogans to promote awareness in your classmates about ecofriendly activities.(AS7)   
 14. Suggest any three programmes on avoiding pesticides and preventing soil pollution.(AS7)
 
-## Choose the correct answer
+### Choose the correct answer
 
 1. What does a food chain always start with - ( )
 
@@ -6331,7 +6346,7 @@ There are no alternative sources of water supply as against wells in Vaddicherla
 
 ![](images/776f1f408d318108b8bff57a25f8a7f689912b09ac758f234d165222e8a7f545.jpg)
 
-## Do you know
+### Do you know
 
 Percolation tanks are normally earthen dams with masonry structures where water may overflow. Construction materials consist of a mixture of soil, silt, loam, clay, sand, gravel, suitably mixed and laid in layers at the base or bed and sides. It is properly compacted to achieve stability. Outlets for surface irrigation are made and a cut-off trench is made below the earthen bund or dam with depth limited to one fourth of the height between bed level and full storage level.
 
@@ -6417,7 +6432,7 @@ What could help the small farmer reduce expenditure? (Hint: think of crops that 
 Do you think increasing the depth of bore well is a good solution for increasing total land area under irrigation? Why/Why not?
 
 
-## Do you know?
+### Do you know?
 
 Because of varying monsoon behaviour in recent years, there is a pressure on groundwater utilization. Indiscriminate tapping of groundwater in the State by too much drilling and construction of deep tube wells and bore wells, have resulted in over exploitation and depletion of groundwater resources in certain areas. Average fall of water level was around 3 meters in the State during the period of 1998- 2002.
 
@@ -6468,7 +6483,7 @@ Why were farmers at Wanaparthy at a better state than those at Vaddicherla?
 How did farmers of Vaddicherla and Wanaparthy recharge their ground water resources?
 
 
-## Do you know?
+### Do you know?
 
 In ancient times, village boundaries were decided upon on a watershed(land between water sources usually of two rivers or streams) basis fixed at the common point of the drainage system in between two villages by the expert farmers in the village. Such boundaries were socially acceptable to all the members of the system.
 
@@ -6495,7 +6510,7 @@ fig-1: Communitybased masonry dam
 fig-2: Contour field bunding
 
 
-## Do you know?
+### Do you know?
 
 Sri Rama Sagar Project also known as the Pochampadu Project is a project on the Godavari River. It is a “lifeline for a large part of Telangana”. It is mainly an irrigation project to serve needs in Karimnagar, Warangal, Adilabad, Nalgonda, and KhammamC
 
@@ -6617,7 +6632,7 @@ are cleared, exposing land to wind and water damage. Fertile soil is exhausted a
 If resources are carelessly managed, many will be used up. If used wisely and efficiently, however, renewable resources will last much longer. Through conservation, people can reduce waste and manage natural resources wisely.
 
 
-## Do you know?
+### Do you know?
 
 Water use restrictions are implimented in many regions of the world. In Australia, in response to chronic shortage resulting from drought, restrictions are imposed on activities like, watering lawns by using sprinkler systems, washing vehicles, using hose pipes to clean paved areas, and refilling swimming pools.
 
@@ -6727,7 +6742,7 @@ Scientists are exploring alternatives to fossil fuels. They are trying to produc
 
 ![](images/7525d4fe9397fd04ceca1f846fffc328c810e49a93ffed9b6097059ec2f17469.jpg)
 
-## Do you know?
+### Do you know?
 
 Seeds from the Jatropha curcas plant are used for the production of bio-fuel, a crucial part of India’s plan to attain energy sustainability.Andhra Pradesh has entered into a formal agreement with Reliance Industries for Jatropha planting. The company has selected 200 acresof land at Kakinada to grow Jatropha for high quality biodiesel. The process of preparation of bio-fuels is called Bioesterification.
 
@@ -6824,7 +6839,7 @@ Find out the usage of water in Litres per day in your home? Do you actually requ
 It is time to know our responsibilities to protect natural resources for future generations.
 
 
-## Key words
+### Key words
 
 Percolation tank, Micro-irrigation, Borewells, Sustainable development, Biofuels Contour strip farming, Dyke Management
 
@@ -6842,7 +6857,7 @@ We must use our resources judiciously especially fossil fuels, coal and petroleu
 Interstate and intercountry disputes should not hamper availability of a resource.
 
 
-## ) Improve your learning
+### Improve your learning
 
 1. The BP statistical Review of World Energy in June measured total global oil at 188.8 million tonnes, from proved oil resources at the end of 2010. This is only enough for oil to last for the next 46.2 years. What measures should be taken to conserve oil? What will happen if we do not conserve it?(AS1)   
 2. Here is a news strip, read it carefully and answer the following questions
@@ -6876,7 +6891,7 @@ iii) What change have you observed in the production from past ten years, for ex
 15. Proper utilisation of natural resources is the way to show gratitude to our nation. Can you support this statement? Give your argument.(AS6)   
 16. Crop selection and cultivation should be based on availability of water. Prepare a slogan to bring awareness among farmers about this?(AS7)
 
-## Fill in the blanks
+### Fill in the blanks
 
 1. . plants are used for production of biofuel.   
 2. Bio diversity is important for more than just food and for . . also.   
@@ -6884,7 +6899,7 @@ iii) What change have you observed in the production from past ten years, for ex
 4. . is the alternative method to prevent ground water depletion.   
 5. Cultivation of paddy is suitable for . . areas.
 
-## Choose the correct answer
+### Choose the correct answer
 
 6. Percolation tanks helps to ( )
 

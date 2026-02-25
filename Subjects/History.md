@@ -1,20 +1,16 @@
 # Chapter 1
 # The Rise of Nationalism in Europe
 
-1066CH01
-
 ![](images/5e3cb60ad7c9f13f0f52ad336d5a8fd406f61bff114580a7a2a7ca63f3da3e9a.jpg)  
 Fig. 1 — The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations, a print prepared by Frédéric Sorrieu, 1848.
 
 In 1848, Frédéric Sorrieu, a French artist, prepared a series of four prints visualising his dream of a world made up of ‘democratic and social Republics’, as he called them. The first print (Fig. 1) of the series, shows the peoples of Europe and America – men and women of all ages and social classes – marching in a long train, and offering homage to the statue of Liberty as they pass by it. As you would recall, artists of the time of the French Revolution personified Liberty as a female figure – here you can recognise the torch of Enlightenment she bears in one hand and the Charter of the Rights of Man in the other. On the earth in the foreground of the image lie the shattered remains of the symbols of absolutist institutions. In Sorrieu’s utopian vision, the peoples of the world are grouped as distinct nations, identified through their flags and national costume. Leading the procession, way past the statue of Liberty, are the United States and Switzerland, which by this time were already nation-states. France,
 
-## New words
-
+### New words
 Absolutist – Literally, a government or system of rule that has no restraints on the power exercised. In history, the term refers to a for m of monarchical government that was centralised, militarised and repressive
-
 Utopian – A vision of a society that is so ideal that it is unlikely to actually exist
 
-### Activity
+### Activity-1
 
 In what way do you think this print (Fig. 1) depicts a utopian vision?
 
@@ -22,7 +18,6 @@ identifiable by the revolutionary tricolour, has just reached the statue. She is
 
 This chapter will deal with many of the issues visualised by Sorrieu in Fig. 1. During the nineteenth century, nationalism emerged as a force which brought about sweeping changes in the political and mental world of Europe. The end result of these changes was the emergence of the nation-state in place of the multi-national dynastic empires of Europe. The concept and practices of a modern state, in which a centralised power exercised sovereign control over a clearly defined territory, had been developing over a long period of time in Europe. But a nation-state was one in which the majority of its citizens, and not only its rulers, came to develop a sense of common identity and shared history or descent. This commonness did not exist from time immemorial; it was forged through struggles, through the actions of leaders and the common people. This chapter will look at the diverse processes through which nation-states and nationalism came into being in nineteenth-century Europe.
 
-## Source A
 
 ## Ernst Renan, ‘What is a Nation?’
 
@@ -30,13 +25,11 @@ In a lecture delivered at the University of Sorbonne in 1882, the French philoso
 
 ‘A nation is the culmination of a long past of endeavours, sacrifice and devotion. A heroic past, great men, glory, that is the social capital upon which one bases a national idea. To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to perform still more, these are the essential conditions of being a people. A nation is therefore a large-scale solidarity … Its existence is a daily plebiscite … A province is its inhabitants; if anyone has the right to be consulted, it is the inhabitant. A nation never has any real interest in annexing or holding on to a country against its will. The existence of nations is a good thing, a necessity even. Their existence is a guarantee of liberty, which would be lost if the world had only one law and only one master.’
 
-Source
-
-## New words
+### New words
 
 Plebiscite – A direct vote by which all the people of a region are asked to accept or reject a proposal
 
-## Discuss
+### Discuss
 
 Summarise the attributes of a nation, as Renan understands them. Why, in his view, are nations important?
 
@@ -87,35 +80,21 @@ How did nationalism and the idea of the nation-state emerge?
 
 Socially and politically, a landed aristocracy was the dominant class on the continent. The members of this class were united by a common way of life that cut across regional divisions. They owned estates in the countryside and also town-houses. They spoke French for purposes of diplomacy and in high society. Their families were often connected by ties of marriage. This powerful aristocracy was, however, numerically a small group. The majority of the population was made up of the peasantry. To the west, the bulk of the land was farmed by tenants and small owners, while in Eastern and Central Europe the pattern of landholding was characterised by vast estates which were cultivated by serfs.
 
-## Some important dates
+### Some important dates
 
-1797
+1797 Napoleon invades Italy; Napoleonic wars begin 1814-1815
 
-Napoleon invades Italy; Napoleonic wars begin.
+1821 Fall of Napoleon; the Vienna Peace Settlement.
 
-1814-1815
-
-Fall of Napoleon; the Vienna Peace Settlement.
-
-1821
-
-Greek struggle for independence begins.
-
-1848
+1848 Greek struggle for independence begins.
 
 Revolutions in Europe; artisans, industrial workers and peasants revolt against economic hardships; middle classes demand constitutions and representative governments; Italians, Germans, Magyars, Poles, Czechs, etc. demand nation-states.
 
-1859-1870
+1859-1870 Unification of Italy. 
 
-Unification of Italy.
+1866-1871 Unification of Germany.
 
-1866-1871
-
-Unification of Germany.
-
-1905
-
-Slav nationalism gathers force in the Habsburg and Ottoman Empires.
+1905 Slav nationalism gathers force in the Habsburg and Ottoman Empires.
 
 In Western and parts of Central Europe the growth of industrial production and trade meant the growth of towns and the emergence of commercial classes whose existence was based on production for the market. Industrialisation began in England in the second half of the eighteenth century, but in France and parts of the German states it occurred only during the nineteenth century. In its wake, new social groups came into being: a working-class population, and middle classes made up of industrialists, businessmen, professionals. In Central and Eastern Europe these groups were smaller in number till late nineteenth century. It was among the educated, liberal middle classes that ideas of national unity following the abolition of aristocratic privileges gained popularity.
 
@@ -127,8 +106,7 @@ Yet, equality before the law did not necessarily stand for universal suffrage. Y
 
 In the economic sphere, liberalism stood for the freedom of markets and the abolition of state-imposed restrictions on the movement of goods and capital. During the nineteenth century this was a strong demand of the emerging middle classes. Let us take the example of the German-speaking regions in the first half of the nineteenth century. Napoleon’s administrative measures had created out of
 
-## New words
-
+### New words
 Suffrage – The right to vote
 
 countless small principalities a confederation of 39 states. Each of these possessed its own currency, and weights and measures. A merchant travelling in 1833 from Hamburg to Nuremberg to sell his goods would have had to pass through 11 customs barriers and pay a customs duty of about 5 per cent at each one of them. Duties were often levied according to the weight or measurement of the goods. As each region had its own system of weights and measures, this involved time-consuming calculation. The measure of cloth, for example, was the elle which in each region stood for a different length. An elle of textile material bought in Frankfurt would get you $5 4 . 7 ~ \mathrm { c m }$ of cloth, in Mainz $5 5 . 1 ~ \mathrm { c m }$ , in Nuremberg $6 5 . 6 ~ \mathrm { c m }$ , in Freiburg $5 3 . 5 \mathrm { c m }$ .
@@ -151,11 +129,11 @@ Friedrich List, Professor of Economics at the University of Tübingen in Germany
 
 Source
 
-## Discuss
+### Discuss
 
 Describe the political ends that List hopes to achieve through economic measures.
 
-## New words
+### New words
 
 Conservatism – A political philosophy that stressed the importance of tradition, established institutions and customs, and preferred gradual development to quick change
 
@@ -163,11 +141,11 @@ drew up the Treaty of Vienna of 1815 with the object of undoing most of the chan
 
 Conservative regimes set up in 1815 were autocratic. They did not tolerate criticism and dissent, and sought to curb activities that questioned the legitimacy of autocratic governments. Most of them imposed censorship laws to control what was said in newspapers, books, plays and songs and reflected the ideas of liberty and freedom
 
-### Activity
+### Activity-2
 
 Plot on a map of Europe the changes drawn up by the Vienna Congress.
 
-## Discuss
+### Discuss
 
 What is the caricaturist trying to depict?
 
@@ -232,7 +210,7 @@ Grimms'Fairy Tales is a familiar name. The brothers Jacob and Wilhelm Grimm were
 
 The Grimm brothers also saw French domination as a threat to German culture, and believed that the folktales they had collected were expressions of a pure and authentic German spirit. They considered their projects of collecting folktales and developing the German language as part of the wider effort to oppose French domination and create a German national identity.
 
-## Discuss
+### Discuss
 
 Discuss the importance of language and popular traditions in the creation of national identity.
 
@@ -247,11 +225,11 @@ In these villages (with 18,000 inhabitants) cotton weaving is the most widesprea
 
 On 4 June at 2 p.m. a large crowd of weavers emerged from their homes and marched in pairs up to the mansion of their contractor demanding higher wages. They were treated with scorn and threats alternately. Following this, a group of them forced their way into the house, smashed its elegant windowpanes, furniture, porcelain … another group broke into the storehouse and plundered it of supplies of cloth which they tore to shreds … The contractor fled with his family to a neighbouring village which, however, refused to shelter such a person. He returned 24 hours later having requisitioned the army. In the exchange that followed, eleven weavers were shot.
 
-## Discuss
+### Discuss
 
 Describe the cause of the Silesian weavers’ uprising. Comment on the viewpoint of the journalist.
 
-### Activity
+### Activity-3
 
 Imagine you are a weaver who saw the events as they unfolded. Write a report on what you saw.
 
@@ -263,8 +241,7 @@ In the German regions a large number of political associations whose members wer
 
 The issue of extending political rights to women was a controversial one within the liberal movement, in which large numbers of women had participated actively over the years. Women had formed their own political associations, founded newspapers and taken part in political meetings and demonstrations. Despite this they were denied
 
-## New words
-
+### New words
 Feminist – Awareness of women’s rights and interests based on the belief of the social, economic and political equality of the genders
 
 ## Source C
@@ -290,11 +267,11 @@ suffrage rights during the election of the Assembly. When the Frankfurt parliame
 
 Though conservative forces were able to suppress liberal movements in 1848, they could not restore the old order. Monarchs were beginning to realise that the cycles of revolution and repression could only be ended by granting concessions to the liberal-nationalist revolutionaries. Hence, in the years after 1848, the autocratic monarchies of Central and Eastern Europe began to introduce the changes that had already taken place in Western Europe before 1815. Thus serfdom and bonded labour were abolished both in the Habsburg dominions and in Russia. The Habsburg rulers granted more autonomy to the Hungarians in 1867.
 
-## Discuss
+### Discuss
 
 Compare the positions on the question of women’s rights voiced by the three writers cited above. What do they reveal about liberal ideology?
 
-## New words
+### New words
 
 Ideology – System of ideas reflecting a particular social and political vision
 
@@ -327,7 +304,7 @@ During the 1830s, Giuseppe Mazzini had sought to put together a coherent program
 ![](images/be59d35584f2025829d09850d1ccb970aab3ff68899d2b09fe9d0a667de8bdb7.jpg)  
 Fig. 13 — Caricature of Otto von Bismarck in the German reichstag (parliament), from Figaro, Vienna, 5 March 1870.
 
-### Activity
+### Activity-4
 
 Describe the caricature. How does it represent the relationship between Bismarck and the elected deputies of Parliament? What interpretation of democratic processes is the artist trying to convey?
 
@@ -340,7 +317,7 @@ Fig. 14(a) — Italian states before unification, 1858.
 
 The model of the nation or the nation-state, some scholars have argued, is Great Britain. In Britain the formation of the nation-state
 
-### Activity
+### Activity-5
 
 Look at Fig. 14(a). Do you think that the people living in any of these regions thought of themselves as Italians?
 
@@ -354,7 +331,7 @@ was not the result of a sudden upheaval or revolution. It was the result of a lo
 
 Ireland suffered a similar fate. It was a country deeply divided between Catholics and Protestants. The English helped the Protestants of Ireland to establish their dominance over a largely Catholic country. Catholic revolts against British dominance were suppressed. After a failed revolt led by Wolfe Tone and his United Irishmen (1798), Ireland was forcibly incorporated into the United Kingdom in 1801. A new ‘British nation’ was forged through the propagation of a dominant English culture. The symbols of the new Britain – the British flag (Union Jack), the national anthem (God Save Our Noble King), the English language – were actively promoted and the older nations survived only as subordinate partners in this union.
 
-### Activity
+### Activity-6
 
 The artist has portrayed Garibaldi as holding on to the base of the boot, so that the King of Sardinia-Piedmont can enter it from the top. Look at the map of Italy once more. What statement is this caricature making?
 
@@ -367,7 +344,7 @@ In 1867, Garibaldi led an army of volunteers to Rome to fight the last obstacle 
 ![](images/99031cd333052a1d5593191cf61126f2363b9081ca5482f53d7dd85bfdee3426.jpg)  
 Fig. 15 – Garibaldi helping King Victor Emmanuel II of Sardinia-Piedmont to pull on the boot named ‘Italy’. English caricature of 1859.
 
-## New words
+### New words
 
 Ethnic – Relates to a common racial, tribal, or cultural origin or background that a community identifies with or claims
 
@@ -381,7 +358,7 @@ Similar female allegories were invented by artists in the nineteenth century to 
 
 Similarly, Germania became the allegory of the German nation. In visual representations, Germania wears a crown of oak leaves, as the German oak stands for heroism.
 
-## New words
+### New words
 
 Allegory – When an abstract idea (for instance, greed, envy, freedom, liberty) is expressed through a person or a thing. An allegorical story has two meanings, one literal and one symbolic
 
@@ -395,7 +372,7 @@ Fig. 17 — Germania, Philip Veit, 1848. The artist prepared this painting of Ge
 
 <table><tr><td>Attribute</td><td>Significance</td></tr><tr><td>Broken chains</td><td>Being freed</td></tr><tr><td>Breastplate with eagle</td><td>Symbol of the German empire – strength</td></tr><tr><td>Crown of oak leaves</td><td>Heroism</td></tr><tr><td>Sword</td><td>Readiness to fight</td></tr><tr><td>Olive branch around the sword</td><td>Willingness to make peace</td></tr><tr><td>Black, red and gold tricolour</td><td>Flag of the liberal-nationalists in 1848, banned by the Dukes of the German states</td></tr><tr><td>Rays of the rising sun</td><td>Beginning of a new era</td></tr></table>
 
-### Activity
+### Activity-7
 
 With the help of the chart in Box 3, identify the attributes of Veit’s Germania and interpret the symbolic meaning of the painting. In an earlier allegorical rendering of 1836, Veit had portrayed the Kaiser’s crown at the place where he has now located the broken chain. Explain the significance of this change.
 
@@ -404,14 +381,14 @@ With the help of the chart in Box 3, identify the attributes of Veit’s Germani
 ![](images/2415400d2a773fb7d28dbb386ca312e9918e3fd9cc91ce937a34283a16007812.jpg)  
 Fig. 18 — The fallen Germania, Julius Hübner, 1850.
 
-### Activity
+### Activity-8
 
 Describe what you see in Fig. 17. What historical events could Hübner be referring to in this allegorical vision of the nation?
 
 ![](images/bed6096b4b2a20c596168377844f949e22249de347d7f9d6cfa4a316a490006b.jpg)  
 Fig. 19 — Germania guarding the Rhine. In 1860, the artist Lorenz Clasen was commissioned to paint this image. The inscription on Germania’s sword reads: ‘The German sword protects the German Rhine.’
 
-### Activity
+### Activity-9
 
 Look once more at Fig. 10. Imagine you were a citizen of Frankfurt in March 1848 and were present during the proceedings of the parliament. How would you (a) as a man seated in the hall of deputies, and (b) as a woman observing from the galleries, relate to the banner of Germania hanging from the ceiling?
 
@@ -444,7 +421,7 @@ e) The role of women in nationalist struggles
 4. Briefly trace the process of German unification.   
 5. What changes did Napoleon introduce to make the administrative system more efficient in the territories ruled by him?
 
-## Discuss
+### Discuss
 
 1. Explain what is meant by the 1848 revolution of the liberals. What were the political, social and economic ideas supported by the liberals?   
 2. Choose three examples to show the contribution of culture to the growth of nationalism in Europe.   
@@ -487,7 +464,7 @@ Mahatma Gandhi returned to India in January 1915. As you know, he had come from 
 ![](images/064515e8959db81dc8c2d28382f2c51b01c34d51c05e81de57cd17d57d2e5360.jpg)  
 Fig. 2 – Indian workers in South Africa march through Volksrust, 6 November 1913.
 
-## New words
+### New words
 
 Forced recruitment – A process by which the colonial state forced people to join the army
 
@@ -515,7 +492,7 @@ Rallies were organised in various cities, workers went on strike in railway work
 
 Source
 
-### Activity
+### Activity-1
 
 Read the text carefully. What did Mahatma Gandhi mean when he said satyagraha is active resistance?
 
@@ -540,7 +517,7 @@ Many within the Congress were, however, concerned about the proposals. They were
 
 How did the movement unfold? Who participated in it? How did different social groups conceive of the idea of Non-Cooperation?
 
-## New words
+### New words
 
 Boycott – The refusal to deal and associate with people, or participate in activities, or buy and use things; usually a form of protest
 
@@ -565,11 +542,11 @@ But this movement in the cities gradually slowed down for a variety of reasons. 
 
 From the cities, the Non-Cooperation Movement spread to the countryside. It drew into its fold the struggles of peasants and tribals
 
-## New words
+### New words
 
 Picket – A form of demonstration or protest by which people block the entrance to a shop, factory or office
 
-### Activity
+### Activity-2
 
 The year is 1921. You are a student in a government-controlled school. Design a poster urging school students to answer Gandhiji’s call to join the Non-Cooperation Movement.
 
@@ -577,11 +554,11 @@ which were developing in different parts of India in the years after the war.
 
 In Awadh, peasants were led by Baba Ramchandra – a sanyasi who had earlier been to Fiji as an indentured labourer. The movement here was against talukdars and landlords who demanded from peasants exorbitantly high rents and a variety of other cesses. Peasants had to do begar and work at landlords’ farms without any payment. As tenants they had no security of tenure, being regularly evicted so that they could acquire no right over the leased land. The peasant movement demanded reduction of revenue, abolition of begar, and social boycott of oppressive landlords. In many places nai – dhobi bandhs were organised by panchayats to deprive landlords of the services of even barbers and washermen. In June 1920, Jawaharlal Nehru began going around the villages in Awadh, talking to the villagers, and trying to understand their grievances. By October, the Oudh Kisan Sabha was set up headed by Jawaharlal Nehru, Baba Ramchandra and a few others. Within a month, over 300 branches had been set up in the villages around the region. So when the Non-Cooperation Movement began the following year, the effort of the Congress was to integrate the Awadh peasant struggle into the wider struggle. The peasant movement, however, developed in forms that the Congress leadership was unhappy with. As the movement spread in 1921, the houses of talukdars and merchants were attacked, bazaars were looted, and grain hoards were taken over. In many places local leaders told peasants that Gandhiji had declared that no taxes were to be paid and land was to be redistributed among the poor. The name of the Mahatma was being invoked to sanction all action and aspirations.
 
-## New words
+### New words
 
 Begar – Labour that villagers were forced to contribute without any payment
 
-### Activity
+### Activity-3
 
 If you were a peasant in Uttar Pradesh in 1920, how would you have responded to Gandhiji’s call for Swaraj? Give reasons for your response.
 
@@ -601,7 +578,7 @@ Tribal peasants interpreted the message of Mahatma Gandhi and the idea of swaraj
 
 Workers too had their own understanding of Mahatma Gandhi and the notion of swaraj. For plantation workers in Assam, freedom meant the right to move freely in and out of the confined space in which they were enclosed, and it meant retaining a link with the village from which they had come. Under the Inland Emigration Act of 1859, plantation workers were not permitted to leave the tea gardens without permission, and in fact they were rarely given such permission. When they heard of the Non-Cooperation Movement, thousands of workers defied the authorities, left the plantations and headed home. They believed that Gandhi Raj was coming and everyone would be given land in their own villages. They, however, never reached their destination. Stranded on the way by a railway and steamer strike, they were caught by the police and brutally beaten up.
 
-### Activity
+### Activity-4
 
 Find out about other participants in the National Movement who were captured and put to death by the British. Can you think of a similar example from the national movement in Indo-China (Chapter 2)?
 
@@ -738,7 +715,7 @@ picketed foreign cloth and liquor shops. Many went to jail. In urban areas these
 
 Not all social groups were moved by the abstract concept of swaraj. One such group was the nation’s ‘untouchables’, who from around the 1930s had begun to call themselves dalit or oppressed. For long the Congress had ignored the dalits, for fear of offending the sanatanis, the conservative high-caste Hindus. But Mahatma Gandhi declared that swaraj would not come for a hundred years if untouchability was not eliminated. He called the ‘untouchables’ harijan,
 
-## Discuss
+### Discuss
 
 Why did various classes and groups of Indians participate in the Civil Disobedience Movement?
 
@@ -767,7 +744,7 @@ In 1930, Sir Muhammad Iqbal, as president of the Muslim League, reiterated the i
 
 ‘The Hindu thinks that separate electorates are contrary to the spirit of true nationalism, because he understands the word “nation” to mean a kind of universal amalgamation in which no communal entity ought to retain its private individuality. Such a state of things, however, does not exist. India is a land of racial and religious variety. Add to this the general economic inferiority of the Muslims, their enormous debt, especially in the Punjab, and their insufficient majorities in some of the provinces, as at present constituted and you will begin to see clearly the meaning of our anxiety to retain separate electorates.’
 
-## Discuss
+### Discuss
 
 Read the Source D carefully. Do you agree with Iqbal’s idea of communalism? Can you define communalism in a different way?
 
@@ -807,7 +784,7 @@ Fig. 14a – Bharat Mata.
 ![](images/8ad08a7a51814bc10204e062f4ea7dd4cd2341957fb84df925122678f824b16b.jpg)  
 This figure of Bharat Mata is a contrast to the one painted by Abanindranath Tagore. Here she is shown with a trishul, standing beside a lion and an elephant – both symbols of power and authority.
 
-### Activity
+### Activity-5
 
 Look at Figs. 12 and 14. Do you think these images will appeal to all castes and communities?
 
@@ -855,7 +832,7 @@ b) The Simon Commission
 
 4 Compare the images of Bharat Mata in this chapter with the image of Germania in Chapter 1.
 
-## Discuss
+### Discuss
 
 1. List all the different social groups which joined the Non-Cooperation Movement of 1921. Then choose any three and write about their hopes and struggles to show why they joined the movement.   
 2. Discuss the Salt March to make clear why it was an effective symbol of resistance against colonialism.   
@@ -936,11 +913,11 @@ Until the nineteenth century, poverty and hunger were common in Europe. Cities w
 
 Until well into the eighteenth century, China and India were among the world’s richest countries. They were also pre-eminent in Asian trade. However, from the fifteenth century, China is said to have restricted overseas contacts and retreated into isolation. China’s reduced role and the rising importance of the Americas gradually moved the centre of world trade westwards. Europe now emerged as the centre of world trade.
 
-## New words
+### New words
 
 Dissenter – One who refuses to accept established beliefs and practices
 
-## Discuss
+### Discuss
 
 Explain what we mean when we say that the world ‘shrank’ in the 1500s.
 
@@ -979,7 +956,7 @@ Fig. 7 – Irish emigrants waiting to board the ship, by Michael Fitzgerald, 187
 
 Thus by 1890, a global agricultural economy had taken shape, accompanied by complex changes in labour movement patterns, capital flows, ecologies and technology. Food no longer came from a nearby village or town, but from thousands of miles away. It was not grown by a peasant tilling his own land, but by an agricultural worker, perhaps recently arrived, who was now working on a large farm that only a generation ago had most likely been a forest. It was transported by railway, built for that very purpose, and by ships which were increasingly manned in these decades by low-paid workers from southern Europe, Asia, Africa and the Caribbean.
 
-### Activity
+### Activity-1
 
 Imagine that you are an agricultural worker who has arrived in America from Ireland. Write a paragraph on why you chose to come and how you are earning your living.
 
@@ -991,7 +968,7 @@ Of course, food is merely an example. A similar story can be told for cotton, th
 
 What was the role of technology in all this? The railways, steamships, the telegraph, for example, were important inventions without which we cannot imagine the transformed nineteenth-century world. But technological advances were often the result of larger social, political and economic factors. For example, colonisation stimulated new investments and improvements in transport: faster railways, lighter wagons and larger ships helped move food more cheaply and quickly from faraway farms to final markets.
 
-### Activity
+### Activity-2
 
 Prepare a flow chart to show how Britain’s decision to import food led to increased migration to America and Australia.
 
@@ -1065,7 +1042,7 @@ In the nineteenth century, hundreds of thousands of Indian and Chinese labourers
 
 Most Indian indentured workers came from the present-day regions of eastern Uttar Pradesh, Bihar, central India and the dry districts of Tamil Nadu. In the mid-nineteenth century these regions experienced many changes – cottage industries declined, land rents rose, lands were cleared for mines and plantations. All this affected the lives of the poor: they failed to pay their rents, became deeply indebted and were forced to migrate in search of work.
 
-## New words
+### New words
 
 Indentured labour – A bonded labourer under contract to work for an employer for a specific amount of time, to pay off his passage to a new country or home
 
@@ -1084,7 +1061,7 @@ Most indentured workers stayed on after their contracts ended, or returned to th
 ![](images/58887c8ff7e4d4c6f3abec42b36571bb5319c8c1795bce06df079b7353812842.jpg)  
 Fig. 14 — Indian indentured labourers in a cocoa plantation in Trinidad, early nineteenth century.
 
-## Discuss
+### Discuss
 
 Discuss the importance of language and popular traditions in the creation of national identity.
 
@@ -1253,7 +1230,7 @@ Across India, peasants’ indebtedness increased. They used up their savings, mo
 
 The depression proved less grim for urban India. Because of falling prices, those with fixed incomes – say town-dwelling landowners who received rents and middle-class salaried employees – now found themselves better off. Everything cost less. Industrial investment also grew as the government extended tariff protection to industries, under the pressure of nationalist opinion.
 
-## Discuss
+### Discuss
 
 Who profits from jute cultivation according to the jute growers’ lament? Explain.
 
@@ -1299,7 +1276,7 @@ Fig. 26 – Mount Washington Hotel situated in Bretton Woods, US.
 ![](images/1dd40677bee3aab9085e333cc36314266b77bb183b7734ff4e38ea8eeec68d82.jpg)  
 This is the place where the famous conference was held.
 
-## Discuss
+### Discuss
 
 Briefly summarise the two lessons learnt by economists and politicians from the inter-war economic experience?
 
@@ -1323,7 +1300,7 @@ At the same time, most developing countries did not benefit from the fast growth
 
 Multinational corporations (MNCs) are large companies that operate in several countries at the same time. The first MNCs were established in the 1920s. Many more came up in the 1950s and 1960s as US businesses expanded worldwide and Western Europe and Japan also recovered to become powerful industrial economies. The worldwide spread of MNCs was a notable feature of the 1950s and 1960s. This was partly because high import tariffs imposed by different governments forced MNCs to locate their manufacturing operations and become ‘domestic producers’ in as many countries as possible.
 
-## New words
+### New words
 
 Tariff – Tax imposed on a country’s imports from the rest of the world. Tariffs are levied at the point of entry, i.e., at the border or the airport.
 
@@ -1341,7 +1318,7 @@ Wages were relatively low in countries like China. Thus they became attractive d
 
 The relocation of industry to low-wage countries stimulated world trade and capital flows. In the last two decades the world’s economic geography has been transformed as countries such as India, China and Brazil have undergone rapid economic transformation.
 
-## New words
+### New words
 
 Exchange rates – They link national currencies for purposes of international trade. There are broadly two kinds of exchange rates: fixed exchange rate and floating exchange rate
 
@@ -1364,7 +1341,7 @@ e) The decision of MNCs to relocate production to Asian countries.
 4. Give two examples from history to show the impact of technology on food availability.   
 5. What is meant by the Bretton Woods Agreement?
 
-## Discuss
+### Discuss
 
 6. Imagine that you are an indentured Indian labourer in the Caribbean. Drawing from the details in this chapter, write a letter to your family describing your life and feelings.   
 7. Explain the three types of movements or flows within international economic exchange. Find one example of each type of flow which involved India and Indians, and write a short account of it.   
@@ -1387,7 +1364,7 @@ In 1900, a popular music publisher E.T. Paull produced a music book that had a p
 
 This glorification of machines and technology is even more marked in a picture which appeared on the pages of a trade magazine over a hundred years ago (Fig. 2). It shows two magicians. The one at the top is Aladdin from the Orient who built a beautiful palace with his
 
-## New words
+### New words
 
 Orient – The countries to the east of the Mediterranean, usually referring to Asia. The term arises out of a western viewpoint that sees this region as premodern, traditional and mysterious
 
@@ -1401,7 +1378,7 @@ How have these images developed? And how do we relate to these ideas? Is industr
 
 In this chapter we will look at this history by focusing first on Britain, the first industrial nation, and then India, where the pattern of industrial change was conditioned by colonial rule.
 
-### Activity
+### Activity-1
 
 Give two examples where modern development that is associated with progress has led to problems. You may like to think of areas related to environmental issues, nuclear weapons or disease.
 
@@ -1420,7 +1397,7 @@ the trade. Rulers granted different guilds the monopoly right to produce and tra
 
 In the countryside poor peasants and artisans began working for merchants. As you have seen in the textbook last year, this was a time when open fields were disappearing and commons were being enclosed. Cottagers and poor peasants who had earlier depended on common lands for their survival, gathering their firewood, berries, vegetables, hay and straw, had to now look for alternative sources of income. Many had tiny plots of land which could not provide work for all members of the household. So when merchants came around and offered advances to produce goods for them, peasant households eagerly agreed. By working for the merchants, they
 
-## New words
+### New words
 
 Proto – Indicating the first or early form of something
 
@@ -1441,7 +1418,7 @@ The first symbol of the new era was cotton. Its production boomed in the late ni
 
 A series of inventions in the eighteenth century increased the efficacy of each step of the production process (carding, twisting and spinning, and rolling). They enhanced the output per worker, enabling each worker to produce more, and they made possible the production of stronger threads and yarn. Then Richard Arkwright created the cotton mill. Till this time, as you have seen, cloth production was spread all over the countryside and carried out within village households. But now, the costly new machines could be purchased, set up and maintained in the mill. Within the mill all the
 
-## New words
+### New words
 
 Stapler – A person who ‘staples’ or sorts wool according to its fibre
 
@@ -1458,7 +1435,7 @@ processes were brought together under one roof and management. This allowed a mo
 
 In the early nineteenth century, factories increasingly became an intimate part of the English landscape. So visible were the imposing new mills, so magical seemed to be the power of new technology, that contemporaries were dazzled. They concentrated their attention on the mills, almost forgetting the bylanes and the workshops where production still continued.
 
-### Activity
+### Activity-2
 
 The way in which historians focus on industrialisation rather than on small workshops is a good example of how what we believe today about the past is influenced by what historians choose to notice and what they ignore. Note down one event or aspect of your own life which adults such as your parents or teachers may think is unimportant, but which you believe to be important.
 
@@ -1471,7 +1448,7 @@ How rapid was the process of industrialisation? Does industrialisation mean only
 
 First: The most dynamic industries in Britain were clearly cotton and metals. Growing at a rapid pace, cotton was the leading sector in the first phase of industrialisation up to the 1840s. After that the iron and steel industry led the way. With the expansion of railways, in England from the 1840s and in the colonies from the 1860s, the demand for iron and steel increased rapidly. By 1873 Britain was exporting iron and steel worth about $\mathcal { L } ^ { 7 7 }$ million, double the value of its cotton export.
 
-### Activity
+### Activity-3
 
 Look at Figs. 4 and 5. Can you see any difference in the way the two images show industrialisation? Explain your view briefly.
 
@@ -1519,7 +1496,7 @@ Quoted in Raphael Samuel, ‘Comers and Goers’, in H.J. Dyos and Michael Wolff
 
 Source
 
-### Activity
+### Activity-4
 
 Imagine that you are a merchant writing back to a salesman who has been trying to persuade you to buy a new machine. Explain in your letter what you have heard and why you do not wish to invest in the new technology.
 
@@ -1559,11 +1536,11 @@ Fig. 11 – A Spinning Jenny, a drawing by T.E. Nicholson, 1835.
 ![](images/7413d9a71c1bd0a1492df2f9bf27755729d9e4415ad67295c5ca0df57f2d65a9.jpg)  
 Notice the number of spindles that could be operated with one wheel.
 
-## New words
+### New words
 
 Spinning Jenny – Devised by James Hargreaves in 1764, this machine speeded up the spinning process and reduced labour demand. By turning one single wheel a worker could set in motion a number of spindles and spin several threads at the same time.
 
-## Discuss
+### Discuss
 
 Look at Figs. 3, 7 and 11, then reread source B. Explain why many workers were opposed to the use of the Spinning Jenny.
 
@@ -1588,7 +1565,7 @@ By the 1750s this network, controlled by Indian merchants, was breaking down.
 
 The European companies gradually gained power – first securing a variety of concessions from local courts, then the monopoly rights to trade. This resulted in a decline of the old ports of Surat and Hoogly through which local merchants had operated. Exports from these ports fell dramatically, the credit that had financed the earlier trade began drying up, and the local bankers slowly went bankrupt. In the last years of the seventeenth century, the gross value of trade that passed through Surat had been Rs 16 million. By the 1740s it had slumped to Rs 3 million.
 
-### Activity
+### Activity-5
 
 On a map of Asia, find and draw the sea and land links of the textile trade from India to Central Asia, West Asia and Southeast Asia.
 
@@ -1620,7 +1597,7 @@ As loans flowed in and the demand for fine textiles expanded, weavers eagerly to
 
 Soon, however, in many weaving villages there were reports of clashes between weavers and gomasthas. Earlier supply merchants had very often lived within the weaving villages, and had a close relationship with the weavers, looking after their needs and helping them in times of crisis. The new gomasthas were outsiders, with no long-term social link with the village. They acted arrogantly, marched into villages with sepoys and peons, and punished weavers for delays in supply – often beating and flogging them. The weavers lost the space to bargain for prices and sell to different buyers: the price they received from the Company was miserably low and the loans they had accepted tied them to the Company.
 
-## New words
+### New words
 
 Sepoy – This is how the British pronounced the word sipahi, meaning an Indian soldier in the service of the British
 
@@ -1768,7 +1745,7 @@ Fig. 23 – A Hand-woven Cloth.
 
 The intricate designs of hand-woven cloth could not be easily copied by the mills.
 
-## New words
+### New words
 
 Fly shuttle – It is a mechanical device used for weaving, moved by means of ropes and pullies. It places the horizontal threads ( called the weft) into the verticle threads (called the warp). The invention of the fly shuttle made it possible for weavers to operate large looms and weave wide pieces of cloth.
 
@@ -1851,7 +1828,7 @@ d) The introduction of the fly shuttle enabled handloom workers to improve their
 
 3. Explain what is meant by proto-industrialisation.
 
-## Discuss
+### Discuss
 
 1. Why did some industrialists in nineteenth-century Europe prefer hand labour over machines?   
 2. How did the East India Company procure regular supplies of cotton and silk textiles from Indian weavers?   
@@ -1892,7 +1869,7 @@ This new reading culture was accompanied by a new technology. Western printing t
 
 Buddhist missionaries from China introduced hand-printing technology into Japan around AD 768-770. The oldest Japanese book, printed in AD 868, is the Buddhist Diamond Sutra, containing six sheets of text and woodcut illustrations. Pictures were printed on textiles,
 
-## New words
+### New words
 
 Calligraphy – The art of beautiful and stylised writing
 
@@ -1934,7 +1911,7 @@ But the production of handwritten manuscripts could not satisfy the ever-increas
 
 There was clearly a great need for even quicker and cheaper reproduction of texts. This could only be with the invention of a new print technology. The breakthrough occurred at Strasbourg, Germany, where Johann Gutenberg developed the first-known printing press in the 1430s.
 
-## New words
+### New words
 
 Vellum – A parchment made from the skin of animals
 
@@ -1943,7 +1920,7 @@ Fig. 4b – Jikji
 
 The Jikji of Korea is among the world’s oldest existing books printed with movable metal type. It contains the essential features of Zen Buddhism. About 150 monks of India, China and Korea are mentioned in the book. It was printed in late 14th century. While the first volume of the book is unavailable, the second one is available in the National Library of France. This work marked an important technical change in the print culture. That is why it was inscribed on the UNESCO Memory of the World Register in 2001.
 
-### Activity
+### Activity-1
 
 Imagine that you are Marco Polo. Write a letter from China to describe the world of print which you have seen there.
 
@@ -1959,7 +1936,7 @@ In the hundred years between 1450 and 1550, printing presses were set up in most
 
 This shift from hand printing to mechanical printing led to the print revolution.
 
-## New words
+### New words
 
 Platen – In letterpress printing, platen is a board which is pressed onto the back of the paper to get the impression from the type. At one time it used to be a wooden board; later it was made of steel
 
@@ -1985,7 +1962,7 @@ Fig. 8 – A printer’s workshop, sixteenth century.
 
 This picture depicts what a printer’s shop looked like in the sixteenth century. All the activities are going on under one roof. In the foreground on the right, compositors are at work, while on the left galleys are being prepared and ink is being applied on the metal types; in the background, the printers are turning the screws of the press, and near them proofreaders are at work. Right in front is the final product – the double-page printed sheets, stacked in neat piles, waiting to be bound.
 
-## New words
+### New words
 
 Compositor – The person who composes the text for printing
 
@@ -2007,11 +1984,11 @@ But the transition was not so simple. Books could be read only by the literate, 
 
 Oral culture thus entered print and printed material was orally transmitted. The line that separated the oral and reading cultures became blurred. And the hearing public and reading public became intermingled.
 
-### Activity
+### Activity-2
 
 You are a bookseller advertising the availability of new cheap printed books. Design a poster for your shop window.
 
-## New words
+### New words
 
 Ballad – A historical account or folk tale in verse, usually sung or recited Taverns – Places where people gathered to drink alcohol, to be served food, and to meet friends and exchange news
 
@@ -2033,7 +2010,7 @@ Fig. 9 – J.V. Schley, L’Imprimerie, 1739.
 ![](images/a4541026da4589751dfac44aa97cdd7271561f4fb8fc1efcf04559a7278e58e9.jpg)  
 This is one of the many images produced in early modern Europe, celebrating the coming of print. You can see the printing press descending from heaven, carried by a goddess. On two sides of the goddess, blessing the machine, are Minerva (the goddess of wisdom) and Mercury (the messenger god, also symbolising reason). The women in the foreground are holding plaques with the portraits of six pioneer printers of different countries. In the middle ground on the left (figure encircled) is the portrait of Gutenberg.
 
-## New words
+### New words
 
 Protestant Reformation – A sixteenth-century movement to reform the Catholic Church dominated by Rome. Martin Luther was one of the main Protestant reformers. Several traditions of anti-Catholic Christianity developed out of the movement
 
@@ -2045,11 +2022,11 @@ Fig. 10 – The macabre dance.
 ![](images/1645f29290583ef7d908337297c73e5be2ef3d18c198861d8cdcd043b56f9927.jpg)  
 This sixteenth-century print shows how the fear of printing was dramatised in visual representations of the time. In this highly interesting woodcut the coming of print is associated with the end of the world. The interior of the printer’s workshop here is the site of a dance of death. Skeletal figures control the printer and his workers, define and dictate what is to be done and what is to be produced.
 
-## Discuss
+### Discuss
 
 Write briefly why some people feared that the development of print could lead to the growth of dissenting ideas.
 
-## New words
+### New words
 
 Inquisition – A former Roman Catholic court for identifying and punishing heretics
 
@@ -2079,7 +2056,7 @@ The periodical press developed from the early eighteenth century, combining info
 
 Similarly, the ideas of scientists and philosophers now became more accessible to the common people. Ancient and medieval scientific texts were compiled and published, and maps and scientific diagrams were widely printed. When scientists like Isaac Newton began to publish their discoveries, they could influence a much wider circle of scientifically minded readers. The writings of thinkers such as Thomas Paine, Voltaire and Jean Jacques Rousseau were also widely printed and read. Thus their ideas about science, reason and rationality found their way into popular literature.
 
-## New words
+### New words
 
 Denominations – Sub groups within a religion Almanac – An annual publication giving astronomical data, information about the movements of the sun and moon, timing of full tides and eclipses, and much else that was of importance in the everyday life of people Chapbook – A term used to describe pocketsize books that are sold by travelling pedlars called chapmen. These became popular from the time of the sixteenth-century print revolution
 
@@ -2115,7 +2092,7 @@ Quoted by Robert Darnton, The Forbidden Best-SellersofPre-Revolutionary France,1
 
 Source
 
-## New words
+### New words
 
 Despotism – A system of governance in which absolute power is exercised by an individual, unregulated by legal and constitutional checks
 
@@ -2123,7 +2100,7 @@ questions about the existing social order. Cartoons and caricatures typically su
 
 How do we look at these arguments? There can be no doubt that print helps the spread of ideas. But we must remember that people did not read just one kind of literature. If they read the ideas of Voltaire and Rousseau, they were also exposed to monarchical and Church propaganda. They were not influenced directly by everything they read or saw. They accepted some ideas and rejected others. They interpreted things their own way. Print did not directly shape their minds, but it did open up the possibility of thinking differently.
 
-### Activity
+### Activity-3
 
 Imagine that you are a cartoonist in France before the revolution. Design a cartoon as it would have appeared in a pamphlet.
 
@@ -2132,7 +2109,7 @@ Fig. 11 – The nobility and the common people before the French Revolution,  a 
 
 The cartoon shows how the ordinary people – peasants, artisans and workers – had a hard time while the nobility enjoyed life and oppressed them. Circulation of cartoons like this one had an impact on the thinking of people before the revolution.
 
-## Discuss
+### Discuss
 
 Why do some historians think that print culture created the basis for the French Revolution?
 
@@ -2163,7 +2140,7 @@ By the late eighteenth century, the press came to be made out of metal. Through 
 
 Printers and publishers continuously developed new strategies to sell their product. Nineteenth-century periodicals serialised important novels, which gave birth to a particular way of writing novels. In the 1920s in England, popular works were sold in cheap series, called the Shilling Series. The dust cover or the book jacket is also a twentieth-century innovation. With the onset of the Great Depression in the 1930s, publishers feared a decline in book purchases. To sustain buying, they brought out cheap paperback editions.
 
-### Activity
+### Activity-4
 
 Look at Fig. 13. What impact do such advertisements have on the public mind?
 
@@ -2222,7 +2199,7 @@ In north India, the ulama were deeply anxious about the collapse of Muslim dynas
 
 Among Hindus, too, print encouraged the reading of religious texts, especially in the vernacular languages. The first printed edition of
 
-## New words
+### New words
 
 Ulama – Legal scholars of Islam and the sharia ( a body of Islamic law)
 
@@ -2308,7 +2285,7 @@ From the late nineteenth century, issues of caste discrimination began to be wri
 
 Workers in factories were too overworked and lacked the education to write much about their experiences. But Kashibaba, a Kanpur millworker, wrote and published Chhote Aur Bade Ka Sawal in 1938 to show the links between caste and class exploitation. The poems of another Kanpur millworker, who wrote under the name of Sudarshan Chakr between 1935 and 1955, were brought together and published in a collection called Sacchi Kavitayan. By the 1930s, Bangalore cotton millworkers set up libraries to educate themselves, following the example of Bombay workers. These were sponsored by social reformers who tried to restrict excessive drinking among them, to bring literacy and, sometimes, to propagate the message of nationalism.
 
-### Activity
+### Activity-5
 
 Look at Figs. 19, 20 and 21 carefully.
 
@@ -2368,7 +2345,7 @@ a) Women
 b) The poor   
 c) Reformers
 
-## Discuss
+### Discuss
 
 1. Why did some people in eighteenth century Europe think that print culture would bring enlightenment and end despotism?   
 2. Why did some people fear the effect of easily available printed books? Choose one example from Europe and one from India.   

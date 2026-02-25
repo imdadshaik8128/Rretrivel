@@ -42,7 +42,7 @@ class Chunk:
     subject:         str          # Physics / Biology / Maths_sem_1 …
 
     # --- Hierarchical position ---
-    chapter_number:  Optional[str]
+    chapter_number:  int
     chapter_title:   str
     section_title:   str          # H2 heading (empty if none)
     subsection_title:str          # H3 heading (empty if none)

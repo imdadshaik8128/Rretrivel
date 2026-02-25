@@ -9,8 +9,7 @@ venv/
 # Archives
 *.zip
 *.7z
-*.tar
-*.gz
+
 
 # OS
 .DS_Store

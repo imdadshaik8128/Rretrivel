@@ -1,0 +1,137 @@
+# cHAPTER 1
+# REAL NUMBERS
+    ### 1.1 Introduction
+    ### 1.2 The Fundamental Theorem of Arithmetic
+  ## EXERCISE 1.1
+    ### 1.3 Revisiting Irrational Numbers
+  ## EXERCISE 1.2
+    ### 1.4 Summary
+  ## A NOTE TO THE READER
+# chapter 2
+# POLYNOMIALS
+    ### 2.1 Introduction
+    ### 2.2 Geometrical Meaning of the Zeroes of a Polynomial
+  ## Solution :
+  ## EXERCISE 2.1
+    ### 2.3 Relationship between Zeroes and Coefficients of a Polynomial
+  ## EXERCISE 2.2
+    ### 2.4 Summary
+# Chapter 3
+# PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+    ### 3.1 Introduction
+    ### 3.2 Graphical Method of Solution of a Pair of Linear Equations
+  ## EXERCISE 3.1
+    ### 3.3 Algebraic Methods of Solving a Pair of Linear Equations
+  ## Solution :
+  ## EXERCISE 3.2
+      #### 3.3.2 Elimination Method
+  ## Remarks :
+  ## Solution :
+  ## EXERCISE 3.3
+    ### 3.4 Summary
+# chapter 4
+# QUADRATIC EQUATIONS
+    ### 4.1 Introduction
+    ### 4.2 Quadratic Equations
+  ## Solution :
+  ## Solution :
+  ## EXERCISE 4.1
+    ### 4.3 Solution of a Quadratic Equation by Factorisation
+  ## EXERCISE 4.2
+    ### 4.4 Nature of Roots
+  ## EXERCISE 4.3
+    ### 4.5 Summary
+  ## NOTE
+# chapter 5
+# ARITHMETIC PROGRESSIONS
+    ### 5.1 Introduction
+    ### 5.2 Arithmetic Progressions
+  ## EXERCISE 5.1
+    ### 5.3 nth Term of an AP
+  ## Alternative Solution :
+  ## EXERCISE 5.2
+    ### 5.4 Sum of First n Terms of an AP
+  ## Remarks:
+  ## Solution :
+  ## Solution :
+  ## EXERCISE 5.3
+  ## EXERCISE 5.4 (Optional)*
+    ### 5.5 Summary
+  ## A NOTE TO THE READER
+# chapter 6
+# TRIANGLES
+    ### 6.1 Introduction
+    ### 6.2 Similar Figures
+  ## EXERCISE 6.1
+    ### 6.3 Similarity of Triangles
+  ## EXERCISE 6.2
+    ### 6.4 Criteria for Similarity of Triangles
+  ## EXERCISE 6.3
+    ### 6.5 Summary
+  ## A NOTE TO THE READER
+# chapter 7
+# COORDINATE GEOMETRY
+    ### 7.1 Introduction
+    ### 7.2 Distance Formula
+  ## Remarks :
+  ## EXERCISE 7.1
+    ### 7.3 Section Formula
+  ## EXERCISE 7.2
+    ### 7.4 Summary
+  ## A NOTETOTHE READER
+  ## PROOFS IN MATHEMATICS
+  ## A1
+  ## A1.1 Introduction
+  ## A1.2 Mathematical Statements Revisited
+  ## Solution :
+  ## Solution :
+  ## Solution :
+  ## Solution :
+  ## EXERCISE A1.1
+  ## A1.3 Deductive Reasoning
+  ## EXERCISE A1.2
+  ## A1.4 Conjectures, Theorems, Proofs and Mathematical Reasoning
+  ## Solution :
+  ## Theorem A1.1 (Converse of the Pythagoras
+  ## Proof :
+  ## EXERCISE A1.3
+  ## A1.5 Negation of a Statement
+  ## Solution :
+  ## EXERCISE A1.4
+  ## A1.6 Converse of a Statement
+  ## Solution :
+  ## EXERCISE A1.5
+  ## A1.7 Proof by Contradiction
+  ## Proof :
+  ## EXERCISE A1.6
+  ## A1.8 Summary
+  ## ANSWERS/HINTS
+  ## EXERCISE 1.1
+  ## EXERCISE 2.1
+  ## EXERCISE 2.2
+  ## EXERCISE 3.1
+  ## EXERCISE 3.2
+  ## EXERCISE 3.3
+  ## EXERCISE 4.1
+  ## EXERCISE 4.2
+  ## EXERCISE 4.3
+  ## EXERCISE 5.1
+  ## EXERCISE 5.2
+  ## EXERCISE 5.3
+  ## EXERCISE 5.4 (Optional)*
+  ## EXERCISE 6.1
+  ## EXERCISE 6.2
+  ## EXERCISE 6.3
+  ## EXERCISE 7.1
+  ## EXERCISE 7.2
+  ## EXERCISE A1.1
+  ## EXERCISE A1.2
+  ## EXERCISE A1.3
+  ## EXERCISE A1.4
+  ## EXERCISE A1.5
+  ## EXERCISE A1.6
+# Suggested Pedagogical Processes
+# Learning Outcomes
+# The learners may be provided with opportunities individually or in groups and encouraged to—
+# The learner—
+# Suggested Pedagogical Processes in an Inclusive Setup

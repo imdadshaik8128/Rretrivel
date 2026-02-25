@@ -1,162 +1,7 @@
-![](images/4ab39cd5f260ef1d96b4dd1ea09d1e829cae5f0ace444795b234755fb0340ddf.jpg)  
-H
-
-# CONSTITUTION OFINDIA
-
-# Preamble
-
-WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGNSOCIALISTSECULARDEMOCRATICREPUBLIC
-
-and to secure to all its citizens:
-
-# JUSTICE
-
-Social, economic and political;
-
-# LIBERTY
-
-of thought, expression, belief, faith and worship;
-
-# EQUALITY
-
-of status and of opportunity; and to promote among them all FRATERNITY
-
-assuring the dignity of the individual and the unity and integrity of the Nation;
-
-IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do
-
-HEREBY ADOPT,ENACT AND GIVE TOOURSELVESTHISCONSTITUTION
-
-![](images/032aca9255f2e5b9da38ce1d8a21915f973a6fe4c8f630a77822038cd26448f5.jpg)
-
-#
-
-1.80x88x88间808c，g③③8qe，808c\，a08888&.8g085888&38088；  
-2.084606y88x8092880888e820808085gg8B88008c   
-3. 8480，880888 88008e808. 80008c.   
-4.   
-5. J080808e，808088888818e   
-6. 8808，880&330899818α；  
-7. 288&e8e88n8e.   
-8. 8&gy，888g9g8），88988。8o8808088o8m8co  
-9. 88008e，80888848；  
-80，38888888888
-
-(⑤&xε0 51 A)
-
-![](images/c8bef200e06ca73219ad58bceb6283af32c6ad67a9cc2fe69bfd99978957b57b.jpg)
-
-6308 1428888808098208280883080882848088829.88 53⑤1,2010 8008 0%&0）08.
-
-#
-
-8c08028083088a8888858009.   
-  
-  
-  
-88o8ee88388o，a8x8s0880308.   
-8eg8850m，89828o39080898.   
-  
-  
-  
-  
-  
-●8289c8，3@89e8088e88062088120983838ee5883888888x05808
-
-# $\textcircled{9}$ Government of Andhra Pradesh, Amaravati
-
-First Published 2024
-
-# All rights reserved
-
-No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means without the prior permission in writing of the publisher, nor be otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent purchaser.
-
-The copyright holder of this book is the Commissioner of School Education, Amaravati, Andhra Pradesh.
-
-This book has been printed on 70 G.S.M. SS Maplitho Title Page 220 G.S.M. White Art Card
-
-Free distribution by Samagra Shiksha, Government of Andhra Pradesh
-
-Printed in India
-
-at the A.P. Govt. Text Book Press
-
-Amaravati
-
-Andhra Pradesh
-
-# FOREWORD
-
-The National Curriculum Framework (NCF), 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning, which continues to shape our system, and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centered system of education outlined in the National Policy on Education (1986).
-
-The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
-
-These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavour by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
-
-The National Council of Educational Research and Training (NCERT) appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the advisory committee for textbooks in Social Sciences, at the secondary level, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Tapas Majumdar for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G.P. Deshpande, for their valuable time and contribution. As an organisation committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
-
-Director
-
-New Delhi
-
-20 November 2006
-
-National Council of Educational
-
-Research and Training
-
-# TEXTBOOK DEVELOPMENT COMMITTEE
-
-# CHAIRPERSON, ADVISORY COMMITTEE FOR SOCIAL SCIENCE TEXTBOOKS AT THE SECONDARY LEVEL
-
-Hari Vasudevan, Professor, Department of History, University of Kolkata, Kolkata.
-
-# CHIEF ADVISOR
-
-Tapas Majumdar, Emeritus Professor, Jawaharlal Nehru University, New Delhi
-
-# ADVISOR
-
-Sathish K. Jain, Professor, Centre for Economic Studies and Planning, Jawaharlal Nehru University, New Delhi
-
-# MEMBERS
-
-Arvind Sardana, Eklavya, Institute for Educational Research and Innovative Action, Madhya Pradesh
-
-Neeraja Rashmi, Reader, Curriculum Group, NCERT, New Delhi Neeraja Nautiyal, TGT (Social Science), Kendriya Vidyalaya, BEG Centre, Deccan College Road, Yeravada, Pune
-
-Rajinder Choudhury, Reader, Department of Economics, Maharishi Dayanand University, Rohtak, Haryana
-
-Rama Gopal, Professor, Department of Economics, Annamalai University, Annamalai Nagar, Tamil Nadu
-
-Sukanya Bose, Eklavya Fellow, New Delhi Vijay Shankar, Samaj Pragati Sahyog, Bagli Block, Dewas District, Madhya Pradesh
-
-# MEMBER-COORDINATOR
-
-M.V. Srinivasan, Lecturer, DESSH, NCERT, New Delhi
-
-# THE CONSTITUTION OF INDIA
-
-# PREAMBLE
-
-WE， THE PEOPLE OF INDIA， having solemnly resolved to constitute India into a 1[SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens :
-
-JUSTICE， social， economic andpolitical;
-
-LIBERTY of thought, expression, belief, faith and worship;
-
-EQUALITY of status and of opportunity; and to promote among them all
-
-FRATERNITY assuring the dignity of the individual and the ²[unity and integrity of the Nationl;
-
-IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT， ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
-
-
-
-# CHAPTER I
+# CHAPTER 1
 # DEVELOPMENT
 
-# NOTES FOR THE TEACHER
+## NOTES FOR THE TEACHER
 Development has many aspects. The purpose of this chapter is to enable students to understand this idea. They have to understand that people have different perspectives on development and there are ways by which we can arrive at common indicators for development. To do this, we have used situations that they can respond to in an intuitive manner; we have also presented analysis that is more complex and macro in nature.
 
 How can countries or states be compared using some selected development indicators is another question that students would read about in this chapter. Economic development can be measured and income is the most common method for measuring development. However, the income method, though useful, has several weaknesses. Hence, we need newer ways of looking at development using indicators of quality of life and environmental sustainability.
@@ -167,7 +12,7 @@ discussed by bringing the learners closer to their real-life situations.
 
 There are certain terms used in this chapter that would require clarification — Per Capita Income, Literacy Rate, Infant Mortality Rate, Attendance Ratio, Life Expectancy, Gross Enrolment Ratio, and Human Development Index. Though data pertaining to these terms are provided, these would need further explanation. You may also need to clarify the concept of Purchasing Power Parity that is used to calculate per capita income in Table 1.6. It is necessary to keep in mind that these terms are used as an aid to the discussion and not something to be memorised.
 
-# Sources for Information
+## Sources for Information
 
 The data for this chapter is taken from reports published by the Government of India (Economic Survey, Report of the National Family Health Survey and Handbook of Statistics on the Indian Economy), United Nations Development Programme (Human Development Report) and World Bank (World Development Indicators). Many of these reports are being published every year. It may be interesting to look up these reports if they are available in your school library. If not, you may log on to the websites of these institutions (www.budgetindia.nic.in, www.undp.org, www.worldbank.org). Data is also available from the Reserve Bank’s Handbook of Statistics on Indian Economy (available at www.rbi.org).
 
@@ -177,7 +22,7 @@ The idea of development or progress has always been with us. We have aspirations
 ![](images/2d9e31ea76e8fadbf6566a75e75dd0c0621d258979181ea58865fc10d6bed39c.jpg)  
 "Without me they cannot develop.. in this system Icannot develop!"
 
-# WHAT DEVELOPMENT PROMISESDIFFERENT PEOPLE, DIFFERENT GOALS
+## WHAT DEVELOPMENT PROMISESDIFFERENT PEOPLE, DIFFERENT GOALS
 
 L et us try to imagine what development or progress is likely to mean to different persons listed in Table 1.1. What are their aspirations? You will find that some columns are partially filled. Try to complete the table. You can also add any other category of persons.
 
@@ -199,7 +44,7 @@ So, two things are quite clear: one, different persons can have different develo
 
 ![](images/1c02f8d08eb2c12d33538058338d140bc1c2878bb02dc86310ee0b6b0320db03.jpg)
 
-# INCOME AND OTHER GOALS
+## INCOME AND OTHER GOALS
 
 If you go over Table 1.1 again, you will notice one common thing: what people desire are regular work, better wages, and decent price for their crops or other products that they produce. In other words, they want more income.
 
@@ -221,7 +66,7 @@ Similarly, for development, Similarly, development, people look at a mix of goal
 
 Hence, the developmental goals that people have are not only about better income but also about other important things in life.
 
-# LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Why do different persons have different notions of development? Which of the following explanations is more important and why?
 
@@ -236,7 +81,7 @@ Hence, the developmental goals that people have are not only about better income
 3. Give some examples where factors other than income are important aspects of our lives.   
 4. Explain some of the important ideas of the above section in your own words.
 
-# NATIONAL DEVELOPMENT
+## NATIONAL DEVELOPMENT
 
 If, as we have seen above, individuals seek different goals, then their notion of national development is also likely to be different. Discuss among yourselves on what India should do for development.
 
@@ -246,9 +91,9 @@ dif ferent persons could have different as well as conflicting notions of a coun
 
 However, can all the ideas be considered equally important? Or, if there are conflicts how does one decide? What would be a fair and just path for all? We also have to think whether there is a better way of doing things. Would the idea benefit a large number of people or only a small group? National development means thinking about these questions.
 
-# LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
-# Discuss the following situations:
+#### Discuss the following situations:
 
 1. Look at the picture on the right. What should be the developmental goals for such an area?   
 2. Read this newspaper report and answer the questions that follow:
@@ -264,7 +109,7 @@ A multinational company dealing in petroleum and metals had contracted a local c
 
 3. What can be some of the developmental goals for your village, town or locality?
 
-# ACTIVITY 1
+#### ACTIVITY 1
 
 ![](images/d24231061eff9102b2c8f04a180c774cc035d3e8bc71e7f3e7a7aaa26d788e3f.jpg)
 
@@ -272,7 +117,7 @@ If even the idea of what constitutes development can be varied and ting, then ce
 
 you know of any such controversy, try to find out rguments advanced by different You may do so by talking to nt persons or you may find it ewspapers and television.
 
-# HOW TO COMPARE DIFFERENT COUNTRIES OR STATES?
+## HOW TO COMPARE DIFFERENT COUNTRIES OR STATES?
 
 You might ask if development can mean different things, how come some countries are generally called developed and others underdeveloped? Before we come to this, let us consider another question.
 
@@ -290,7 +135,7 @@ However, for comparison between countries, total income is not such an useful me
 
 In World Development Reports, brought out by the World Bank, this criterion is used in classifying countries. Countries with per capita income of US$ 49,300 per annum and above in 2019, are called high income or rich countries and those with per capita income of US$ 2500 or less are called low-income countries. India comes in the category of low middle income countries because its per capita income in 2019 was just $\mathrm { U S } \$ 8$ 6700 per annum. The rich countries, excluding countries of Middle East and certain other small countries, are generally called developed countries.
 
-# Average Income Average Income
+## Average Income Average Income
 
 While ‘averages’ are useful for comparison, they also hide disparities
 
@@ -310,7 +155,7 @@ COUNTRY WITH NO RICH AND NO POOR
 ![](images/e91cf9f33d00cb742b3981dc40f7a2e19beb6c8b969662fa53139d8ed27732a4.jpg)  
 COUNTRY WITH RICH AND POOR
 
-# LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Give three examples where an average is used for comparing situations.   
 2. Why do you think average income is an important criterion for development? Explain.   
@@ -321,7 +166,7 @@ COUNTRY WITH RICH AND POOR
 
 WE MADE THE CHAIRS AND HE TOOK THEM.
 
-# INCOME AND OTHER CRITERIA
+## INCOME AND OTHER CRITERIA
 
 When we looked at individual aspirations and goals, we found that people not only think of better income but also have goals such as security, respect for others, equal treatment, freedom, etc. in mind. Similarly, when we think of a nation or a region, we may, besides average income, think of other equally important attributes.
 
@@ -341,7 +186,7 @@ TABLE 1.4 SOME COMPARATIVE DATA ON HARYANA, KERALA AND BIHAR
 
 Sources : Economic Survey 2020-21, PA 157, National Sample Survey Organisation (Report No. 585),National statistical office, Government of India.
 
-# Explanation of some of the terms used in this table:
+## Explanation of some of the terms used in this table:
 
 Infant Mortality Rate (or IMR) indicates the number of children that die before the age of one year asa proportion of looo live children born in that particular year.
 
@@ -356,7 +201,7 @@ The problem does not end with Infant Mortality Rate. The last column of table 1.
 ![](images/4a19c79d932d1ae2475a4cf45fe3668ae89580d96c8b741d5bf3f6b6615eecb1.jpg)  
 Most babies do not get basic healthcare
 
-# PUBLIC FACILITIES
+## PUBLIC FACILITIES
 
 How is it that the average person in Haryana has more income than the average person in Kerala but lags behind in these crucial areas? The reason is — money in your pocket cannot buy all the goods and services that you may need to live well. So,well. income by itself is not a completely adequate indicator of material goods and services that citizens are able to use. For example, normally, your money cannot buy you a pollution-free environment or ensure that you get unadulterated medicines, unless you can afford to shift to a community that already has all these things. Money may also not be able to protect you from infectious diseases, unless the whole of your community takes preventive steps.
 
@@ -370,7 +215,7 @@ Kerala has a low Infant Mortality Rate because it has adequate provision of basi
 
 some states, the Public Distribution System (PDS) functions well. Health and nutritional status of people of such states is certainly likely to be better.
 
-# LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Look at data in Tables 1.3 and 1.4. Is Haryana ahead of Kerala in literacy rate etc., as it is in terms of per capita income?   
 2. Think of other examples where collective provision of goods and services is cheaper than individual provision.   
@@ -379,7 +224,7 @@ some states, the Public Distribution System (PDS) functions well. Health and nut
 
 ![](images/6d583bdc67d0a46b5f34fefcf09a907f49c58a8b6afc7a1c711a13569e120e1a.jpg)
 
-# ACTIVITY 2
+## ACTIVITY 2
 
 Study Table 1.5 carefully and fill in the blanks in the following paragraphs. For this, you may need to make calculations based on the table.
 
@@ -391,7 +236,7 @@ TABLE 1.5 EDUCATIONAL ACHIEVEMENT OF RURAL POPULATION OF UTTAR PRADESH
 (b) It is clear from the table that $\%$ of rural girls and $- \%$ of rural boys are not attending school. Therefore, illiteracy among children in the age group 10- 14 is as high as _% for rural females and $- \%$ for rural males.   
 (c) This high level of illiteracy among age group, even after more than 70 years of our independence, is most disturbing. In many other states also we are nowhere near realisation of the constitutional goal of free and compulsory education for all children up to the age of 14, which was expected to be achieved by 1960.
 
-# ACTIVITY 3
+## ACTIVITY 3
 
 One way to find out if we are properly nourished is to calculate what nutrition scientists call Body Mass Index (BMI). This is easy to calculate. Let each student in the class find out his or her weight and height. Take the weight of each student in kilograms (kg). Then, take the height by drawing up a scale on the wall and measuring accurately with the head straight. Convert the height recorded in centimeters into meters. Divide the weight in kg by the square of the height. The number you get is called BMI. Then, look at the BMI-for-Age tables given on pages
 
@@ -399,7 +244,7 @@ One way to find out if we are properly nourished is to calculate what nutrition 
 
 ![](images/1992f4cc4034b3cee6a6389668d447439dc5ffc98ee1ea48ab91bd4b9a3b62dd.jpg)
 
-# HUMAN DEVELOPMENT REPORT
+## HUMAN DEVELOPMENT REPORT
 
 Once it is realised that even though the level of income is important, yet it isan inadequate measure of the level of development, we begin to think of other criterion. There could be a long list ofsuch criterionbut thenit would not be so useful. What we need is a small number of the most important things. Health and education indicators, such as the ones we used in comparison of Kerala and Haryana, are among them. Over the past decade orso, healthand education indicators have come to be widely used along with income as a measure of development. For instance, Human Development Report published by UNDP compares countries based on the educational levels of the people, their health status and per capita income. It would be interesting to look at certain relevant data regarding India and its neighbours from Human Development Report 2020.
 
@@ -409,7 +254,7 @@ TABLE 1.6 SOME DATA REGARDING INDIA AND ITS NEIGHBOURS FOR 2019
 
 Source : Human Development Report, 2020, United Nations Development Programme, New York.
 
-# NOTES
+## NOTES
 
 1. HDI stands for Human Development Index. HDI ranks in above table are out of 189 countries in all.   
 2.Life Expectancy at birth denotes,as the name suggests,average expected length oflife ofa person at the time of birth.   
@@ -423,7 +268,7 @@ many new components have been added to the Human Development Report but, by pre-
 
 Do you think there are certain other aspects that should be considered in measuring human development?
 
-# SUSTAINABILITY OF DEVELOPMENT
+## SUSTAINABILITY OF DEVELOPMENT
 
 Suppose for the present that a particular country is quite developed. We would certainly like this level of development to go up further or at least be maintained for future generations. This is obviously desirable. However, since the second half of the twentieth century, a number of scientists have been warning that the present type, and levels, of development are not sustainable.
 
@@ -431,7 +276,7 @@ Suppose for the present that a particular country is quite developed. We would c
 
 LETS UNDERSTAND WHYTHIS IS SO THROUGH THEFOLLOWING EXAMPLE:
 
-# Example 1: Groundwater in India
+## Example 1: Groundwater in India
 
 "Recent evidence suggests that the groundwater is under serious threat of overuse in many parts of the country. About 3oo districts have reported a water level decline of over 4 metres during the past 2O years. Nearly one-third of the country is overusing their groundwater reserves. In another 25 years, 60 per cent of the country would be doing the same if the present way of using this resource continues. Groundwater overuse is particularly found in the agriculturally prosperous regions of Punjab and Western U.P, hard rock plateau areas of central and south India, some coastal areas and the rapidly growing urban settlements."
 
@@ -446,7 +291,7 @@ Non-renewable resources are those which will get exhausted after a few years of 
 
 RUDE OIL THAT WE FOR EXAMPLE, EYTPACT EROM THE EARTH IS A NON-HOWEVER WE RENEWABLE RESOURCE. MAY FIND A SOURCE OF ( OIL L. THAT WE DID EXPLORATIONS NOT KNOW OF EARLIER. BEING UNDERTAKEN ALL THE1IME. ARE
 
-# Example 2: Example 2: Exhaustion of Exhaustion of Natural Resources Natural Resources
+## Example 2: Example 2: Exhaustion of Exhaustion of Natural Resources Natural Resources
 
 Look at the following data for crude oil.
 
@@ -473,7 +318,7 @@ social scientists are working together.
 
 In general, the question of development or progress is perennial. At all times as a member of society and as individuals we need to ask where we want to go, what we wish to become and what our goals are. So the debate on development continues.
 
-# EXERCISES
+## EXERCISES
 
 1. Development of a country can generally be determined by
 
@@ -515,7 +360,7 @@ Source: National Family Health Survey-4, 2015-16, http://rchiips.org
 (i) Compare the nutritional level of people in Kerala and Madhya Pradesh.   
 (ii) Can you guess why around one-fifth of people in the country are undernourished even though it is argued that there is enough food in the country? Describe in your own words.
 
-# ADDITIONAL PROJECT / ACTIVITY
+## ADDITIONAL PROJECT / ACTIVITY
 
 Invite three different speakers to talk to you about the development of your region. Ask them all the questions that come to your mind. Discuss these ideas in groups. Each group should prepare a wall chart, giving reasons about ideas that you agree or do not agree with.
 
@@ -584,7 +429,7 @@ TABLE 2.1 EXAMPLES OF ECONOMIC ACTIVITIES
 
 <table><tr><td>EXAMPLE</td><td>WHAT DOES THIS SHOW?</td></tr><tr><td>Imagine what would happen if farmers refuse to sell sugarcane to a particular sugar mill. The mill will have to shut down.</td><td>This is an example of the secondary or industrial sector being dependent on the primary.</td></tr><tr><td>Imagine what would happen to cotton cultivation if companies decide not to buy from the Indian market and import all cotton they need from other countries. Indian cotton cultivation will become less profitable and the farmers may even go bankrupt, if they cannot quickly switch to other crops. Cotton prices will fall.</td><td></td></tr><tr><td>Farmers buy many goods such as tractors, pumpsets, electricity, pesticides and fertilisers. Imagine what would happen if the price of fertilisers or pumpsets go up. Cost of cultivation of the farmers will rise and their profits will be reduced.</td><td></td></tr><tr><td>People working in industrial and service sectors need food. Imagine what would happen if there is a strike by transporters and lorries refuse to take vegetables, milk, etc. from rural areas. Food will become scarce in urban areas whereas farmers will be unable to sell their products.</td><td></td></tr></table>
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Complete the above table to show how sectors are dependent on each other.   
 2. Explain the difference between primary, secondary and tertiary sectors using examples other than those mentioned in the text.   
@@ -654,7 +499,7 @@ In the past 100 years, there has been a further shift from secondary to tertiary
 
 What is the total production and employment in the three sectors in India? Over the years have there been changes similar to the pattern observed for the developed countries? We shall see in the next section.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What does the history of developed countries indicate about the shifts that have taken place between sectors?   
 2. Correct and arrange the important aspects for calculating GDP from this Jumble.
@@ -667,7 +512,7 @@ To count goods and services we add the numbers that are produced. We count all t
 
 Graph 1 shows the production of goods and services in the three sectors. This is shown for two years, 1973-74 and 2013-14. We have used the data for these two years because the data are comparable and authentic. You can see how the total production has grown over the forty years.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 Answer the following questions by looking at the graph:
 
@@ -729,7 +574,7 @@ This underemployment can also happen in other sectors. For example there are tho
 
 ![](images/bbda13079aab66ec61e6bc3c2ed876391c205af2cb30760cd188f83a79f5cc2c.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Complete the table using the data given in Graphs 2 and 3 and answer the question that follows. Ignore if data are not available for some years.
 
@@ -786,7 +631,7 @@ We must realise that some of the suggestions discussed above would take a long t
 
 Work in about 625 districts of India.Work It is called Mahatma Gandhi Gandhi National Rural Employment Guarantee Act 2005 (MGNREGA 2005). Under MGNREGA 2005, all2005 those who are able to, and are in need of, work in rural areas are guaranteed 100 days of employment in a year by the government. If the government fails in its duty to provide employment, it will give unemployment allowances to the people. The types of work that would in future help to increase the production from land will be given preference under the Act.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Why do you think MGNREGA 2005 is referred to as ‘ Right to work’ ?   
 2. Imagine that you are the village head. In that capacity suggest some activities that you think should be taken up under this Act that would also increase the income of people? Discuss.   
@@ -823,7 +668,7 @@ In contrast, Kamal works in the unorganised sector. The unorganised sector secto
 
 often not regular. There is no provision for overtime, paid leave, holidays, leave due to sickness etc. Employment is not secure. People can be asked to leave without any reason. When there is less work, such as during some seasons, some people may be asked to leave. A lot also depends on the whims of the employer. This sector includes a large number of people who are employed on their own doing small jobs such as selling on the street or doing repair work. Similarly, farmers work on their own and hire labourers as and when they require.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Look at the following examples. Which of these are unorganised sector activities?
 
@@ -1076,7 +921,7 @@ wheat. All he has to do is find a buye for his shoes. Once he has exchange his s
 
 ![](images/aa2467b421b7e63df71b92721cd1af330c18a0a4949d82677c5c60b846fb9510.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. How does the use of money make it easier to exchange things?   
 2. Can you think of some examples of goods / services being exchanged or wages being paid through barter?
@@ -1134,7 +979,7 @@ You must remember the role that the banks play here. But for the banks, there wo
 
 ![](images/2af2dd9f27b1cd846b62546ab174dcdeaa7a78a6e068290c4f13cefdb89d3150.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. M. Salim wants to withdraw Rs 20,000 in cash for making payments. How would he write a cheque to withdraw money?   
 2. Tick the correct answer. After the transaction between Salim and Prem,
@@ -1191,7 +1036,7 @@ In Swapna’s case, the failure of the crop made loan repayment impossible. She 
 
 In one situation credit helps to increase earnings and therefore the person is better off than before. In another situation, because of the
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Fill the following table.
 
@@ -1222,7 +1067,7 @@ Interest rate, collateral and documentation requirement, and the mode of repayme
 
 ![](images/08209eda3dd2a5b3d1d64af0eeea3f70b9dead31f801173f478226b245530a98.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Why do lenders ask for collateral while lending?   
 2. Given that a large number of people in our country are poor, does it in any way affect their capacity to borrow?   
@@ -1260,7 +1105,7 @@ Krishak Cooperative provides loans for the purchase of agricultural implements, 
 
 ![](images/0d11b7ef327e4adfb62db0f1b8687cba01a1b2656250be527c92808ea8dd1fc5.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. List the various sources of credit in Sonpur.
 
@@ -1348,7 +1193,7 @@ Most loans from informal lenders carry a very high interest rate and do little t
 
 Secondly, while formal sector loans need to expand, it is also necessary that everyone receives these loans. At these loans. present, it is the richer households who receive formal credit whereas the poor have to depend on the informal sources. It is important that the formal credit is distributed more equally so that the poor can benefit from the cheaper loans.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What are the differences between formal and informal sources of credit?   
 2. Why should credit at reasonable rates be available for all?   
@@ -1533,7 +1378,7 @@ The products are supplied to the MNCs, which then sell these under their own bra
 
 Thus, we see that there are a variety of ways in which the MNCs are spreading their production and interacting with local producers in various countries across the globe. By setting up partnerships with local companies, by using the local companies for supplies, by closely competing with the local companies or buying them up, MNCs are exerting a strong influence on production at these distant locations. As a result, production in these widely dispersed locations is getting interlinked.interlinked.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 Ford Motors,an American company, is one of the world's largest automobile manufacturers with production spread over 26 countries of the world. Ford Motors came to India in 1995 and spent Rs. 1700 crore to set up a large plant near Chennai. This was done in collaboration with Mahindra and Mahindra, a major Indian manufacturer ofjeeps and trucks. By the year 2017, Ford Motors was selling 88,000 cars in the Indian markets, while another 1,81,000 cars were exported from India to South Africa, Mexico, Brazil and United States of America. The company wants to develop Ford India as a component supplying base for its other plants across the globe.
 
@@ -1578,7 +1423,7 @@ In general, with the opening of trade, goods travel from one market to another. 
 
 Small traders of readymade garments facing stiff competition from both'the MNC brands and imports.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What was the main channel connecting countries in the past? How is it different now?   
 2. Distinguish between foreign trade and foreign investment.   
@@ -1596,7 +1441,7 @@ In the past two to three decades, more and more MNCs have been looking for locat
 
 The result of greater foreign investment and greater foreign trade has been greater integration of production and markets across countries. Globalisation is this process of rapid integration or interconnection between countries.countries. MNCs are playing a major role in the globalisation process. More and more goods and services,and services, investments and technology are moving between countries.countries. Most regions of the world are in closer
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What is the role of MNCs in the globalisation process?   
 2. What are the various ways in which countries can be linked?   
@@ -1641,7 +1486,7 @@ major role in technology Information (or IT in spreading scountries. Let us and 
 
 A news magazine published for London readers is to be designed and printed in Delhi. The text of the magazine is sent through Internet to the Delhi office. The designers in the Delhi office get orders on how to design the magazine from the office in London using telecommunication facilities. The designing is done on a computer. After printing, the magazines are sent by air to London. Even the payment of money for designing and printing from a bank in London to a bank in Delhi is done instantly through the Internet (e-banking)!
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. In the above example, underline the words describing the use of technology in production.   
 2. How is information technology connected with globalisation? Would globalisation have been possible without expansion of IT?
@@ -1662,7 +1507,7 @@ Thus, barriers on foreign trade and foreign investment were removed to a large e
 
 Removing barriers or restrictions set by the government is what is known as liberalisation.known liberalisation. With liberalisation of trade, businesses are allowed to make decisions freely about what they wish to import or export. The government imposes much less restrictions than before and is therefore said to be more liberal.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What do you understand by liberalisation of foreign trade?   
 2. Tax on imports is one type of trade barrier. The government could also place a limit on the number of goods that can be imported. This is known as quotas. Can you explain, using the example of Chinese toys, how quotas can be used as trade barriers? Do you think this should be used? Discuss.
@@ -1689,7 +1534,7 @@ A typical cotton farm in USA consists of thousands of acres owned by ahuge corpo
 
 ![](images/e6c93b3e9d5676d7313e25807e254a1137c2fffd86057e9e6b8ad7a2ea450b30.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Fill in the blanks.
 
@@ -1728,7 +1573,7 @@ which are spreading their operations worldwide.
 
 Globalisation has also created new opportunities for companies providing services, particularly those involving IT. The Indian company producing a magazine for the London based company and call centres are some examples. Besides, a host of services such as data entry, account-ing, administrative tasks, engineering are now being done cheaply in countries such as India and are exported to the developed countries.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. How has competition benefited people in India?   
 2. Should more Indian companies emerge as MNCs? How would it benefit the people in the country?   
@@ -1753,7 +1598,7 @@ Ravi now produces less than half the capacitors that he produced in the year 200
 
 Batteries, capacitors, plastics, toys, tyres, dairy products, and vegetable oil are some examples of industries where the small manufacturers have been hit hard due to competition. Several of the units have shut down rendering many workers jobless. The small industries in India employ the largest number of workers (20 million) in the country, next only to agriculture.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What are the ways in which Ravi’s small production unit was affected by rising competition?   
 2. Should producers such as Ravi stop production because their cost of production is higher compared to producers in other countries? What do you think?   
@@ -1784,7 +1629,7 @@ While this competition among the garment exporters has allowed the MNCs to make 
 
 The conditions of work and the hardships of the workers described above have become common to many industrial units and services in India. Most workers, today, are employed in the unorganised sector. Moreover, increasingly conditions of work in the organised sector have come to resemble the unorganised sector. Workers in the organised sector such as Sushila no longer get the protection and benefits that they enjoyed earlier.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. In what ways has competition affected workers, Indian exporters and foreign MNCs in the garment industry?   
 2. What can be done by each of the following so that the workers can get a fair share of benefits brought by globalisation?
@@ -2027,7 +1872,7 @@ EVERYONE KNOWS TOBACCO KILLS PEOPLE, BUT WHO CAN SAY THAT TOBACCO COMPANIES SHOU
 
 ![](images/8da962b37a329388686b2b9b86b4b7455da1eb3fac4f3047832c91f1b171d626.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What are the various ways by which people may be exploited in the market?   
 2. Think of one example from your experience where you thought that there was some ‘cheating’ in the market. Discuss in the classroom.   
@@ -2049,7 +1894,7 @@ In 1985 United Nations adopted the UN Guidelines for Consumer Protection. This w
 
 Because of all these efforts, the movement succeeded in bringing pressure on business firms as well as government to correct business conduct which may be unfair and against the interests of consumers at large. A major step taken in 1986 by the Indian government was the enactment of the Consumer Protection Act 1986, popularly known as COPRA. You will learn more about COPRA later.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. What could have been the steps taken by consumer groups?   
 2. There may be rules and regulations but they are often not followed. Why? Discuss.
@@ -2070,7 +1915,7 @@ Commission located in New Delhi. The National Commission after looking into the 
 
 Reji’s suffering shows how a hospital, due to negligence by the doctors and staff in giving anaesthesia, crippled a student for life. While using many goods and services, we as consumers, have the right to be protected against the marketing of goods and delivery of services that are hazardous to life and property. Producers need to strictly follow the required safety rules and regulations. There are many goods and services that we purchase that require special attention to safety. For example, pressure cookers have a safety valve which, if it is defective, can cause a serious accident. The manufacturers of the safety valve have to ensure high quality. You also need public or government action to see that this quality is maintained. However, we do find bad quality products in the market because the supervision of these rules is weak and the consumer movement is also not strong enough.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. For the following (you can add to the list) products/services discuss what safety rules should be observed by the producer?   
 (a) LPG cylinder (b) cinema theatre (c) circus (d) medicines (e) edible oil (f) marriage pandal (g) a high-rise building.   
@@ -2092,7 +1937,7 @@ In recent times, the right to information has been expanded to cover various ser
 
 Amritha, an engineering graduate after submitting all the certificates and attending the interview for a job in a government department, did not receive any news of the result. The officials also refused to comply with her queries. She therefore filed an application using the RTI Act saying that it was her right to know the result in a reasonable time so that she could plan her future. She was not only informed about the reasons for delay in the declaration of results but also got her call letter for appointment as she performed well in the interview.
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. When we buy commodities we find that the price charged is sometimes higher or lower than the Maximum Retail Price printed on the pack. Discuss the possible reasons. Should consumer groups do something about this?   
 2. Pick up a few packaged goods that you want to buy and examine the information given. In what ways are they useful? Is there some information that you think should be given on those packaged goods but is not? Discuss.   
@@ -2229,7 +2074,7 @@ Though these organisations develop quality standards for many products,it is not
 
 ![](images/aa6dff4420ab32892e18041d348a468c44990d67b197d0f3481144fea55c14e9.jpg)
 
-## LET’S WORK THESE OUT
+### LET’S WORK THESE OUT
 
 1. Look at the posters and cartoons in this chapter. Think of any particular commodity and the aspects that need to be looked at as a consumer. Design a poster for this.   
 2. Find out the nearest Consumer Disputes Redressal Commission for your area.   
@@ -2390,11 +2235,11 @@ National Family Health Survey 4 (2015-16), Ministry of Health and Family Welfare
 
 Handbook of Statistics on Indian Economy, Reserve Bank of India, Mumbai. Human Development Report, United Nations Development Programme, New York. World Development Indicators, The World Bank, Washington.
 
-# Suggested Pedagogical Processes
+## Suggested Pedagogical Processes
 
-# Learning Outcomes
+## Learning Outcomes
 
-# The learners may be provided with opportunities individually or in groups and encouraged to—
+## The learners may be provided with opportunities individually or in groups and encouraged to—
 
 collect different soil samples from the surroundings; recognise them with the help of their colour, texture, and composition; relate them with the geographical areas of India shown on the map; study the process of formation of these soils.   
 locate them on different types of maps of India such as, political, physical and outline map, wall map, and atlas; list and label places or areas where different agricultural crops, minerals, etc., are produced.   
@@ -2408,7 +2253,7 @@ draw a timeline on significant events of India’s national movement.
 collect the details of major languages of India and the number of persons who speak those languages from the latest reports of Census of India and discuss.   
 read the Indian Constitution and discuss various parts in it.
 
-# The learner—
+## The learner—
 
 recognises and retrieves facts, figures, and narrate, processes, for example,
 
@@ -2498,11 +2343,11 @@ discuss the work done by peer or differently abled persons and the need to coope
 provide illustrative, examples, of conflicts on several issues, such as, river water/dam/land, industry/ forestland and forest dwellers, etc., through textbooks, newspapers, etc. They may be guided to debate these issues in groups and come out with creative solutions.   
 read stories of real life experiences of individuals and communities of the
 
-# illustrates decision making/problem solving skills, for example,
+## illustrates decision making/problem solving skills, for example,
 
 comes out with solutions to issues in one’s own area such as,: (a) problems related to agriculture and transport, (b) generate employment opportunities, improve access to credit for low income families and (c) assesses how certain developments in colonial India were useful for both colonisers as well as nationalists in different fields such as, literature, transportation and industries.
 
-# shows sensitivity and appreciation skills, for example,
+## shows sensitivity and appreciation skills, for example,
 
 	empathises with differently abled and other marginalised sections of the society, such as, forest dwellers, refugees and unorganised sector workers   
 	appreciates political diversity   
@@ -2535,9 +2380,9 @@ Teach and evaluate in different ways, for example, through dramatisation, field 
 y	Highlight all the important phrases and information.   
 y	Pictures may be labelled and captioned.
 
-# FUNDAMENTAL DUTIES
+## FUNDAMENTAL DUTIES
 
-# Fundamental duties: It shall be the duty of every citizen of India-
+## Fundamental duties: It shall be the duty of every citizen of India-
 
 (a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;   
 (b) to cherish and follow the noble ideals which inspired our national struggle for freedom;   
@@ -2551,11 +2396,11 @@ y	Pictures may be labelled and captioned.
 (j) to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;   
 (k) who is a parent or guardian, to provide opportunities for education to his child or, as the case may be ward between the age of six and fourteen years;
 
-# Right of Children to Free and Compulsory Education (RTE) Act, 2009
+## Right of Children to Free and Compulsory Education (RTE) Act, 2009
 
 The RTE Act provides for the right of children to free and Compulsory Education to every child in the age group of 6 – 14 years which came into force from 1st April 2010 in Andhra Pradesh.
 
-# Important provisions of RTE Act
+## Important provisions of RTE Act
 
 • Ensure availability of schools within the reach of the children. •Improve School infrastructure facilities.   
 • Enroll children in the class appropriate to his / her age.   
