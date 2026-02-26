@@ -69,5 +69,5 @@ Output:
 
     return response.json()["response"]
 
-print(parse_query_with_slm("explain the activity 2 from chapter 2"))
+# print(parse_query_with_slm("explain the activity 2 from chapter 2"))
 

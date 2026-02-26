@@ -85,7 +85,7 @@ CONTENT_TYPE_MAP = {
 # ─────────────────────────────────────────────────────────────────────────────
 
 class QueryIntent:
-    """
+        """
     mode:                "reference" | "semantic"
     sub_intent:          "DEFINITION" | "COMPARISON" | "GENERAL"
     item_type:           "activity" | "example" | "exercise" | "figure" | None
