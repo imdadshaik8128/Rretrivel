@@ -38,8 +38,8 @@ log = logging.getLogger(__name__)
 CHUNKS_PATH          = Path("all_chunks.json")
 EMBED_MODEL_NAME     = "all-MiniLM-L6-v2"              # ~80 MB, bi-encoder
 CROSS_ENCODER_NAME   = "cross-encoder/ms-marco-MiniLM-L-6-v2"  # ~80 MB, reranker
-TOP_K                = 2
-BI_ENCODER_RECALL_K  = 5   # bi-encoder fetches this many before cross-encoder reranks
+TOP_K                = 5
+BI_ENCODER_RECALL_K  = 10   # bi-encoder fetches this many before cross-encoder reranks
 MIN_CANDIDATES       = 20    # minimum pool size before semantic ranking
 SCORE_THRESHOLD      = 0.20  # cosine similarity floor — below this we warn
 
@@ -118,27 +118,6 @@ def _normalise_chunk_type(ct: str) -> str:
         return "theory"
     return ct
 
-
-def _normalise_activity_str(v: str) -> str:
-    """
-    Normalise activity/exercise number strings for comparison.
-    
-    Rules:
-      "2"   → "2"      (integer-looking float → strip .0)
-      "2.0" → "2"
-      "1.1" → "1.1"    (true decimal → keep as-is)
-      "2.1" → "2.1"
-    """
-    v = v.strip()
-    try:
-        f = float(v)
-        # If it's a whole number, return without decimal
-        if f == int(f):
-            return str(int(f))
-        else:
-            return str(f)
-    except (ValueError, TypeError):
-        return v
 
 # ══════════════════════════════════════════════════════════════════════════════
 # ChunkStore — loads and indexes all chunks once at startup
@@ -294,12 +273,10 @@ class MetadataFilter:
 
             # Step 4a: Exact activity match — NEVER falls back to semantic
             if pq.activity_number is not None:
-                act_str = _normalise_activity_str(str(pq.activity_number))
+                act_str = str(pq.activity_number)
                 exact = [
                     i for i in candidates
-                    if _normalise_activity_str(
-                        str(self.store.chunks[i].get("activity_number", ""))
-                    ) == act_str
+                    if str(self.store.chunks[i].get("activity_number", "")).strip() == act_str
                 ]
                 if exact:
                     candidates = exact
@@ -313,12 +290,10 @@ class MetadataFilter:
 
             # Step 4b: Exact exercise match — NEVER falls back to semantic
             if pq.exercise_number is not None:
-                ex_str = _normalise_activity_str(str(pq.exercise_number))
+                ex_str = str(pq.exercise_number)
                 exact = [
                     i for i in candidates
-                    if _normalise_activity_str(
-                        str(self.store.chunks[i].get("activity_number", ""))
-                    ) == ex_str
+                    if str(self.store.chunks[i].get("activity_number", "")).strip() == ex_str
                 ]
                 if exact:
                     candidates = exact
