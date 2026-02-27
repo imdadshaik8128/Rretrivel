@@ -9,6 +9,15 @@ Two answer types, each with its own prompt template:
   - "reference" : activity / exercise lookup  → present the content directly
   - "concept"   : topic / concept query       → synthesise + explain across chunks
 
+Conversation memory support:
+  - generate() accepts an optional conversation_context: str parameter.
+  - When present, the context block (built by ConversationMemory.build_context_block())
+    is prepended to both prompt templates so the LLM can answer follow-up questions
+    coherently without hallucinating content outside the retrieved chunks.
+  - Memory context is injected AFTER the system instruction but BEFORE the
+    retrieved chunk content, so the LLM treats it as background, not as
+    authoritative textbook content.
+
 Local LLM via Ollama (offline, no API key needed).
 Install : https://ollama.com  →  ollama pull mistral
 
@@ -38,11 +47,11 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s | %(message)s")
 log = logging.getLogger(__name__)
 
 # ── Constants ──────────────────────────────────────────────────────────────────
-OLLAMA_URL         = "http://localhost:11434/api/generate"
-OLLAMA_MODEL       = "qwen2.5:0.5b-instruct"          # change to llama3, gemma2, etc. as needed
-LLM_TIMEOUT        = 60                 # seconds
-CONFIDENCE_FLOOR   = 0.40               # below this → low_confidence_warning fires
-REFERENCE_CONFIDENCE = 1.0              # exact metadata match is always 1.0
+OLLAMA_URL           = "http://localhost:11434/api/generate"
+OLLAMA_MODEL         = "qwen2.5:0.5b-instruct"   # change to llama3, gemma2, etc. as needed
+LLM_TIMEOUT          = 60                         # seconds
+CONFIDENCE_FLOOR     = 0.40                       # below this → low_confidence_warning fires
+REFERENCE_CONFIDENCE = 1.0                        # exact metadata match is always 1.0
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -95,11 +104,19 @@ class GeneratedAnswer:
 # Prompt templates
 # ══════════════════════════════════════════════════════════════════════════════
 
-def _build_reference_prompt(query: str, chunks: list) -> str:
+def _build_reference_prompt(
+    query:                str,
+    chunks:               list,
+    conversation_context: str = "",
+) -> str:
     """
     Use Case 1 — activity / exercise lookup.
     The LLM presents the content clearly in two versions.
     It does NOT invent or add information not in the chunks.
+
+    conversation_context is injected between the role instruction
+    and the retrieved chunks so the LLM understands prior turns
+    without treating history as authoritative textbook content.
     """
     context_blocks = []
     for i, c in enumerate(chunks, 1):
@@ -109,9 +126,21 @@ def _build_reference_prompt(query: str, chunks: list) -> str:
         )
     context = "\n\n".join(context_blocks)
 
+    # Build optional conversation history section
+    history_section = ""
+    if conversation_context.strip():
+        history_section = f"""
+The student has been in a conversation. Here is what was discussed previously.
+Use this ONLY for context — do NOT use it as a source for textbook content.
+Answer from the retrieved chunks below, not from history.
+
+{conversation_context}
+
+"""
+
     return f"""You are a textbook assistant for school students.
 A student asked: "{query}"
-
+{history_section}
 The following content was retrieved from the textbook. Present it clearly.
 Do NOT add information not present in the chunks below.
 
@@ -130,6 +159,7 @@ The JSON must have EXACTLY these two keys:
 
 "spoken_answer": A plain natural explanation in 3-5 sentences for text-to-speech.
 No bullet points. No markdown symbols. No asterisks. No hashes. Write naturally.
+If this is a follow-up question, acknowledge the connection to the previous topic naturally.
 
 "display_answer_markdown": A markdown response using \\n for newlines. Include:
 - A heading with the activity title and chapter
@@ -143,11 +173,18 @@ Example of correct format:
 Now respond with the JSON for the student query above:"""
 
 
-def _build_concept_prompt(query: str, chunks: list) -> str:
+def _build_concept_prompt(
+    query:                str,
+    chunks:               list,
+    conversation_context: str = "",
+) -> str:
     """
     Use Case 2 — topic / concept query.
     The LLM synthesises across multiple theory + activity chunks.
-    It must cite which chunk each key point came from.
+
+    conversation_context lets the LLM resolve what "it", "this", or
+    "the difference" refers to, using prior turns as background.
+    The LLM is explicitly told not to use history as a textbook source.
     """
     context_blocks = []
     for i, c in enumerate(chunks, 1):
@@ -157,9 +194,21 @@ def _build_concept_prompt(query: str, chunks: list) -> str:
         )
     context = "\n\n".join(context_blocks)
 
+    # Build optional conversation history section
+    history_section = ""
+    if conversation_context.strip():
+        history_section = f"""
+The student has been in a conversation. Here is what was discussed previously.
+Use this ONLY to understand what the student is referring to (e.g. resolving "it" or "the difference").
+Do NOT treat history as textbook content. Always answer from the retrieved chunks below.
+
+{conversation_context}
+
+"""
+
     return f"""You are a textbook assistant for school students.
 A student asked: "{query}"
-
+{history_section}
 Answer using ONLY the textbook content provided below.
 Do NOT use outside knowledge. If the chunks do not contain enough information,
 say so clearly instead of guessing.
@@ -180,6 +229,7 @@ The JSON must have EXACTLY these two keys:
 "spoken_answer": A plain natural explanation in 4-7 sentences for text-to-speech.
 No bullet points. No markdown symbols. No asterisks. No hashes. Write naturally.
 Do NOT say "Chunk 1 says" — explain the concept directly.
+If this is a follow-up question, briefly acknowledge the connection to the prior topic.
 
 "display_answer_markdown": A markdown response using \\n for newlines. Include:
 - A heading with the topic name
@@ -305,14 +355,11 @@ def _repair_json(raw: str) -> str:
     s = s.strip()
 
     # 2. Replace Python-style triple quotes with a placeholder, then fix
-    #    e.g.  """some\ntext"""  →  "some\\ntext"
     def _triple_quote_to_single(m):
         inner = m.group(1)
-        # escape any unescaped double quotes inside
-        inner = inner.replace('\\"', '\x00DQUOTE\x00')  # protect already-escaped
+        inner = inner.replace('\\"', '\x00DQUOTE\x00')
         inner = inner.replace('"', '\\"')
         inner = inner.replace('\x00DQUOTE\x00', '\\"')
-        # escape newlines
         inner = inner.replace('\n', '\\n')
         inner = inner.replace('\r', '')
         return f'"{inner}"'
@@ -320,7 +367,6 @@ def _repair_json(raw: str) -> str:
     s = re.sub(r'"""(.*?)"""', _triple_quote_to_single, s, flags=re.DOTALL)
 
     # 3. Fix unescaped literal newlines inside JSON string values
-    #    Walk character by character to find strings and escape newlines inside them
     result   = []
     in_str   = False
     i        = 0
@@ -336,15 +382,15 @@ def _repair_json(raw: str) -> str:
             in_str = not in_str
             result.append(ch)
         elif ch == '\n' and in_str:
-            result.append('\\n')   # escape the literal newline
+            result.append('\\n')
         elif ch == '\r' and in_str:
-            pass                   # drop carriage returns inside strings
+            pass
         else:
             result.append(ch)
         i += 1
     s = "".join(result)
 
-    # 4. Remove trailing commas before } or ]  (common small model mistake)
+    # 4. Remove trailing commas before } or ]
     s = re.sub(r",\s*([}\]])", r"\1", s)
 
     return s
@@ -353,12 +399,9 @@ def _repair_json(raw: str) -> str:
 def _regex_fallback(raw: str) -> dict:
     """
     Last-resort field extraction using regex when JSON parsing fails entirely.
-    Extracts spoken_answer and display_answer_markdown directly from the raw string.
-    Returns a dict with whatever it can find, or raises ValueError.
     """
     result = {}
 
-    # Try to extract spoken_answer — look for the key and grab until next key or end
     spoken_match = re.search(
         r'"spoken_answer"\s*:\s*"(.*?)(?<!\\)"(?=\s*[,}])',
         raw,
@@ -367,7 +410,6 @@ def _regex_fallback(raw: str) -> dict:
     if spoken_match:
         result["spoken_answer"] = spoken_match.group(1).replace('\\n', '\n')
 
-    # Try to extract display_answer_markdown
     display_match = re.search(
         r'"display_answer_markdown"\s*:\s*"(.*?)(?<!\\)"(?=\s*[,}])',
         raw,
@@ -380,7 +422,6 @@ def _regex_fallback(raw: str) -> dict:
         log.warning("JSON parse failed — recovered both fields via regex fallback.")
         return result
 
-    # Could not recover — give up
     raise ValueError(
         f"Could not parse LLM response as JSON and regex fallback also failed.\n"
         f"Raw response (first 400 chars):\n{raw[:400]}"
@@ -397,7 +438,6 @@ def _parse_llm_json(raw: str) -> dict:
       3. Extract first {...} + repair   — handles leading/trailing junk text
       4. _regex_fallback                — field-level extraction, last resort
     """
-    # Attempt 1: direct parse after stripping fences
     cleaned = re.sub(r"^```(?:json)?\s*", "", raw.strip(), flags=re.IGNORECASE)
     cleaned = re.sub(r"\s*```\s*$", "", cleaned.strip())
     try:
@@ -405,14 +445,12 @@ def _parse_llm_json(raw: str) -> dict:
     except json.JSONDecodeError:
         pass
 
-    # Attempt 2: repair then parse
     try:
         repaired = _repair_json(raw)
         return json.loads(repaired)
     except (json.JSONDecodeError, Exception):
         pass
 
-    # Attempt 3: extract first {...} block, then repair
     match = re.search(r"\{.*\}", cleaned, re.DOTALL)
     if match:
         try:
@@ -421,7 +459,6 @@ def _parse_llm_json(raw: str) -> dict:
         except (json.JSONDecodeError, Exception):
             pass
 
-    # Attempt 4: regex field extraction — never loses the answer content
     return _regex_fallback(raw)
 
 
@@ -433,26 +470,38 @@ class Generator:
     """
     Single entry point for answer generation.
 
-    Usage:
+    Usage (without memory):
         generator = Generator()
-        answer    = generator.generate(retrieved_chunks, raw_query, answer_type)
-        print(json.dumps(answer.to_dict(), indent=2))
+        answer    = generator.generate(retrieved_chunks, raw_query)
+
+    Usage (with memory):
+        memory    = ConversationMemory()
+        generator = Generator()
+        context   = memory.build_context_block()
+        answer    = generator.generate(retrieved_chunks, raw_query,
+                                       conversation_context=context)
     """
 
     def generate(
         self,
-        chunks:      list,          # list[RetrievedChunk] from retriever
-        query:       str,           # raw user query text
-        answer_type: str = "auto",  # "reference" | "concept" | "auto"
+        chunks:               list,          # list[RetrievedChunk] from retriever
+        query:                str,           # raw user query text
+        answer_type:          str = "auto",  # "reference" | "concept" | "auto"
+        conversation_context: str = "",      # from ConversationMemory.build_context_block()
     ) -> GeneratedAnswer:
         """
         Parameters
         ----------
-        chunks      : retrieved chunks from Retriever.retrieve()
-        query       : original user query string
-        answer_type : "reference" for activity/exercise lookups,
-                      "concept" for topic/explanation queries,
-                      "auto" infers from chunk content (recommended)
+        chunks               : retrieved chunks from Retriever.retrieve()
+        query                : original user query string
+        answer_type          : "reference" for activity/exercise lookups,
+                               "concept" for topic/explanation queries,
+                               "auto" infers from chunk content (recommended)
+        conversation_context : optional plain-text block from ConversationMemory.
+                               When provided, it is injected into the LLM prompt
+                               so the model can understand follow-up questions.
+                               Empty string = no memory context (default behaviour,
+                               fully backward-compatible).
 
         Returns
         -------
@@ -466,7 +515,11 @@ class Generator:
         if answer_type == "auto":
             answer_type = self._infer_answer_type(chunks)
 
-        log.info("Generating answer — type=%s, chunks=%d", answer_type, len(chunks))
+        has_context = bool(conversation_context.strip())
+        log.info(
+            "Generating answer — type=%s, chunks=%d, memory_context=%s",
+            answer_type, len(chunks), "yes" if has_context else "no",
+        )
 
         # Build citations from all retrieved chunks
         citations = [
@@ -492,11 +545,15 @@ class Generator:
             )
             log.warning("Low confidence %.3f for query: %s", confidence, query)
 
-        # Select prompt template
+        # Select prompt template — pass conversation_context to both
         if answer_type == "reference":
-            prompt = _build_reference_prompt(query, chunks)
+            prompt = _build_reference_prompt(
+                query, chunks, conversation_context=conversation_context
+            )
         else:
-            prompt = _build_concept_prompt(query, chunks)
+            prompt = _build_concept_prompt(
+                query, chunks, conversation_context=conversation_context
+            )
 
         # Call LLM
         raw_response = _call_ollama(prompt)
@@ -530,16 +587,21 @@ class Generator:
     # ------------------------------------------------------------------
     def generate_safe(
         self,
-        chunks:      list,
-        query:       str,
-        answer_type: str = "auto",
+        chunks:               list,
+        query:                str,
+        answer_type:          str = "auto",
+        conversation_context: str = "",
     ) -> tuple[Optional[GeneratedAnswer], Optional[str]]:
         """
         Non-raising version. Returns (answer, error_message).
         error_message is None on success.
+        Passes conversation_context through to generate().
         """
         try:
-            return self.generate(chunks, query, answer_type), None
+            return self.generate(
+                chunks, query, answer_type,
+                conversation_context=conversation_context,
+            ), None
         except (ConnectionError, TimeoutError, ValueError) as e:
             log.error("Generator error: %s", e)
             return None, str(e)
@@ -593,12 +655,10 @@ if __name__ == "__main__":
     query = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "explain activity 2 from chapter 3 biology"
     print(f"\nQuery: {query!r}\n")
 
-    # 1. Parse
     raw_parse = parse_query_with_slm(query)
     parsed    = _json.loads(raw_parse)
     print("Parsed metadata:", _json.dumps(parsed, indent=2))
 
-    # 2. Retrieve
     retriever = Retriever()
     chunks, ret_err = retriever.retrieve_safe(parsed, query)
 
@@ -608,7 +668,6 @@ if __name__ == "__main__":
 
     print(f"\nRetrieved {len(chunks)} chunks.")
 
-    # 3. Generate
     generator = Generator()
     answer, gen_err = generator.generate_safe(chunks, query)
 
@@ -616,7 +675,6 @@ if __name__ == "__main__":
         print(f"\n⚠  Generation error: {gen_err}")
         sys.exit(1)
 
-    # 4. Print result
     print("\n" + "═" * 60)
     print(_json.dumps(answer.to_dict(), indent=2, ensure_ascii=False))
     print("═" * 60)

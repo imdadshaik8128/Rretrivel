@@ -1,22 +1,22 @@
 """
-Main.py — Textbook Q&A Chat Interface
+main.py — Textbook Q&A Chat Interface
 =======================================
 Run:
-    python Main.py
+    python main.py
+
+Session flow:
+  1. System loads (retriever + generator + TTS + Whisper STT)
+  2. User selects a subject from a numbered menu
+  3. Subject is locked for the session — all queries filtered to that subject
+  4. Each query runs: speech → parse → retrieve → generate → display (markdown) + TTS (spoken)
+  5. Commands: 'switch' to change subject | 'help' | 'exit'
 
 Pipeline per query:
-  1.  memory.enrich_query()            — resolve concept pronouns (before SLM)
-  2.  parse_query_with_slm()           — SLM extracts structured fields
-  3.  sanitize()                       — strip hallucinated fields
-  4.  memory.restore_structured_filters() — hard-restore chapter/activity from memory
-  5.  inject subject                   — session lock override
-  6.  Retriever.retrieve()             — deterministic filter + semantic rerank
-  7.  memory.build_context_block()     — build history for LLM
-  8.  Generator.generate()             — LLM answer with memory context
-  9.  display + speak
-  10. memory.add_turn()                — store turn for future queries
+    Whisper STT  →  query_parser_v2  →  Retriever  →  Generator  →  display_answer + speak()
 
-Commands: switch | memory | clear memory | help | exit
+STT usage:
+    - Press Enter with blank input  → mic opens, speak your query
+    - Type a command directly       → exit / switch / help still work as before
 """
 
 from __future__ import annotations
@@ -25,6 +25,7 @@ import json
 import sys
 import time
 
+# ── Rich terminal renderer ─────────────────────────────────────────────────────
 try:
     from rich.console import Console
     from rich.markdown import Markdown
@@ -36,21 +37,30 @@ except ImportError:
     RICH_AVAILABLE = False
     console = None
 
+# ── TTS ────────────────────────────────────────────────────────────────────────
 try:
     import pyttsx3
     TTS_AVAILABLE = True
 except ImportError:
     TTS_AVAILABLE = False
 
+# ── STT (Whisper) ──────────────────────────────────────────────────────────────
+try:
+    from stt import SpeechInput
+    STT_AVAILABLE = True
+except ImportError:
+    STT_AVAILABLE = False
+
 from query_parser_v2 import parse_query_with_slm
 from retriever import Retriever, AmbiguityError
 from parse_sanitizer import sanitize
 from generator import Generator
-from conversation_memory import ConversationMemory
 
+# ── Constants ──────────────────────────────────────────────────────────────────
 TTS_RATE   = 165
 TTS_VOLUME = 0.9
 
+# Must match subject field values in all_chunks.json exactly
 AVAILABLE_SUBJECTS = [
     "Biology",
     "Economics",
@@ -64,7 +74,7 @@ AVAILABLE_SUBJECTS = [
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# ANSI helpers
+# ANSI colour helpers (fallback when rich is unavailable)
 # ══════════════════════════════════════════════════════════════════════════════
 
 def _c(code: str, text: str) -> str:
@@ -77,6 +87,10 @@ CYAN   = lambda t: _c("36", t)
 RED    = lambda t: _c("31", t)
 DIM    = lambda t: _c("2",  t)
 
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Print helpers
+# ══════════════════════════════════════════════════════════════════════════════
 
 def _print(text: str, style: str = "") -> None:
     if RICH_AVAILABLE:
@@ -100,7 +114,7 @@ def print_banner() -> None:
     banner = """
 ╔══════════════════════════════════════════════════════════════╗
 ║          Textbook Q&A  —  RAG System  (offline)              ║
-║      Retrieval · Generation · Memory · Display · TTS         ║
+║       Retrieval · Generation · Display · TTS · STT           ║
 ╚══════════════════════════════════════════════════════════════╝
 """
     if RICH_AVAILABLE:
@@ -114,6 +128,7 @@ def print_banner() -> None:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def select_subject() -> str:
+    """Numbered menu — returns the chosen subject string."""
     if RICH_AVAILABLE:
         console.print("\n  [bold]Select a subject to study:[/bold]\n")
         for i, subj in enumerate(AVAILABLE_SUBJECTS, 1):
@@ -182,12 +197,30 @@ def speak(engine, text: str) -> None:
 
 
 # ══════════════════════════════════════════════════════════════════════════════
+# STT init
+# ══════════════════════════════════════════════════════════════════════════════
+
+def _init_stt():
+    if not STT_AVAILABLE:
+        return None
+    try:
+        engine = SpeechInput()
+        return engine
+    except Exception as e:
+        _print(f"  ⚠  STT init failed: {e}", style="yellow")
+        return None
+
+
+# ══════════════════════════════════════════════════════════════════════════════
 # Display
 # ══════════════════════════════════════════════════════════════════════════════
 
 def display_answer(answer) -> None:
+    """Render the full GeneratedAnswer — markdown display then spoken panel."""
+
     _rule()
 
+    # Answer type badge
     if RICH_AVAILABLE:
         badge = (
             "[bold green]● REFERENCE LOOKUP[/bold green]"
@@ -198,6 +231,7 @@ def display_answer(answer) -> None:
     else:
         print(f"[ {answer.answer_type.upper()} ]")
 
+    # Low confidence warning
     if answer.low_confidence_warning:
         if RICH_AVAILABLE:
             console.print(Panel(
@@ -208,10 +242,12 @@ def display_answer(answer) -> None:
         else:
             print(YELLOW(f"\n⚠  {answer.low_confidence_warning}"))
 
+    # Confidence bar
     pct = int(answer.confidence * 100)
     bar = "█" * (pct // 5) + "░" * (20 - pct // 5)
     _print(f"  Confidence: [{bar}] {pct}%", style="dim")
 
+    # ── Display answer (markdown) ──────────────────────────────────────────────
     _rule("DISPLAY ANSWER")
     if RICH_AVAILABLE:
         console.print(Markdown(answer.display_answer_markdown))
@@ -222,6 +258,7 @@ def display_answer(answer) -> None:
         plain = re.sub(r"`(.+?)`", r"\1", plain)
         print(plain)
 
+    # ── Citations ──────────────────────────────────────────────────────────────
     if answer.citations:
         _rule("SOURCES")
         for i, c in enumerate(answer.citations, 1):
@@ -240,6 +277,7 @@ def display_answer(answer) -> None:
 
     _print(f"\n  Filter path: {answer.filter_path}", style="dim")
 
+    # ── Spoken answer panel ────────────────────────────────────────────────────
     _rule("SPOKEN ANSWER  (TTS)")
     if RICH_AVAILABLE:
         console.print(Panel(
@@ -253,66 +291,39 @@ def display_answer(answer) -> None:
     _rule()
 
 
-def display_memory_status(memory: ConversationMemory, active_subject: str) -> None:
-    _rule("MEMORY STATUS")
-    if memory.turn_count == 0:
-        _print("  Memory is empty — no prior turns stored.", style="dim")
-        _rule()
-        return
-
-    if RICH_AVAILABLE:
-        console.print(f"  [cyan]Stored turns:[/cyan] {memory.turn_count} / {memory._max_turns}")
-        console.print(f"  [cyan]Active subject:[/cyan] {active_subject}\n")
-        for i, turn in enumerate(memory._turns, 1):
-            console.print(f"  [dim][Turn {i}][/dim] [bold]{turn.raw_query[:60]}[/bold]")
-            if turn.activity_number:
-                console.print(f"          Activity: {turn.activity_number}  Chapter: {turn.chapter_number}")
-            elif turn.chapter_number:
-                console.print(f"          Chapter: {turn.chapter_number}"
-                              + (f" — {turn.chapter_title}" if turn.chapter_title else ""))
-            if turn.topic_keywords:
-                console.print(f"          Keywords: {', '.join(turn.topic_keywords[:4])}")
-    else:
-        print(f"  Stored turns: {memory.turn_count} / {memory._max_turns}")
-        print(f"  Active subject: {active_subject}\n")
-        for i, turn in enumerate(memory._turns, 1):
-            print(f"  [Turn {i}] {turn.raw_query[:60]}")
-            if turn.activity_number:
-                print(f"           Activity: {turn.activity_number}  Chapter: {turn.chapter_number}")
-            elif turn.chapter_number:
-                print(f"           Chapter: {turn.chapter_number}"
-                      + (f" — {turn.chapter_title}" if turn.chapter_title else ""))
-            if turn.topic_keywords:
-                print(f"           Keywords: {', '.join(turn.topic_keywords[:4])}")
-    _rule()
-
-
 def print_help(subject: str) -> None:
     if RICH_AVAILABLE:
         console.print(f"""
   [bold]Commands:[/bold]
-    [cyan]switch[/cyan]        — change subject  (currently: [green]{subject}[/green])
-    [cyan]memory[/cyan]        — show what is stored in conversation memory
-    [cyan]clear memory[/cyan]  — wipe stored conversation turns
-    [cyan]help[/cyan]          — show this message
-    [cyan]exit[/cyan]          — quit
+    [cyan]switch[/cyan]   — change subject  (currently: [green]{subject}[/green])
+    [cyan]help[/cyan]     — show this message
+    [cyan]exit[/cyan]     — quit
+
+  [bold]Input modes:[/bold]
+    Press [cyan]Enter[/cyan] (blank) → mic opens, speak your query
+    Type a query directly  → keyboard input as before
 
   [bold]Example queries:[/bold]
     explain activity 2 from chapter 1
     what is photosynthesis chapter 3
     solve exercise 3.1 chapter 4
-    can you explain it more clearly     ← memory restores activity + chapter
-    explain the activity still more     ← memory restores activity + chapter
-    how is it different from diffusion  ← memory resolves "it" (concept query)
+    how does osmosis work chapter 3
 """)
     else:
         print(f"""
   Commands:
-    switch        — change subject  (currently: {subject})
-    memory        — show conversation memory
-    clear memory  — wipe conversation turns
-    help          — show this message
-    exit          — quit
+    switch   — change subject  (currently: {subject})
+    help     — show this message
+    exit     — quit
+
+  Input modes:
+    Press Enter (blank) → mic opens, speak your query
+    Type a query        → keyboard input as before
+
+  Example queries:
+    explain activity 2 from chapter 1
+    what is photosynthesis chapter 3
+    solve exercise 3.1 chapter 4
 """)
 
 
@@ -325,77 +336,30 @@ def run_pipeline(
     active_subject: str,
     retriever:      Retriever,
     generator:      Generator,
-    memory:         ConversationMemory,
     tts_engine,
 ) -> None:
-    """
-    Steps:
-      1.  memory.enrich_query()                  — concept pronoun resolution
-      2.  parse_query_with_slm(enriched_query)   — SLM structured parse
-      3.  sanitize()                             — drop hallucinated fields
-      4.  memory.restore_structured_filters()    — hard-restore chapter/activity
-      5.  inject subject                         — session lock override
-      6.  retrieve
-      7.  memory.build_context_block()           — history for LLM
-      8.  generate
-      9.  display + speak
-      10. memory.add_turn()
-    """
+    """parse → inject subject → retrieve → generate → display → speak"""
 
-    # ── Step 1: enrich free-text for concept follow-ups ────────────────────────
-    enriched_query = memory.enrich_query(query)
-    if enriched_query != query:
-        if RICH_AVAILABLE:
-            console.print(
-                f"  [dim]↳ Memory enriched text:[/dim] [italic]{enriched_query}[/italic]"
-            )
-        else:
-            print(DIM(f"  ↳ Memory enriched text: {enriched_query}"))
-
-    # ── Step 2: SLM parse ─────────────────────────────────────────────────────
+    # ── Step 1: Parse ──────────────────────────────────────────────────────────
     try:
-        raw_parse   = parse_query_with_slm(enriched_query)
+        raw_parse   = parse_query_with_slm(query)
         parsed_dict = json.loads(raw_parse)
     except Exception as e:
         _print(f"  ✗ Parser error: {e}", style="bold red")
         return
 
-    # Capture topic before sanitize modifies anything
-    slm_topic = parsed_dict.get("topic", "")
+    # Strip hallucinated fields the user never mentioned
+    parsed_dict = sanitize(parsed_dict, query)
 
-    # ── Step 3: Sanitize — strip hallucinated fields ──────────────────────────
-    parsed_dict = sanitize(parsed_dict, enriched_query)
-
-    # ── Step 4: Restore structured filters from memory ────────────────────────
-    # This runs AFTER sanitize so it is a hard override, not SLM re-parsing.
-    # Only fires for follow-up queries where chapter/activity was zeroed out.
-    parsed_dict, memory_restored = memory.restore_structured_filters(
-        parsed_dict, raw_query=query      # use RAW query for trigger detection
-    )
-    if memory_restored:
-        if RICH_AVAILABLE:
-            console.print(
-                f"  [dim]↳ Memory restored:[/dim] "
-                f"chapter={parsed_dict.get('chapter_number')}  "
-                f"activity={parsed_dict.get('activity_number')}"
-            )
-        else:
-            print(DIM(
-                f"  ↳ Memory restored: "
-                f"chapter={parsed_dict.get('chapter_number')}  "
-                f"activity={parsed_dict.get('activity_number')}"
-            ))
-
-    # ── Step 5: Inject session subject — always hard override ─────────────────
+    # Inject session subject — hard override
     parsed_dict["subject"] = active_subject
     _print(f"  ↳ Parsed: {json.dumps(parsed_dict)}", style="dim")
     print()
 
-    # ── Step 6: Retrieve ───────────────────────────────────────────────────────
+    # ── Step 2: Retrieve ───────────────────────────────────────────────────────
     _print("  Retrieving …", style="dim")
     t0 = time.perf_counter()
-    # Pass enriched_query for semantic ranking — has better signal than raw
-    chunks, ret_err = retriever.retrieve_safe(parsed_dict, enriched_query)
+    chunks, ret_err = retriever.retrieve_safe(parsed_dict, query)
     retrieval_ms = int((time.perf_counter() - t0) * 1000)
 
     if ret_err:
@@ -411,22 +375,10 @@ def run_pipeline(
 
     _print(f"  ✓ Retrieved {len(chunks)} chunks in {retrieval_ms}ms", style="dim green")
 
-    # ── Step 7: Build LLM context from memory ─────────────────────────────────
-    conversation_context = memory.build_context_block()
-    if conversation_context:
-        _print(
-            f"  ↳ Memory context: {memory.turn_count} prior turn(s) injected into prompt.",
-            style="dim",
-        )
-
-    # ── Step 8: Generate ───────────────────────────────────────────────────────
+    # ── Step 3: Generate ───────────────────────────────────────────────────────
     _print("  Generating answer via Ollama …", style="dim")
     t1 = time.perf_counter()
-    answer, gen_err = generator.generate_safe(
-        chunks,
-        query,                               # original query shown to LLM
-        conversation_context=conversation_context,
-    )
+    answer, gen_err = generator.generate_safe(chunks, query)
     generation_ms = int((time.perf_counter() - t1) * 1000)
 
     if gen_err:
@@ -445,23 +397,10 @@ def run_pipeline(
         style="dim green",
     )
 
-    # ── Step 9: Display + Speak ────────────────────────────────────────────────
+    # ── Step 4: Display (markdown) ─────────────────────────────────────────────
+    # ── Step 5: Speak  (TTS)       ─────────────────────────────────────────────
     display_answer(answer)
     speak(tts_engine, answer.spoken_answer)
-
-    # ── Step 10: Store turn in memory ─────────────────────────────────────────
-    memory.add_turn(
-        raw_query      = query,
-        enriched_query = enriched_query,
-        parsed_topic   = slm_topic,
-        chunks         = chunks,
-        answer         = answer,
-        subject        = active_subject,
-    )
-    _print(
-        f"  ↳ Memory: turn {memory.turn_count}/{memory._max_turns} stored.",
-        style="dim",
-    )
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -471,14 +410,14 @@ def run_pipeline(
 def main() -> None:
     print_banner()
 
+    # ── Load everything once ───────────────────────────────────────────────────
     _print("⏳  Loading retriever (bi-encoder + cross-encoder) …\n", style="yellow")
     retriever = Retriever()
 
-    generator  = Generator()
-    memory     = ConversationMemory(max_turns=5)
-    _print("🧠  Conversation memory initialised (last 5 turns).", style="dim green")
+    generator = Generator()
 
-    _print("🔊  Initialising TTS …", style="dim")
+    # ── TTS ────────────────────────────────────────────────────────────────────
+    _print("🔊  Initialising TTS (pyttsx3) …", style="dim")
     tts_engine = _init_tts()
 
     if not TTS_AVAILABLE:
@@ -489,8 +428,26 @@ def main() -> None:
             style="yellow",
         )
 
+    # ── STT ────────────────────────────────────────────────────────────────────
+    _print("🎤  Initialising Whisper STT …", style="dim")
+    if STT_AVAILABLE:
+        try:
+            stt_engine = SpeechInput()
+            _print("  ✓  Whisper STT ready (whisper/tiny).\n", style="dim green")
+        except Exception as e:
+            stt_engine = None
+            _print(f"  ⚠  STT init failed: {e}\n", style="yellow")
+    else:
+        stt_engine = None
+        _print(
+            "  ⚠  Whisper not installed — falling back to keyboard input.\n"
+            "     Run: pip install openai-whisper sounddevice numpy\n",
+            style="yellow",
+        )
+
     _print("\n✓  System ready.\n", style="bold green")
 
+    # ── Subject selection (runs once, re-runs on 'switch') ─────────────────────
     active_subject = select_subject()
 
     if RICH_AVAILABLE:
@@ -503,16 +460,49 @@ def main() -> None:
 
     _rule()
 
+    # ── Chat loop ──────────────────────────────────────────────────────────────
     while True:
         try:
-            if RICH_AVAILABLE:
-                console.print(
-                    f"\n[bold cyan][{active_subject}] You ›[/bold cyan] ", end=""
-                )
-                query = input()
+            if stt_engine is not None:
+                # STT mode — blank Enter triggers mic, typed text is a command
+                if RICH_AVAILABLE:
+                    console.print(
+                        f"\n[bold cyan][{active_subject}] 🎤  Press Enter to speak"
+                        f" or type a command ›[/bold cyan] ",
+                        end="",
+                    )
+                else:
+                    print(
+                        BOLD(f"\n[{active_subject}] 🎤  Press Enter to speak"
+                             f" or type a command › "),
+                        end="",
+                        flush=True,
+                    )
+
+                typed = input().strip()
+
+                if typed:
+                    # User typed something — treat as direct command/query
+                    query = typed
+                else:
+                    # Blank Enter — open mic
+                    spoken = stt_engine.listen()
+                    if not spoken:
+                        _print("  (nothing heard — try again)", style="yellow")
+                        continue
+                    query = spoken
+
             else:
-                query = input(BOLD(f"\n[{active_subject}] You › "))
-            query = query.strip()
+                # Keyboard-only fallback (Whisper not installed)
+                if RICH_AVAILABLE:
+                    console.print(
+                        f"\n[bold cyan][{active_subject}] You ›[/bold cyan] ", end=""
+                    )
+                    query = input()
+                else:
+                    query = input(BOLD(f"\n[{active_subject}] You › "))
+                query = query.strip()
+
         except (EOFError, KeyboardInterrupt):
             print()
             _print("\n  Goodbye!\n", style="bold cyan")
@@ -530,12 +520,6 @@ def main() -> None:
         if cmd == "switch":
             print()
             active_subject = select_subject()
-            if memory.turn_count > 0:
-                _print(
-                    f"  ↳ Memory retained ({memory.turn_count} turns). "
-                    f"Subject lock changed to '{active_subject}'.",
-                    style="dim yellow",
-                )
             _rule()
             continue
 
@@ -543,25 +527,8 @@ def main() -> None:
             print_help(active_subject)
             continue
 
-        if cmd == "memory":
-            display_memory_status(memory, active_subject)
-            continue
-
-        if cmd in {"clear memory", "clear"}:
-            memory.clear()
-            _print("  ✓ Conversation memory cleared.", style="green")
-            _rule()
-            continue
-
         print()
-        run_pipeline(
-            query          = query,
-            active_subject = active_subject,
-            retriever      = retriever,
-            generator      = generator,
-            memory         = memory,
-            tts_engine     = tts_engine,
-        )
+        run_pipeline(query, active_subject, retriever, generator, tts_engine)
 
 
 if __name__ == "__main__":
